@@ -212,7 +212,6 @@
 
 ## chrome 
 
-- [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [themerdev/themer](https://github.com/themerdev/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
 - [tenox7/wrp](https://github.com/tenox7/wrp) - Web Rendering Proxy: Use vintage, historical, legacy browsers on modern web
 
@@ -376,7 +375,6 @@
 ## firefox 
 
 - [piroor/treestyletab](https://github.com/piroor/treestyletab) - Tree Style Tab, Show tabs like a tree.
-- [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 
 ## flutter 
 
@@ -504,7 +502,6 @@
 
 - [flet-dev/flet](https://github.com/flet-dev/flet) - Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by MapsWithMe (MapsMe) founde
-- [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 
 ## iot 
 
@@ -579,7 +576,6 @@
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [neagix/wii-linux-ngx](https://github.com/neagix/wii-linux-ngx) - Modern Linux for Wii/GameCube
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
-- [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [xmake-io/xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
 - [anbox/anbox](https://github.com/anbox/anbox) - Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system
@@ -608,7 +604,6 @@
 - [tangobattle/tango](https://github.com/tangobattle/tango) - Play Mega Man Battle Network online with rollback netcode!
 - [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
-- [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 
 ## markdown 
 
@@ -779,7 +774,6 @@
 - [brownhci/WebGazer](https://github.com/brownhci/WebGazer) - WebGazer.js: Scalable Webcam EyeTracking Using User Interactions
 - [JibbSmart/JoyShockMapper](https://github.com/JibbSmart/JoyShockMapper) - A tool for PC gamers to play games with DualShock 4, DualSense, JoyCon, and Switch Pro Controllers. Gyro aiming, flick stick.
 - [formatc1702/WireViz](https://github.com/formatc1702/WireViz) - Easily document cables and wiring harnesses
-- [m-labs/nmigen](https://github.com/m-labs/nmigen) - A refreshed Python toolbox for building complex digital hardware. See https://gitlab.com/nmigen/nmigen
 - [YosysHQ/fpga-toolchain](https://github.com/YosysHQ/fpga-toolchain) - Multi-platform nightly builds of open source FPGA tools
 - [carlini/printf-tac-toe](https://github.com/carlini/printf-tac-toe) - tic-tac-toe in a single call to printf
 - [flotwig/the-one-cert](https://github.com/flotwig/the-one-cert) - One cert to rule them all: SSL cert that is valid for any and all domains + all levels of subdomains
@@ -1121,7 +1115,6 @@
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [File-New-Project/EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - EarTrumpet - Volume Control for Windows
-- [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [Taiko2k/TauonMusicBox](https://github.com/Taiko2k/TauonMusicBox) - The desktop music player from the future! :city_sunset:
 
