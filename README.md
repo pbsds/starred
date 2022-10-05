@@ -183,7 +183,6 @@
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
 - [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
-- [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
 - [hashicorp/hcl](https://github.com/hashicorp/hcl) - HCL is the HashiCorp configuration language.
 - [tenox7/wrp](https://github.com/tenox7/wrp) - Web Rendering Proxy: Use vintage, historical, legacy browsers on modern web
@@ -377,7 +376,6 @@
 - [berenm/steam-cli](https://github.com/berenm/steam-cli) - Command-line interface to install and execute Steam games
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [formatc1702/WireViz](https://github.com/formatc1702/WireViz) - Easily document cables and wiring harnesses
-- [m-labs/nmigen](https://github.com/m-labs/nmigen) - A refreshed Python toolbox for building complex digital hardware. See https://gitlab.com/nmigen/nmigen
 - [pyos/dg](https://github.com/pyos/dg) - A programming language for the CPython VM.
 - [timothycrosley/portray](https://github.com/timothycrosley/portray) - Your Project with Great Documentation.
 - [hauntsaninja/pyp](https://github.com/hauntsaninja/pyp) - Easily run Python at the shell! Magical, but never mysterious.
