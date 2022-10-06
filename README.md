@@ -44,7 +44,8 @@
 
 ## C 
 
-- [libsql/libsql](https://github.com/libsql/libsql) - LibSQL is a fork of SQLite that is both Open Source, and Open Contributions.
+- [libsql/libsql](https://github.com/libsql/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
+- [ImVexed/muon](https://github.com/ImVexed/muon) - GPU based Electron on a diet
 - [pikasTech/pikascript](https://github.com/pikasTech/pikascript) - Ultralightweight Python engine that can run with 4KB of RAM and 32KB of Flash (such as STM32G030C8 and STM32F103C8), and is very easy to deploy and expand.
 - [PlayPulseCom/flutter_wlroots](https://github.com/PlayPulseCom/flutter_wlroots) - Wayland compositor library for Flutter. Built with Wlroots.
 - [TheDarkBug/uwufetch](https://github.com/TheDarkBug/uwufetch) - A meme system info tool for Linux, based on nyan/uwu trend on r/linuxmasterrace.
@@ -172,7 +173,6 @@
 
 ## Go 
 
-- [ImVexed/muon](https://github.com/ImVexed/muon) - GPU based Electron on a diet
 - [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
 - [mrtazz/checkmake](https://github.com/mrtazz/checkmake) - experimental linter/analyzer for Makefiles
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
