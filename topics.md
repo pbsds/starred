@@ -83,6 +83,7 @@
 - [neural-network](#neural-network)
 - [nodejs](#nodejs)
 - [nosql](#nosql)
+- [numpy](#numpy)
 - [objective-c](#objective-c)
 - [opengl](#opengl)
 - [operating-system](#operating-system)
@@ -637,6 +638,11 @@
 ## nosql 
 
 - [cube2222/octosql](https://github.com/cube2222/octosql) - OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
+
+## numpy 
+
+- [rougier/scientific-visualization-book](https://github.com/rougier/scientific-visualization-book) - An open access book on scientific visualization using python and matplotlib
+- [glumpy/glumpy](https://github.com/glumpy/glumpy) - Python+Numpy+OpenGL: fast, scalable and beautiful scientific visualization
 
 ## objective-c 
 
