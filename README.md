@@ -104,6 +104,7 @@
 
 ## C++ 
 
+- [gatecat/nextpnr-xilinx](https://github.com/gatecat/nextpnr-xilinx) - Experimental flows using nextpnr for Xilinx devices
 - [jzimmerman/langcc](https://github.com/jzimmerman/langcc) - langcc: A Next-Generation Compiler Compiler
 - [halide/Halide](https://github.com/halide/Halide) - a language for fast, portable data-parallel computation
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
@@ -201,6 +202,7 @@
 
 ## Haskell 
 
+- [maralorn/nix-output-monitor](https://github.com/maralorn/nix-output-monitor) - Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building.
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
 - [tbarnetlamb/hyphen](https://github.com/tbarnetlamb/hyphen) - hyphen - access Haskell modules from Python
 
