@@ -83,6 +83,7 @@
 - [neural-network](#neural-network)
 - [nodejs](#nodejs)
 - [nosql](#nosql)
+- [npm](#npm)
 - [numpy](#numpy)
 - [objective-c](#objective-c)
 - [opengl](#opengl)
@@ -641,6 +642,10 @@
 ## nosql 
 
 - [cube2222/octosql](https://github.com/cube2222/octosql) - OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
+
+## npm 
+
+- [serokell/nix-npm-buildpackage](https://github.com/serokell/nix-npm-buildpackage) - Build nix packages that use npm/yarn
 
 ## numpy 
 
