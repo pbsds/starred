@@ -670,6 +670,7 @@
 
 ## others 
 
+- [zmike/vkoverhead](https://github.com/zmike/vkoverhead) - evaluating cpu overhead of vulkan drivers
 - [gatecat/nextpnr-xilinx](https://github.com/gatecat/nextpnr-xilinx) - Experimental flows using nextpnr for Xilinx devices
 - [zhaofengli/nixos-riscv64](https://github.com/zhaofengli/nixos-riscv64) - NixOS on the HiFive Unmatched
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
