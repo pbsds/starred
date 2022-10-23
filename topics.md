@@ -130,6 +130,7 @@
 
 ## 3d 
 
+- [matrix-org/thirdroom](https://github.com/matrix-org/thirdroom) - Open, decentralised, immersive worlds built on Matrix
 - [navis-org/skeletor](https://github.com/navis-org/skeletor) - 3D skeleton extraction from meshes.
 - [f3d-app/f3d](https://github.com/f3d-app/f3d) - A fast and minimalist 3D viewer.
 - [ssloy/tinyraytracer](https://github.com/ssloy/tinyraytracer) - A brief computer graphics / rendering course
@@ -398,6 +399,7 @@
 
 ## game-development 
 
+- [matrix-org/thirdroom](https://github.com/matrix-org/thirdroom) - Open, decentralised, immersive worlds built on Matrix
 - [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen.
 - [mapeditor/tiled](https://github.com/mapeditor/tiled) - Flexible level editor
 
@@ -520,6 +522,7 @@
 
 ## javascript 
 
+- [matrix-org/thirdroom](https://github.com/matrix-org/thirdroom) - Open, decentralised, immersive worlds built on Matrix
 - [jaames/iro.js](https://github.com/jaames/iro.js) - 🎨  Modular color picker widget for JavaScript, with support for a bunch of color formats
 - [ninjadev/nin](https://github.com/ninjadev/nin) - nin is ninjatool
 - [piroor/treestyletab](https://github.com/piroor/treestyletab) - Tree Style Tab, Show tabs like a tree.
@@ -684,7 +687,6 @@
 - [PlayPulseCom/flutter_wlroots](https://github.com/PlayPulseCom/flutter_wlroots) - Wayland compositor library for Flutter. Built with Wlroots.
 - [xi-editor/xi-editor](https://github.com/xi-editor/xi-editor) - A modern editor with a backend written in Rust.
 - [freol35241/pytest-pinned](https://github.com/freol35241/pytest-pinned) - A simple pytest plugin for pinning tests
-- [matrix-org/thirdroom](https://github.com/matrix-org/thirdroom) - 
 - [mrtazz/checkmake](https://github.com/mrtazz/checkmake) - experimental linter/analyzer for Makefiles
 - [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
 - [zackradisic/aussieplusplus](https://github.com/zackradisic/aussieplusplus) - Programming language from down under
@@ -1092,6 +1094,7 @@
 
 ## typescript 
 
+- [matrix-org/thirdroom](https://github.com/matrix-org/thirdroom) - Open, decentralised, immersive worlds built on Matrix
 - [comby-tools/comby](https://github.com/comby-tools/comby) - A code rewrite tool for structural search and replace that supports ~every language.
 
 ## ubuntu 
