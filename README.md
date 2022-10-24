@@ -19,6 +19,7 @@
 - [Haxe](#haxe)
 - [Java](#java)
 - [JavaScript](#javascript)
+- [Julia](#julia)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Lua](#lua)
 - [NASL](#nasl)
@@ -175,6 +176,7 @@
 
 ## Go 
 
+- [nlewo/nix2container](https://github.com/nlewo/nix2container) - An archive-less dockerTools.buildImage implementation
 - [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
 - [mrtazz/checkmake](https://github.com/mrtazz/checkmake) - experimental linter/analyzer for Makefiles
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
@@ -258,6 +260,10 @@
 - [aemkei/jsfuck](https://github.com/aemkei/jsfuck) - Write any JavaScript with 6 Characters: []()!+
 - [lindell/DISCO](https://github.com/lindell/DISCO) - The most annoying website?
 - [jornane/node-snip](https://github.com/jornane/node-snip) - SNI Proxy implemented in Node.JS
+
+## Julia 
+
+- [probcomp/PClean](https://github.com/probcomp/PClean) - A domain-specific probabilistic programming language for scalable Bayesian data cleaning
 
 ## Jupyter Notebook 
 
