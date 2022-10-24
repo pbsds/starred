@@ -344,6 +344,7 @@
 
 ## docker 
 
+- [nlewo/nix2container](https://github.com/nlewo/nix2container) - An archive-less dockerTools.buildImage implementation
 - [tazjin/nixery](https://github.com/tazjin/nixery) - Container registry which transparently builds images using the Nix package manager. Canonical repository is https://cs.tvl.fyi/depot/-/tree/tools/nixery
 - [utensils/docker-opengl](https://github.com/utensils/docker-opengl) - Multi-Arch Docker - Mesa 3D OpenGL Software Rendering (Gallium) - LLVMpipe, and OpenSWR Drivers
 - [joaomilho/Enterprise](https://github.com/joaomilho/Enterprise) - 🦄 The Enterprise™ programming language
@@ -673,6 +674,7 @@
 
 ## others 
 
+- [probcomp/PClean](https://github.com/probcomp/PClean) - A domain-specific probabilistic programming language for scalable Bayesian data cleaning
 - [zmike/vkoverhead](https://github.com/zmike/vkoverhead) - evaluating cpu overhead of vulkan drivers
 - [gatecat/nextpnr-xilinx](https://github.com/gatecat/nextpnr-xilinx) - Experimental flows using nextpnr for Xilinx devices
 - [zhaofengli/nixos-riscv64](https://github.com/zhaofengli/nixos-riscv64) - NixOS on the HiFive Unmatched
