@@ -598,6 +598,7 @@
 
 ## lua 
 
+- [jgm/djot](https://github.com/jgm/djot) - A light markup language
 - [pikasTech/pikascript](https://github.com/pikasTech/pikascript) - Ultralightweight Python engine that can run with 4KB of RAM and 32KB of Flash (such as STM32G030C8 and STM32F103C8), and is very easy to deploy and expand.
 - [xmake-io/xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
 
@@ -617,6 +618,7 @@
 
 ## markdown 
 
+- [jgm/djot](https://github.com/jgm/djot) - A light markup language
 - [Titor8115/mandown](https://github.com/Titor8115/mandown) - man-page inspired Markdown viewer
 
 ## mobile 
