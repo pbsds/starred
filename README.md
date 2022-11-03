@@ -272,6 +272,7 @@
 
 ## Lua 
 
+- [jgm/djot](https://github.com/jgm/djot) - A light markup language
 - [ssleert/mide](https://github.com/ssleert/mide) - minimalistic ide in top of micro text editor
 - [jaames/playnote-studio](https://github.com/jaames/playnote-studio) - An unofficial Flipnote Studio animation player for the Playdate console!
 - [nagadomi/waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art
