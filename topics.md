@@ -133,7 +133,7 @@
 
 - [matrix-org/thirdroom](https://github.com/matrix-org/thirdroom) - Open, decentralised, immersive worlds built on Matrix
 - [navis-org/skeletor](https://github.com/navis-org/skeletor) - 3D skeleton extraction from meshes.
-- [f3d-app/f3d](https://github.com/f3d-app/f3d) - A fast and minimalist 3D viewer.
+- [f3d-app/f3d](https://github.com/f3d-app/f3d) - Fast and minimalist 3D viewer.
 - [ssloy/tinyraytracer](https://github.com/ssloy/tinyraytracer) - A brief computer graphics / rendering course
 
 ## ai 
