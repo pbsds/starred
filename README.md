@@ -22,7 +22,6 @@
 - [Julia](#julia)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Lua](#lua)
-- [Makefile](#makefile)
 - [NASL](#nasl)
 - [Nix](#nix)
 - [OCaml](#ocaml)
@@ -127,7 +126,7 @@
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [facebookresearch/faiss](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors.
 - [pmp-library/pmp-library](https://github.com/pmp-library/pmp-library) - The Polygon Mesh Processing Library
-- [f3d-app/f3d](https://github.com/f3d-app/f3d) - A fast and minimalist 3D viewer.
+- [f3d-app/f3d](https://github.com/f3d-app/f3d) - Fast and minimalist 3D viewer.
 - [sylefeb/Silice](https://github.com/sylefeb/Silice) - Silice is an open source language that simplifies prototyping and writing algorithms on FPGA architectures.
 - [ggerganov/imtui](https://github.com/ggerganov/imtui) - ImTui: Immediate Mode Text-based User Interface C++ Library
 - [asmuth/clip](https://github.com/asmuth/clip) - Create charts from the command line
@@ -278,10 +277,6 @@
 - [ssleert/mide](https://github.com/ssleert/mide) - minimalistic ide in top of micro text editor
 - [jaames/playnote-studio](https://github.com/jaames/playnote-studio) - An unofficial Flipnote Studio animation player for the Playdate console!
 - [nagadomi/waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art
-
-## Makefile 
-
-- [redox-os/redox](https://github.com/redox-os/redox) - Mirror of https://gitlab.redox-os.org/redox-os/redox
 
 ## NASL 
 
@@ -497,6 +492,7 @@
 - [marcan/takeover.sh](https://github.com/marcan/takeover.sh) - Wipe and reinstall a running Linux system via SSH, without rebooting. You know you want to.
 - [aurora/rmate](https://github.com/aurora/rmate) - Remote TextMate 2 implemented as shell script
 - [afterlogic/webmail-lite-8](https://github.com/afterlogic/webmail-lite-8) - Open-source webmail script for existing IMAP server
+- [redox-os/redox](https://github.com/redox-os/redox) - Mirror of https://gitlab.redox-os.org/redox-os/redox
 - [fyrkat/zfsroot](https://github.com/fyrkat/zfsroot) - 
 - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
 
