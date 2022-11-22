@@ -338,6 +338,7 @@
 
 ## Python 
 
+- [UCL-INGI/INGInious](https://github.com/UCL-INGI/INGInious) - INGInious is a secure and automated exercises assessment platform using your own tests, also providing a pluggable interface with your existing LMS.
 - [lkwq007/stablediffusion-infinity](https://github.com/lkwq007/stablediffusion-infinity) - Outpainting with Stable Diffusion on an infinite canvas
 - [Retraze/ndc-techtown-2022](https://github.com/Retraze/ndc-techtown-2022) - 
 - [freol35241/pytest-pinned](https://github.com/freol35241/pytest-pinned) - A simple pytest plugin for pinning tests
@@ -437,6 +438,7 @@
 
 ## Rust 
 
+- [cucapra/calyx](https://github.com/cucapra/calyx) - Intermediate Language (IL) for Hardware Accelerator Generators
 - [xi-editor/xi-editor](https://github.com/xi-editor/xi-editor) - A modern editor with a backend written in Rust.
 - [erg-lang/erg](https://github.com/erg-lang/erg) - A statically typed language that can deeply improve the Python ecosystem
 - [roc-lang/roc](https://github.com/roc-lang/roc) - Roc is a language for making delightful software.
