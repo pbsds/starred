@@ -312,7 +312,6 @@
 - [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen.
 - [danluu/post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems. Sorry for the delay in merging PRs!
 - [goabstract/Marketing-for-Engineers](https://github.com/goabstract/Marketing-for-Engineers) - A curated collection of marketing articles & tools to grow your product.
-- [Digilent/digilent-xdc](https://github.com/Digilent/digilent-xdc) - A collection of Master XDC files for Digilent FPGA and Zynq boards.
 - [jornane/dotfiles](https://github.com/jornane/dotfiles) - Moved to SourceHut https://git.sr.ht/~jornane/dotfiles
 - [game-icons/icons](https://github.com/game-icons/icons) - All SVG icons available on http://game-icons.net
 - [Flipnote-Collective/flipnote-studio-docs](https://github.com/Flipnote-Collective/flipnote-studio-docs) - Documentation for Flipnote Studio (DSiWare)
@@ -434,6 +433,7 @@
 
 ## Ruby 
 
+- [kellerben/dudle](https://github.com/kellerben/dudle) - Online event coordination and survey application
 - [jordansissel/fpm](https://github.com/jordansissel/fpm) - Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.
 
 ## Rust 
@@ -511,6 +511,7 @@
 
 ## Tcl 
 
+- [Digilent/digilent-xdc](https://github.com/Digilent/digilent-xdc) - A collection of Master XDC files for Digilent FPGA and Zynq boards.
 - [cambridgehackers/fpgamake](https://github.com/cambridgehackers/fpgamake) - Generates Makefiles to synthesize, place, and route verilog using Vivado
 
 ## TeX 
