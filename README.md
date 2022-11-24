@@ -286,6 +286,7 @@
 
 ## Nim 
 
+- [yglukhov/nimpy](https://github.com/yglukhov/nimpy) - Nim - Python bridge
 - [enthus1ast/nimja](https://github.com/enthus1ast/nimja) - typed and compiled template engine inspired by jinja2, twig and onionhammer/nim-templates for Nim.
 
 ## Nix 
