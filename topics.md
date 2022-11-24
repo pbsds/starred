@@ -697,6 +697,7 @@
 
 ## others 
 
+- [yglukhov/nimpy](https://github.com/yglukhov/nimpy) - Nim - Python bridge
 - [kellerben/dudle](https://github.com/kellerben/dudle) - Online event coordination and survey application
 - [probcomp/PClean](https://github.com/probcomp/PClean) - A domain-specific probabilistic programming language for scalable Bayesian data cleaning
 - [zmike/vkoverhead](https://github.com/zmike/vkoverhead) - evaluating cpu overhead of vulkan drivers
