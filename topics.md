@@ -29,6 +29,7 @@
 - [csharp](#csharp)
 - [css](#css)
 - [cybersecurity](#cybersecurity)
+- [dart](#dart)
 - [data](#data)
 - [data-analysis](#data-analysis)
 - [data-science](#data-science)
@@ -304,6 +305,10 @@
 
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 
+## dart 
+
+- [Merrit/nyrna](https://github.com/Merrit/nyrna) - Suspend games and applications.
+
 ## data 
 
 - [prql/prql](https://github.com/prql/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
@@ -395,6 +400,7 @@
 ## flutter 
 
 - [flet-dev/flet](https://github.com/flet-dev/flet) - Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.
+- [Merrit/nyrna](https://github.com/Merrit/nyrna) - Suspend games and applications.
 
 ## framework 
 
@@ -423,7 +429,7 @@
 ## games 
 
 - [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen.
-- [Merrit/nyrna](https://github.com/Merrit/nyrna) - Nyrna - Suspend games and applications.
+- [Merrit/nyrna](https://github.com/Merrit/nyrna) - Suspend games and applications.
 
 ## git 
 
@@ -602,7 +608,7 @@
 - [xmake-io/xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
 - [anbox/anbox](https://github.com/anbox/anbox) - Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system
 - [GTFOBins/GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) - GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems
-- [Merrit/nyrna](https://github.com/Merrit/nyrna) - Nyrna - Suspend games and applications.
+- [Merrit/nyrna](https://github.com/Merrit/nyrna) - Suspend games and applications.
 - [berenm/steam-cli](https://github.com/berenm/steam-cli) - Command-line interface to install and execute Steam games
 - [Titor8115/mandown](https://github.com/Titor8115/mandown) - man-page inspired Markdown viewer
 - [Taiko2k/TauonMusicBox](https://github.com/Taiko2k/TauonMusicBox) - The desktop music player from the future! :city_sunset:
