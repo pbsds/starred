@@ -168,7 +168,7 @@
 
 ## Dart 
 
-- [Merrit/nyrna](https://github.com/Merrit/nyrna) - Nyrna - Suspend games and applications.
+- [Merrit/nyrna](https://github.com/Merrit/nyrna) - Suspend games and applications.
 
 ## Dockerfile 
 
