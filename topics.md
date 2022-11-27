@@ -100,6 +100,7 @@
 - [postgresql](#postgresql)
 - [powershell](#powershell)
 - [programming](#programming)
+- [pwa](#pwa)
 - [python](#python)
 - [python3](#python3)
 - [pytorch](#pytorch)
@@ -127,6 +128,7 @@
 - [ubuntu](#ubuntu)
 - [unity](#unity)
 - [vim](#vim)
+- [vue](#vue)
 - [web](#web)
 - [webpack](#webpack)
 - [windows](#windows)
@@ -135,6 +137,7 @@
 
 ## 3d 
 
+- [curv3d/curv](https://github.com/curv3d/curv) - a language for making art using mathematics
 - [matrix-org/thirdroom](https://github.com/matrix-org/thirdroom) - Open, decentralised, immersive worlds built on Matrix
 - [navis-org/skeletor](https://github.com/navis-org/skeletor) - 3D skeleton extraction from meshes.
 - [f3d-app/f3d](https://github.com/f3d-app/f3d) - Fast and minimalist 3D viewer.
@@ -466,6 +469,7 @@
 
 ## hacktoberfest 
 
+- [Mic92/nix-update](https://github.com/Mic92/nix-update) - Swiss-knife for updating nix packages.
 - [maralorn/nix-output-monitor](https://github.com/maralorn/nix-output-monitor) - Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building.
 - [ImVexed/muon](https://github.com/ImVexed/muon) - GPU based Electron on a diet
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
@@ -570,6 +574,7 @@
 
 ## language 
 
+- [curv3d/curv](https://github.com/curv3d/curv) - a language for making art using mathematics
 - [pikasTech/pikascript](https://github.com/pikasTech/pikascript) - Ultralightweight Python engine that can run with 4KB of RAM and 32KB of Flash (such as STM32G030C8 and STM32F103C8), and is very easy to deploy and expand.
 - [erg-lang/erg](https://github.com/erg-lang/erg) - A statically typed language that can deeply improve the Python ecosystem
 - [roc-lang/roc](https://github.com/roc-lang/roc) - Roc is a language for making delightful software.
@@ -641,6 +646,7 @@
 
 ## mastodon 
 
+- [nolanlawson/pinafore](https://github.com/nolanlawson/pinafore) - Alternative web client for Mastodon
 - [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, ActivityPub server, powered by Go.
 
 ## mobile 
@@ -670,6 +676,7 @@
 
 ## nodejs 
 
+- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 An interplanetary microblogging platform 🚀
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 
 ## nosql 
@@ -703,6 +710,7 @@
 
 ## others 
 
+- [fstl-app/fstl](https://github.com/fstl-app/fstl) - The fastest STL file viewer
 - [yglukhov/nimpy](https://github.com/yglukhov/nimpy) - Nim - Python bridge
 - [kellerben/dudle](https://github.com/kellerben/dudle) - Online event coordination and survey application
 - [probcomp/PClean](https://github.com/probcomp/PClean) - A domain-specific probabilistic programming language for scalable Bayesian data cleaning
@@ -929,6 +937,10 @@
 - [sylefeb/Silice](https://github.com/sylefeb/Silice) - Silice is an open source language that simplifies prototyping and writing algorithms on FPGA architectures.
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 
+## pwa 
+
+- [nolanlawson/pinafore](https://github.com/nolanlawson/pinafore) - Alternative web client for Mastodon
+
 ## python 
 
 - [pikasTech/pikascript](https://github.com/pikasTech/pikascript) - Ultralightweight Python engine that can run with 4KB of RAM and 32KB of Flash (such as STM32G030C8 and STM32F103C8), and is very easy to deploy and expand.
@@ -1148,6 +1160,10 @@
 - [soywod/himalaya](https://github.com/soywod/himalaya) - Command-line interface for email management
 - [themerdev/themer](https://github.com/themerdev/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
+
+## vue 
+
+- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 An interplanetary microblogging platform 🚀
 
 ## web 
 
