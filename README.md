@@ -289,6 +289,7 @@
 
 ## Nim 
 
+- [def-/nimes](https://github.com/def-/nimes) - NimES: NES Emulator in Nim
 - [can-lehmann/exprgrad](https://github.com/can-lehmann/exprgrad) - An experimental deep learning framework for Nim based on a differentiable array programming language
 - [stisa/webgl](https://github.com/stisa/webgl) - Experimental wrapper to webgl for Nim (JS backend)
 - [Vindaar/LatexDSL](https://github.com/Vindaar/LatexDSL) - A mini DSL to generate LaTeX from Nim
@@ -345,6 +346,7 @@
 
 ## Python 
 
+- [OpenDroneMap/ODM](https://github.com/OpenDroneMap/ODM) - A command line toolkit to generate maps, point clouds, 3D models and DEMs from drone, balloon or kite images. 📷
 - [Mic92/nix-update](https://github.com/Mic92/nix-update) - Swiss-knife for updating nix packages.
 - [UCL-INGI/INGInious](https://github.com/UCL-INGI/INGInious) - INGInious is a secure and automated exercises assessment platform using your own tests, also providing a pluggable interface with your existing LMS.
 - [lkwq007/stablediffusion-infinity](https://github.com/lkwq007/stablediffusion-infinity) - Outpainting with Stable Diffusion on an infinite canvas
