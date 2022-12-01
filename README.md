@@ -75,7 +75,6 @@
 - [ReimuNotMoe/ydotool](https://github.com/ReimuNotMoe/ydotool) - Generic command-line automation tool (no X!)
 - [melonDS-emu/melonDS](https://github.com/melonDS-emu/melonDS) - DS emulator, sorta
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
-- [xmake-io/xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
 - [darlinghq/darling](https://github.com/darlinghq/darling) - Darwin/macOS emulation layer for Linux
 - [libvips/nip2](https://github.com/libvips/nip2) - A spreadsheet-like GUI for libvips.
 - [YosysHQ/fpga-toolchain](https://github.com/YosysHQ/fpga-toolchain) - Multi-platform nightly builds of open source FPGA tools
@@ -281,6 +280,7 @@
 - [jgm/djot](https://github.com/jgm/djot) - A light markup language
 - [ssleert/mide](https://github.com/ssleert/mide) - minimalistic ide in top of micro text editor
 - [jaames/playnote-studio](https://github.com/jaames/playnote-studio) - An unofficial Flipnote Studio animation player for the Playdate console!
+- [xmake-io/xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
 - [nagadomi/waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art
 
 ## NASL 
@@ -289,6 +289,8 @@
 
 ## Nim 
 
+- [nim-lang/Nim](https://github.com/nim-lang/Nim) - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, an
+- [simonkrauter/NiGui](https://github.com/simonkrauter/NiGui) - Cross-platform desktop GUI toolkit written in Nim
 - [def-/nimes](https://github.com/def-/nimes) - NimES: NES Emulator in Nim
 - [can-lehmann/exprgrad](https://github.com/can-lehmann/exprgrad) - An experimental deep learning framework for Nim based on a differentiable array programming language
 - [stisa/webgl](https://github.com/stisa/webgl) - Experimental wrapper to webgl for Nim (JS backend)
