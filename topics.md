@@ -262,6 +262,7 @@
 
 ## compiler 
 
+- [nim-lang/Nim](https://github.com/nim-lang/Nim) - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, an
 - [can-lehmann/exprgrad](https://github.com/can-lehmann/exprgrad) - An experimental deep learning framework for Nim based on a differentiable array programming language
 - [cucapra/calyx](https://github.com/cucapra/calyx) - Intermediate Language (IL) for Hardware Accelerator Generators
 - [halide/Halide](https://github.com/halide/Halide) - a language for fast, portable data-parallel computation
@@ -472,6 +473,7 @@
 
 ## hacktoberfest 
 
+- [nim-lang/Nim](https://github.com/nim-lang/Nim) - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, an
 - [Mic92/nix-update](https://github.com/Mic92/nix-update) - Swiss-knife for updating nix packages.
 - [maralorn/nix-output-monitor](https://github.com/maralorn/nix-output-monitor) - Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building.
 - [ImVexed/muon](https://github.com/ImVexed/muon) - GPU based Electron on a diet
@@ -581,6 +583,7 @@
 
 ## language 
 
+- [nim-lang/Nim](https://github.com/nim-lang/Nim) - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, an
 - [curv3d/curv](https://github.com/curv3d/curv) - a language for making art using mathematics
 - [pikasTech/pikascript](https://github.com/pikasTech/pikascript) - Ultralightweight Python engine that can run with 4KB of RAM and 32KB of Flash (such as STM32G030C8 and STM32F103C8), and is very easy to deploy and expand.
 - [erg-lang/erg](https://github.com/erg-lang/erg) - A statically typed language that can deeply improve the Python ecosystem
@@ -606,6 +609,7 @@
 
 ## linux 
 
+- [simonkrauter/NiGui](https://github.com/simonkrauter/NiGui) - Cross-platform desktop GUI toolkit written in Nim
 - [TheDarkBug/uwufetch](https://github.com/TheDarkBug/uwufetch) - A meme system info tool for Linux, based on nyan/uwu trend on r/linuxmasterrace.
 - [rr-debugger/rr](https://github.com/rr-debugger/rr) - Record and Replay Framework
 - [InitWare/InitWare](https://github.com/InitWare/InitWare) - The InitWare Suite of Middleware allows you to manage services and system resources as logical entities called units. Its main component is a service management ("init") system.
@@ -682,6 +686,8 @@
 
 ## nim 
 
+- [nim-lang/Nim](https://github.com/nim-lang/Nim) - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, an
+- [simonkrauter/NiGui](https://github.com/simonkrauter/NiGui) - Cross-platform desktop GUI toolkit written in Nim
 - [can-lehmann/exprgrad](https://github.com/can-lehmann/exprgrad) - An experimental deep learning framework for Nim based on a differentiable array programming language
 - [stisa/webgl](https://github.com/stisa/webgl) - Experimental wrapper to webgl for Nim (JS backend)
 - [enthus1ast/nimja](https://github.com/enthus1ast/nimja) - typed and compiled template engine inspired by jinja2, twig and onionhammer/nim-templates for Nim.
