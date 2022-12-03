@@ -348,6 +348,7 @@
 
 ## Python 
 
+- [bgottschall/plotgen](https://github.com/bgottschall/plotgen) - Parse data and generate plotting scripts based on plotly.
 - [OpenDroneMap/ODM](https://github.com/OpenDroneMap/ODM) - A command line toolkit to generate maps, point clouds, 3D models and DEMs from drone, balloon or kite images. 📷
 - [Mic92/nix-update](https://github.com/Mic92/nix-update) - Swiss-knife for updating nix packages.
 - [UCL-INGI/INGInious](https://github.com/UCL-INGI/INGInious) - INGInious is a secure and automated exercises assessment platform using your own tests, also providing a pluggable interface with your existing LMS.
