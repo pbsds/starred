@@ -728,6 +728,7 @@
 
 ## others 
 
+- [bgottschall/plotgen](https://github.com/bgottschall/plotgen) - Parse data and generate plotting scripts based on plotly.
 - [def-/nimes](https://github.com/def-/nimes) - NimES: NES Emulator in Nim
 - [OpenDroneMap/ODM](https://github.com/OpenDroneMap/ODM) - A command line toolkit to generate maps, point clouds, 3D models and DEMs from drone, balloon or kite images. 📷
 - [c-blake/cligen](https://github.com/c-blake/cligen) - Nim library to infer/generate command-line-interfaces / option / argument parsing; Docs at
