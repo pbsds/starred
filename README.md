@@ -50,7 +50,7 @@
 - [libsql/libsql](https://github.com/libsql/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 - [ImVexed/muon](https://github.com/ImVexed/muon) - GPU based Electron on a diet
 - [pikasTech/pikascript](https://github.com/pikasTech/pikascript) - Ultralightweight Python engine that can run with 4KB of RAM and 32KB of Flash (such as STM32G030C8 and STM32F103C8), and is very easy to deploy and expand.
-- [PlayPulseCom/flutter_wlroots](https://github.com/PlayPulseCom/flutter_wlroots) - Wayland compositor library for Flutter. Built with Wlroots.
+- [FlutterWayland/flutter_wlroots](https://github.com/FlutterWayland/flutter_wlroots) - Wayland compositor library for Flutter. Built with Wlroots.
 - [TheDarkBug/uwufetch](https://github.com/TheDarkBug/uwufetch) - A meme system info tool for Linux, based on nyan/uwu trend on r/linuxmasterrace.
 - [matrix-org/thirdroom](https://github.com/matrix-org/thirdroom) - Open, decentralised, immersive worlds built on Matrix
 - [NixOS/mobile-nixos](https://github.com/NixOS/mobile-nixos) - 
