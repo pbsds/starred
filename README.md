@@ -21,6 +21,7 @@
 - [JavaScript](#javascript)
 - [Julia](#julia)
 - [Jupyter Notebook](#jupyter-notebook)
+- [Kotlin](#kotlin)
 - [Lua](#lua)
 - [NASL](#nasl)
 - [Nim](#nim)
@@ -274,6 +275,10 @@
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [piebro/factorio-blueprint-visualizer](https://github.com/piebro/factorio-blueprint-visualizer) - A python library to artfully visualize Factorio Blueprints and an interactive web demo for using it.
 - [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps) - A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries.
+
+## Kotlin 
+
+- [mickstar/Zoo-For-Zotero](https://github.com/mickstar/Zoo-For-Zotero) - This is an Android app for viewing Zotero libraries.
 
 ## Lua 
 
