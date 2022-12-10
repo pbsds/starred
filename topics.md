@@ -734,7 +734,7 @@
 - [def-/nimes](https://github.com/def-/nimes) - NimES: NES Emulator in Nim
 - [OpenDroneMap/ODM](https://github.com/OpenDroneMap/ODM) - A command line toolkit to generate maps, point clouds, 3D models and DEMs from drone, balloon or kite images. 📷
 - [c-blake/cligen](https://github.com/c-blake/cligen) - Nim library to infer/generate command-line-interfaces / option / argument parsing; Docs at
-- [fstl-app/fstl](https://github.com/fstl-app/fstl) - The fastest STL file viewer
+- [fstl-app/fstl](https://github.com/fstl-app/fstl) - A fast STL file viewer
 - [yglukhov/nimpy](https://github.com/yglukhov/nimpy) - Nim - Python bridge
 - [kellerben/dudle](https://github.com/kellerben/dudle) - Online event coordination and survey application
 - [probcomp/PClean](https://github.com/probcomp/PClean) - A domain-specific probabilistic programming language for scalable Bayesian data cleaning
