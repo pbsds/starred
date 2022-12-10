@@ -108,7 +108,7 @@
 
 ## C++ 
 
-- [fstl-app/fstl](https://github.com/fstl-app/fstl) - The fastest STL file viewer
+- [fstl-app/fstl](https://github.com/fstl-app/fstl) - A fast STL file viewer
 - [curv3d/curv](https://github.com/curv3d/curv) - a language for making art using mathematics
 - [gatecat/nextpnr-xilinx](https://github.com/gatecat/nextpnr-xilinx) - Experimental flows using nextpnr for Xilinx devices
 - [jzimmerman/langcc](https://github.com/jzimmerman/langcc) - langcc: A Next-Generation Compiler Compiler
