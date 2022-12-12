@@ -8,6 +8,7 @@
 - [3d](#3d)
 - [ai](#ai)
 - [ajax](#ajax)
+- [algorithm](#algorithm)
 - [android](#android)
 - [api](#api)
 - [artificial-intelligence](#artificial-intelligence)
@@ -153,6 +154,10 @@
 
 - [joaomilho/Enterprise](https://github.com/joaomilho/Enterprise) - 🦄 The Enterprise™ programming language
 
+## algorithm 
+
+- [mxgmn/WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) - Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics
+
 ## android 
 
 - [mickstar/Zoo-For-Zotero](https://github.com/mickstar/Zoo-For-Zotero) - This is an Android app for viewing Zotero libraries.
@@ -220,6 +225,7 @@
 
 ## c 
 
+- [patriciogonzalezvivo/glslViewer](https://github.com/patriciogonzalezvivo/glslViewer) - Console-based GLSL Sandbox for 2D/3D shaders
 - [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - A BSD-based OS project that aims to provide an experience like and some compatibility with macOS (formerly known as airyxOS)
 - [comby-tools/comby](https://github.com/comby-tools/comby) - A code rewrite tool for structural search and replace that supports ~every language.
 - [lvgl/lvgl](https://github.com/lvgl/lvgl) - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type. It's boosted by a professional yet affordable drag and drop UI editor, called SquareLine Studio.
@@ -259,10 +265,12 @@
 
 ## clojure 
 
+- [jank-lang/jank](https://github.com/jank-lang/jank) - A Clojure dialect on LLVM with gradual typing, a native runtime, and C++ interop
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot - The Open-Source design & prototyping platform
 
 ## compiler 
 
+- [jank-lang/jank](https://github.com/jank-lang/jank) - A Clojure dialect on LLVM with gradual typing, a native runtime, and C++ interop
 - [nim-lang/Nim](https://github.com/nim-lang/Nim) - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, an
 - [can-lehmann/exprgrad](https://github.com/can-lehmann/exprgrad) - An experimental deep learning framework for Nim based on a differentiable array programming language
 - [cucapra/calyx](https://github.com/cucapra/calyx) - Intermediate Language (IL) for Hardware Accelerator Generators
@@ -300,6 +308,7 @@
 
 ## csharp 
 
+- [mxgmn/WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) - Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
 - [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
 
@@ -585,6 +594,7 @@
 
 ## language 
 
+- [jank-lang/jank](https://github.com/jank-lang/jank) - A Clojure dialect on LLVM with gradual typing, a native runtime, and C++ interop
 - [nim-lang/Nim](https://github.com/nim-lang/Nim) - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, an
 - [curv3d/curv](https://github.com/curv3d/curv) - a language for making art using mathematics
 - [pikasTech/pikascript](https://github.com/pikasTech/pikascript) - Ultralightweight Python engine that can run with 4KB of RAM and 32KB of Flash (such as STM32G030C8 and STM32F103C8), and is very easy to deploy and expand.
@@ -611,6 +621,7 @@
 
 ## linux 
 
+- [patriciogonzalezvivo/glslViewer](https://github.com/patriciogonzalezvivo/glslViewer) - Console-based GLSL Sandbox for 2D/3D shaders
 - [simonkrauter/NiGui](https://github.com/simonkrauter/NiGui) - Cross-platform desktop GUI toolkit written in Nim
 - [TheDarkBug/uwufetch](https://github.com/TheDarkBug/uwufetch) - A meme system info tool for Linux, based on nyan/uwu trend on r/linuxmasterrace.
 - [rr-debugger/rr](https://github.com/rr-debugger/rr) - Record and Replay Framework
@@ -641,6 +652,7 @@
 
 ## machine-learning 
 
+- [mxgmn/WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) - Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics
 - [can-lehmann/exprgrad](https://github.com/can-lehmann/exprgrad) - An experimental deep learning framework for Nim based on a differentiable array programming language
 - [DanRuta/xVA-Synth](https://github.com/DanRuta/xVA-Synth) - Machine learning based speech synthesis Electron app, with voices from specific characters from video games
 - [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning, and machine learning models
@@ -730,6 +742,7 @@
 
 ## others 
 
+- [clsid2/mpc-hc](https://github.com/clsid2/mpc-hc) - Media Player Classic
 - [bgottschall/plotgen](https://github.com/bgottschall/plotgen) - Parse data and generate plotting scripts based on plotly.
 - [def-/nimes](https://github.com/def-/nimes) - NimES: NES Emulator in Nim
 - [OpenDroneMap/ODM](https://github.com/OpenDroneMap/ODM) - A command line toolkit to generate maps, point clouds, 3D models and DEMs from drone, balloon or kite images. 📷
@@ -1032,6 +1045,7 @@
 
 ## raspberry-pi 
 
+- [patriciogonzalezvivo/glslViewer](https://github.com/patriciogonzalezvivo/glslViewer) - Console-based GLSL Sandbox for 2D/3D shaders
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic
 - [tiny-pilot/tinypilot](https://github.com/tiny-pilot/tinypilot) - Use your Raspberry Pi as a browser-based KVM.
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
