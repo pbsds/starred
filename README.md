@@ -96,6 +96,7 @@
 
 ## C# # 
 
+- [mxgmn/WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) - Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics
 - [geteduroam/windows-app](https://github.com/geteduroam/windows-app) - Windows application for geteduroam
 - [File-New-Project/EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - EarTrumpet - Volume Control for Windows
 - [JohannesDeml/PartyBalance](https://github.com/JohannesDeml/PartyBalance) - A small unity game using the wii balance board (with Wii Balance Walker) in combintion with the microphone
@@ -108,6 +109,9 @@
 
 ## C++ 
 
+- [clsid2/mpc-hc](https://github.com/clsid2/mpc-hc) - Media Player Classic
+- [jank-lang/jank](https://github.com/jank-lang/jank) - A Clojure dialect on LLVM with gradual typing, a native runtime, and C++ interop
+- [patriciogonzalezvivo/glslViewer](https://github.com/patriciogonzalezvivo/glslViewer) - Console-based GLSL Sandbox for 2D/3D shaders
 - [fstl-app/fstl](https://github.com/fstl-app/fstl) - A fast STL file viewer
 - [curv3d/curv](https://github.com/curv3d/curv) - a language for making art using mathematics
 - [gatecat/nextpnr-xilinx](https://github.com/gatecat/nextpnr-xilinx) - Experimental flows using nextpnr for Xilinx devices
