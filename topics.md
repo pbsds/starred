@@ -566,7 +566,7 @@
 - [ninjadev/nin](https://github.com/ninjadev/nin) - nin is ninjatool
 - [piroor/treestyletab](https://github.com/piroor/treestyletab) - Tree Style Tab, Show tabs like a tree.
 - [comby-tools/comby](https://github.com/comby-tools/comby) - A code rewrite tool for structural search and replace that supports ~every language.
-- [xwiki-labs/cryptpad](https://github.com/xwiki-labs/cryptpad) - Collaboration suite, end-to-end encrypted and open-source.
+- [xwiki-labs/cryptpad](https://github.com/xwiki-labs/cryptpad) - Collaborative office suite, end-to-end encrypted and open-source.
 - [vanila-io/wireflow](https://github.com/vanila-io/wireflow) - Wireflow - user flow chart real-time collaborative tool
 - [dream-num/Luckysheet](https://github.com/dream-num/Luckysheet) - Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.
 - [afterlogic/webmail-lite-8](https://github.com/afterlogic/webmail-lite-8) - Open-source webmail script for existing IMAP server
@@ -744,6 +744,7 @@
 
 ## others 
 
+- [SSPkrolik/nimasset](https://github.com/SSPkrolik/nimasset) - Pure Nim 3D Assets loading library
 - [moonlight-stream/moonlight-embedded](https://github.com/moonlight-stream/moonlight-embedded) - Gamestream client for embedded systems
 - [treeform/fidget](https://github.com/treeform/fidget) - Figma based UI library for nim, with HTML and OpenGL backends.
 - [clsid2/mpc-hc](https://github.com/clsid2/mpc-hc) - Media Player Classic
@@ -845,7 +846,7 @@
 - [martinResearch/DEODR](https://github.com/martinResearch/DEODR) - A differentiable 3D renderer with Pytorch, Tensorflow and Matlab interfaces
 - [skullchap/chadstr](https://github.com/skullchap/chadstr) - Chad Strings - The Chad way to handle strings in C.
 - [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
-- [yenchenlin/awesome-NeRF](https://github.com/yenchenlin/awesome-NeRF) - A curated list of awesome neural radiance fields papers
+- [awesome-NeRF/awesome-NeRF](https://github.com/awesome-NeRF/awesome-NeRF) - A curated list of awesome neural radiance fields papers
 - [minerva-cpu/minerva](https://github.com/minerva-cpu/minerva) - A 32-bit RISC-V soft processor
 - [leahneukirchen/nq](https://github.com/leahneukirchen/nq) - Unix command line queue utility
 - [uso-archive/data](https://github.com/uso-archive/data) - Full mirror of UserStyles.org
