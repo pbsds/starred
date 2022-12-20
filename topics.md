@@ -746,6 +746,7 @@
 
 ## others 
 
+- [open-pdf-sign/open-pdf-sign](https://github.com/open-pdf-sign/open-pdf-sign) - Digitally sign PDF files from your commandline
 - [SSPkrolik/nimasset](https://github.com/SSPkrolik/nimasset) - Pure Nim 3D Assets loading library
 - [moonlight-stream/moonlight-embedded](https://github.com/moonlight-stream/moonlight-embedded) - Gamestream client for embedded systems
 - [treeform/fidget](https://github.com/treeform/fidget) - Figma based UI library for nim, with HTML and OpenGL backends.
