@@ -483,7 +483,7 @@
 - [akberg/procedural_planets](https://github.com/akberg/procedural_planets) - 
 - [steffenhaug/plox](https://github.com/steffenhaug/plox) - 
 - [Fuwn/para](https://github.com/Fuwn/para) - 🗃 Decoder and utility for the Flipnote Studios .ppm animation format.
-- [prql/prql](https://github.com/prql/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
+- [PRQL/prql](https://github.com/PRQL/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
