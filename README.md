@@ -238,7 +238,7 @@
 
 ## JavaScript 
 
-- [nolanlawson/pinafore](https://github.com/nolanlawson/pinafore) - Alternative web client for Mastodon
+- [nolanlawson/pinafore](https://github.com/nolanlawson/pinafore) - Alternative web client for Mastodon (UNMAINTAINED)
 - [quarto-dev/quarto-cli](https://github.com/quarto-dev/quarto-cli) - Open-source scientific and technical publishing system built on Pandoc.
 - [jaames/iro.js](https://github.com/jaames/iro.js) - 🎨  Modular color picker widget for JavaScript, with support for a bunch of color formats
 - [nrkno/confetti.js](https://github.com/nrkno/confetti.js) - A simple confetti animation for your website :)
@@ -431,7 +431,7 @@
 - [mithi/hexapod-robot-simulator](https://github.com/mithi/hexapod-robot-simulator) - A hexapod robot simulator built from first principles
 - [tctianchi/pyvenn](https://github.com/tctianchi/pyvenn) - 2 ~ 6 sets venn diagram for python
 - [tocoteron/joycon-python](https://github.com/tocoteron/joycon-python) - driver for Joy-Con (Nintendo Switch)
-- [leafnote/leafnote](https://github.com/leafnote/leafnote) - The server software powering Leafnote, a completely open-source Flipnote Hatena replacement server.
+- [rumatsuki/leafnote](https://github.com/rumatsuki/leafnote) - The server software powering Leafnote, a completely open-source Flipnote Hatena replacement server.
 - [PierrickKoch/wiiboard](https://github.com/PierrickKoch/wiiboard) - Wii Fit Balance Board
 - [pergola-fpga/pergola](https://github.com/pergola-fpga/pergola) - Low-cost ECP5 FPGA development board
 - [olofk/fusesoc](https://github.com/olofk/fusesoc) - Package manager and build abstraction tool for FPGA/ASIC development
@@ -558,6 +558,7 @@
 
 ## TypeScript 
 
+- [boxyhq/jackson](https://github.com/boxyhq/jackson) - SAML Jackson: An Enterprise SSO service designed as an OAuth 2.0 or OpenID Connect flow. Integrate SAML and OIDC with just a few lines of code. Demo - https://saml-demo.boxyhq.com
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 An interplanetary microblogging platform 🚀
 - [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) - Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
