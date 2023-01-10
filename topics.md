@@ -485,6 +485,7 @@
 
 ## hacktoberfest 
 
+- [boxyhq/jackson](https://github.com/boxyhq/jackson) - SAML Jackson: An Enterprise SSO service designed as an OAuth 2.0 or OpenID Connect flow. Integrate SAML and OIDC with just a few lines of code. Demo - https://saml-demo.boxyhq.com
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
 - [mickstar/Zoo-For-Zotero](https://github.com/mickstar/Zoo-For-Zotero) - This is an Android app for viewing Zotero libraries.
 - [nim-lang/Nim](https://github.com/nim-lang/Nim) - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, an
@@ -678,7 +679,7 @@
 
 ## mastodon 
 
-- [nolanlawson/pinafore](https://github.com/nolanlawson/pinafore) - Alternative web client for Mastodon
+- [nolanlawson/pinafore](https://github.com/nolanlawson/pinafore) - Alternative web client for Mastodon (UNMAINTAINED)
 - [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, ActivityPub server, powered by Go.
 
 ## mobile 
@@ -892,7 +893,7 @@
 - [tocoteron/joycon-python](https://github.com/tocoteron/joycon-python) - driver for Joy-Con (Nintendo Switch)
 - [DanielOgorchock/linux](https://github.com/DanielOgorchock/linux) - 
 - [nerdsinspace/leaky-leaky](https://github.com/nerdsinspace/leaky-leaky) - [PATCHED] Exploit that allows one to authenticate as any user in Minecraft
-- [leafnote/leafnote](https://github.com/leafnote/leafnote) - The server software powering Leafnote, a completely open-source Flipnote Hatena replacement server.
+- [rumatsuki/leafnote](https://github.com/rumatsuki/leafnote) - The server software powering Leafnote, a completely open-source Flipnote Hatena replacement server.
 - [FrozenCow/wiidevicelibrary](https://github.com/FrozenCow/wiidevicelibrary) - A cross platform C# class library that provides an interface to various Wii related devices.
 - [pergola-fpga/pergola](https://github.com/pergola-fpga/pergola) - Low-cost ECP5 FPGA development board
 - [Digilent/digilent-xdc](https://github.com/Digilent/digilent-xdc) - A collection of Master XDC files for Digilent FPGA and Zynq boards.
@@ -989,7 +990,7 @@
 
 ## pwa 
 
-- [nolanlawson/pinafore](https://github.com/nolanlawson/pinafore) - Alternative web client for Mastodon
+- [nolanlawson/pinafore](https://github.com/nolanlawson/pinafore) - Alternative web client for Mastodon (UNMAINTAINED)
 
 ## python 
 
