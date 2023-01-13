@@ -748,6 +748,7 @@
 
 ## others 
 
+- [folkertvanheusden/multitail](https://github.com/folkertvanheusden/multitail) - Tail on steroids
 - [machengim/oasis](https://github.com/machengim/oasis) - Self-hosted file server
 - [nathanfarlow/stylehax](https://github.com/nathanfarlow/stylehax) - Nintendo DSi browser exploit
 - [phpgl/visu](https://github.com/phpgl/visu) - A Modern OpenGL Framework for PHP.
