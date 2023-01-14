@@ -398,6 +398,7 @@
 
 ## electron 
 
+- [deepnight/ldtk](https://github.com/deepnight/ldtk) - Modern, lightweight and efficient 2D level editor
 - [ImVexed/muon](https://github.com/ImVexed/muon) - GPU based Electron on a diet
 - [DanRuta/xVA-Synth](https://github.com/DanRuta/xVA-Synth) - Machine learning based speech synthesis Electron app, with voices from specific characters from video games
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
@@ -437,6 +438,7 @@
 
 ## game-development 
 
+- [deepnight/ldtk](https://github.com/deepnight/ldtk) - Modern, lightweight and efficient 2D level editor
 - [matrix-org/thirdroom](https://github.com/matrix-org/thirdroom) - Open, decentralised, immersive worlds built on Matrix
 - [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen.
 - [mapeditor/tiled](https://github.com/mapeditor/tiled) - Flexible level editor
@@ -555,7 +557,7 @@
 
 ## iot 
 
-- [pikasTech/PikaPython](https://github.com/pikasTech/PikaPython) - Ultralightweight Python engine that can run with 4KB of RAM and 32KB of Flash (such as STM32G030C8 and STM32F103C8), and is very easy to deploy and expand.
+- [pikasTech/PikaPython](https://github.com/pikasTech/PikaPython) - PikaPython - Python runs with  only 4KB of RAM, zero dependencies, easy to bind with C. Similar project: MicroPython, JerryScript.
 
 ## java 
 
@@ -603,7 +605,7 @@
 - [jank-lang/jank](https://github.com/jank-lang/jank) - A Clojure dialect on LLVM with gradual typing, a native runtime, and C++ interop
 - [nim-lang/Nim](https://github.com/nim-lang/Nim) - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, an
 - [curv3d/curv](https://github.com/curv3d/curv) - a language for making art using mathematics
-- [pikasTech/PikaPython](https://github.com/pikasTech/PikaPython) - Ultralightweight Python engine that can run with 4KB of RAM and 32KB of Flash (such as STM32G030C8 and STM32F103C8), and is very easy to deploy and expand.
+- [pikasTech/PikaPython](https://github.com/pikasTech/PikaPython) - PikaPython - Python runs with  only 4KB of RAM, zero dependencies, easy to bind with C. Similar project: MicroPython, JerryScript.
 - [erg-lang/erg](https://github.com/erg-lang/erg) - A statically typed language that can deeply improve the Python ecosystem
 - [roc-lang/roc](https://github.com/roc-lang/roc) - Roc is a language for making delightful software.
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
@@ -653,7 +655,7 @@
 ## lua 
 
 - [jgm/djot](https://github.com/jgm/djot) - A light markup language
-- [pikasTech/PikaPython](https://github.com/pikasTech/PikaPython) - Ultralightweight Python engine that can run with 4KB of RAM and 32KB of Flash (such as STM32G030C8 and STM32F103C8), and is very easy to deploy and expand.
+- [pikasTech/PikaPython](https://github.com/pikasTech/PikaPython) - PikaPython - Python runs with  only 4KB of RAM, zero dependencies, easy to bind with C. Similar project: MicroPython, JerryScript.
 - [xmake-io/xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
 
 ## machine-learning 
@@ -996,7 +998,7 @@
 
 ## python 
 
-- [pikasTech/PikaPython](https://github.com/pikasTech/PikaPython) - Ultralightweight Python engine that can run with 4KB of RAM and 32KB of Flash (such as STM32G030C8 and STM32F103C8), and is very easy to deploy and expand.
+- [pikasTech/PikaPython](https://github.com/pikasTech/PikaPython) - PikaPython - Python runs with  only 4KB of RAM, zero dependencies, easy to bind with C. Similar project: MicroPython, JerryScript.
 - [pudo/dataset](https://github.com/pudo/dataset) - Easy-to-use data handling for SQL data stores with support for implicit table creation, bulk loading, and transactions.
 - [flet-dev/flet](https://github.com/flet-dev/flet) - Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.
 - [erg-lang/erg](https://github.com/erg-lang/erg) - A statically typed language that can deeply improve the Python ecosystem
