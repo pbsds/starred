@@ -200,7 +200,6 @@
 - [cube2222/octosql](https://github.com/cube2222/octosql) - OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
-- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
 - [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
@@ -214,6 +213,7 @@
 
 - [jgm/djot](https://github.com/jgm/djot) - A light markup language
 - [googlefonts/atkinson-hyperlegible](https://github.com/googlefonts/atkinson-hyperlegible) - 
+- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [Ravenslofty/mistral](https://github.com/Ravenslofty/mistral) - Cyclone V bitstream reverse-engineering project
 - [GTFOBins/GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) - GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems
 - [jfremstad/matematisk_ordliste](https://github.com/jfremstad/matematisk_ordliste) - Matematisk ordliste
