@@ -116,6 +116,7 @@
 
 ## C++ 
 
+- [chipsalliance/verible](https://github.com/chipsalliance/verible) - Verible is a suite of SystemVerilog developer tools, including a parser, style-linter, formatter and language server
 - [C3RV1/UndertaleNDS](https://github.com/C3RV1/UndertaleNDS) - Undertale port for Nintendo DS (src only, no copyrighted material).
 - [clsid2/mpc-hc](https://github.com/clsid2/mpc-hc) - Media Player Classic
 - [jank-lang/jank](https://github.com/jank-lang/jank) - A Clojure dialect on LLVM with gradual typing, a native runtime, and C++ interop
@@ -341,6 +342,7 @@
 
 ## Others 
 
+- [Rust-GCC/gccrs](https://github.com/Rust-GCC/gccrs) - GCC Front-End for Rust
 - [google-research/tuning_playbook](https://github.com/google-research/tuning_playbook) - A playbook for systematically maximizing the performance of deep learning models.
 - [NixOS/nix-book](https://github.com/NixOS/nix-book) - Nix documentation – centralized community online learning resource for Nix
 - [Ravenslofty/yosys-cookbook](https://github.com/Ravenslofty/yosys-cookbook) - User-friendly explanation of Yosys options
@@ -377,6 +379,7 @@
 
 ## Python 
 
+- [nerfstudio-project/nerfstudio](https://github.com/nerfstudio-project/nerfstudio) - A collaboration friendly studio for NeRFs
 - [bgottschall/plotgen](https://github.com/bgottschall/plotgen) - Parse data and generate plotting scripts based on plotly.
 - [OpenDroneMap/ODM](https://github.com/OpenDroneMap/ODM) - A command line toolkit to generate maps, point clouds, 3D models and DEMs from drone, balloon or kite images. 📷
 - [Mic92/nix-update](https://github.com/Mic92/nix-update) - Swiss-knife for updating nix packages.
@@ -481,6 +484,7 @@
 
 ## Rust 
 
+- [rust-lang/polonius](https://github.com/rust-lang/polonius) - Defines the Rust borrow checker.
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
 - [cucapra/calyx](https://github.com/cucapra/calyx) - Intermediate Language (IL) for Hardware Accelerator Generators
 - [xi-editor/xi-editor](https://github.com/xi-editor/xi-editor) - A modern editor with a backend written in Rust.
