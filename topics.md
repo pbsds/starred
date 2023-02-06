@@ -760,6 +760,7 @@
 
 ## others 
 
+- [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments
 - [rust-lang/polonius](https://github.com/rust-lang/polonius) - Defines the Rust borrow checker.
 - [timbertson/runix](https://github.com/timbertson/runix) - 
 - [devkitPro/buildscripts](https://github.com/devkitPro/buildscripts) - Scripts for building devkitPro toolchains
