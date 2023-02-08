@@ -74,6 +74,7 @@
 - [jupyter-notebook](#jupyter-notebook)
 - [kubernetes](#kubernetes)
 - [language](#language)
+- [laravel](#laravel)
 - [latex](#latex)
 - [learning](#learning)
 - [linux](#linux)
@@ -495,7 +496,6 @@
 
 - [Rust-GCC/gccrs](https://github.com/Rust-GCC/gccrs) - GCC Front-End for Rust
 - [chipsalliance/verible](https://github.com/chipsalliance/verible) - Verible is a suite of SystemVerilog developer tools, including a parser, style-linter, formatter and language server
-- [boxyhq/jackson](https://github.com/boxyhq/jackson) - SAML Jackson: An Enterprise SSO service designed as an OAuth 2.0 or OpenID Connect flow. Integrate SAML and OIDC with just a few lines of code. Demo - https://saml-demo.boxyhq.com
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
 - [mickstar/Zoo-For-Zotero](https://github.com/mickstar/Zoo-For-Zotero) - This is an Android app for viewing Zotero libraries.
 - [nim-lang/Nim](https://github.com/nim-lang/Nim) - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, an
@@ -621,6 +621,10 @@
 - [pyos/dg](https://github.com/pyos/dg) - A programming language for the CPython VM.
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [joaomilho/Enterprise](https://github.com/joaomilho/Enterprise) - 🦄 The Enterprise™ programming language
+
+## laravel 
+
+- [ssddanbrown/rss](https://github.com/ssddanbrown/rss) - A simple twitter-feed-style RSS aggregator written in PHP, Laravel, Inertia.js, Tailwind and Vue.js
 
 ## latex 
 
@@ -760,6 +764,7 @@
 
 ## others 
 
+- [devkitPro/pacman-packages](https://github.com/devkitPro/pacman-packages) - 
 - [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments
 - [rust-lang/polonius](https://github.com/rust-lang/polonius) - Defines the Rust borrow checker.
 - [timbertson/runix](https://github.com/timbertson/runix) - 
@@ -770,6 +775,7 @@
 - [folkertvanheusden/multitail](https://github.com/folkertvanheusden/multitail) - Tail on steroids
 - [machengim/oasis](https://github.com/machengim/oasis) - Self-hosted file server
 - [nathanfarlow/stylehax](https://github.com/nathanfarlow/stylehax) - Nintendo DSi browser exploit
+- [boxyhq/jackson](https://github.com/boxyhq/jackson) - SAML Jackson: An Enterprise SAML SSO service designed as an OAuth 2.0 or OpenID Connect flow. Integrate SAML and OIDC with just a few lines of code. Demo - https://saml-demo.boxyhq.com
 - [phpgl/visu](https://github.com/phpgl/visu) - A Modern OpenGL Framework for PHP.
 - [nix-community/disko](https://github.com/nix-community/disko) - Format disks with nix-config [maintainer=@Lassulus]
 - [vinceliuice/Colloid-gtk-theme](https://github.com/vinceliuice/Colloid-gtk-theme) - Colloid gtk theme for linux
@@ -990,6 +996,7 @@
 
 ## php 
 
+- [ssddanbrown/rss](https://github.com/ssddanbrown/rss) - A simple twitter-feed-style RSS aggregator written in PHP, Laravel, Inertia.js, Tailwind and Vue.js
 - [comby-tools/comby](https://github.com/comby-tools/comby) - A code rewrite tool for structural search and replace that supports ~every language.
 - [afterlogic/webmail-lite-8](https://github.com/afterlogic/webmail-lite-8) - Open-source webmail script for existing IMAP server
 - [paragonie/paseto](https://github.com/paragonie/paseto) - Platform-Agnostic Security Tokens
@@ -1110,6 +1117,7 @@
 
 ## rust 
 
+- [vulkano-rs/vulkano](https://github.com/vulkano-rs/vulkano) - Safe and rich Rust wrapper around the Vulkan API
 - [Rust-GCC/gccrs](https://github.com/Rust-GCC/gccrs) - GCC Front-End for Rust
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
 - [libsql/libsql](https://github.com/libsql/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
