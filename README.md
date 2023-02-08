@@ -361,6 +361,7 @@
 
 ## PHP 
 
+- [ssddanbrown/rss](https://github.com/ssddanbrown/rss) - A simple twitter-feed-style RSS aggregator written in PHP, Laravel, Inertia.js, Tailwind and Vue.js
 - [phpgl/visu](https://github.com/phpgl/visu) - A Modern OpenGL Framework for PHP.
 - [the-djmaze/snappymail](https://github.com/the-djmaze/snappymail) - Simple, modern & fast web-based email client
 - [paragonie/paseto](https://github.com/paragonie/paseto) - Platform-Agnostic Security Tokens
@@ -485,6 +486,7 @@
 
 ## Rust 
 
+- [vulkano-rs/vulkano](https://github.com/vulkano-rs/vulkano) - Safe and rich Rust wrapper around the Vulkan API
 - [rust-lang/polonius](https://github.com/rust-lang/polonius) - Defines the Rust borrow checker.
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
 - [cucapra/calyx](https://github.com/cucapra/calyx) - Intermediate Language (IL) for Hardware Accelerator Generators
@@ -541,6 +543,7 @@
 
 ## Shell 
 
+- [devkitPro/pacman-packages](https://github.com/devkitPro/pacman-packages) - 
 - [devkitPro/buildscripts](https://github.com/devkitPro/buildscripts) - Scripts for building devkitPro toolchains
 - [thameera/vimv](https://github.com/thameera/vimv) - Batch-rename files using Vim
 - [allanjude/zxfer](https://github.com/allanjude/zxfer) - A continuation of development on zxfer, a popular script for managing ZFS snapshot replication
@@ -580,7 +583,7 @@
 
 ## TypeScript 
 
-- [boxyhq/jackson](https://github.com/boxyhq/jackson) - SAML Jackson: An Enterprise SSO service designed as an OAuth 2.0 or OpenID Connect flow. Integrate SAML and OIDC with just a few lines of code. Demo - https://saml-demo.boxyhq.com
+- [boxyhq/jackson](https://github.com/boxyhq/jackson) - SAML Jackson: An Enterprise SAML SSO service designed as an OAuth 2.0 or OpenID Connect flow. Integrate SAML and OIDC with just a few lines of code. Demo - https://saml-demo.boxyhq.com
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 An interplanetary microblogging platform 🚀
 - [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) - Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
