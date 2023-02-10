@@ -597,6 +597,7 @@
 
 ## Verilog 
 
+- [The-OpenROAD-Project/OpenLane](https://github.com/The-OpenROAD-Project/OpenLane) - OpenLane is an automated RTL to GDSII flow based on several components including OpenROAD, Yosys, Magic, Netgen and custom methodology scripts for design exploration and optimization.
 - [smunaut/iCE40linux](https://github.com/smunaut/iCE40linux) - Gateware / Firmware / BuildRoot to run linux on iCE40 / iCEBreaker
 - [dan-rodrigues/icestation-32](https://github.com/dan-rodrigues/icestation-32) - Compact FPGA game console
 
