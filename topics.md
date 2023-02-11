@@ -764,6 +764,7 @@
 
 ## others 
 
+- [j-jith/pandoc-elsevier-template](https://github.com/j-jith/pandoc-elsevier-template) - :page_with_curl: Pandoc template for papers in Elsevier journals
 - [The-OpenROAD-Project/OpenLane](https://github.com/The-OpenROAD-Project/OpenLane) - OpenLane is an automated RTL to GDSII flow based on several components including OpenROAD, Yosys, Magic, Netgen and custom methodology scripts for design exploration and optimization.
 - [devkitPro/pacman-packages](https://github.com/devkitPro/pacman-packages) - 
 - [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments
