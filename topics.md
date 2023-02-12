@@ -764,6 +764,7 @@
 
 ## others 
 
+- [BrunoLevy/geogram](https://github.com/BrunoLevy/geogram) - a programming library with geometric algorithms
 - [j-jith/pandoc-elsevier-template](https://github.com/j-jith/pandoc-elsevier-template) - :page_with_curl: Pandoc template for papers in Elsevier journals
 - [The-OpenROAD-Project/OpenLane](https://github.com/The-OpenROAD-Project/OpenLane) - OpenLane is an automated RTL to GDSII flow based on several components including OpenROAD, Yosys, Magic, Netgen and custom methodology scripts for design exploration and optimization.
 - [devkitPro/pacman-packages](https://github.com/devkitPro/pacman-packages) - 
