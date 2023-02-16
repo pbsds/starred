@@ -193,6 +193,7 @@
 
 ## Go 
 
+- [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
 - [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, ActivityPub server, powered by Go.
 - [nlewo/nix2container](https://github.com/nlewo/nix2container) - An archive-less dockerTools.buildImage implementation
 - [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
@@ -311,6 +312,7 @@
 
 ## Nim 
 
+- [arnetheduck/nlvm](https://github.com/arnetheduck/nlvm) - LLVM-based compiler for the Nim language
 - [zevv/npeg](https://github.com/zevv/npeg) - PEGs for Nim, another take
 - [samdze/playdate-nim](https://github.com/samdze/playdate-nim) - Nim bindings with extra features for the Playdate SDK
 - [SSPkrolik/nimasset](https://github.com/SSPkrolik/nimasset) - Pure Nim 3D Assets loading library
