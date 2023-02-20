@@ -308,7 +308,7 @@
 ## cpp 
 
 - [jank-lang/jank](https://github.com/jank-lang/jank) - A Clojure dialect on LLVM with gradual typing, a native runtime, and C++ interop
-- [cemu-project/Cemu](https://github.com/cemu-project/Cemu) - Cemu is a Wii U emulator
+- [cemu-project/Cemu](https://github.com/cemu-project/Cemu) - Cemu - Wii U emulator
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by MapsWithMe (MapsMe) founde
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - A BSD-based OS project that aims to provide an experience like and some compatibility with macOS (formerly known as airyxOS)
@@ -423,7 +423,7 @@
 
 ## emulator 
 
-- [cemu-project/Cemu](https://github.com/cemu-project/Cemu) - Cemu is a Wii U emulator
+- [cemu-project/Cemu](https://github.com/cemu-project/Cemu) - Cemu - Wii U emulator
 - [oldweb-today/oldweb-today](https://github.com/oldweb-today/oldweb-today) - Browse emulated browsers connected to old web sites in your browser!
 - [xemu-project/xemu](https://github.com/xemu-project/xemu) - Original Xbox Emulator for Windows, macOS, and Linux (Active Development)
 - [yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu) - Nintendo Switch Emulator
@@ -444,7 +444,7 @@
 
 ## framework 
 
-- [sanic-org/sanic](https://github.com/sanic-org/sanic) - Next generation Python web server/framework | Build fast. Run fast.
+- [sanic-org/sanic](https://github.com/sanic-org/sanic) - Accelerate your web app development  | Build fast. Run fast.
 
 ## frameworks 
 
@@ -789,6 +789,8 @@
 
 ## others 
 
+- [robn/freebsd-vf2](https://github.com/robn/freebsd-vf2) - FreeBSD on StarFive VisionFive 2
+- [NickCao/nixos-riscv](https://github.com/NickCao/nixos-riscv) - 
 - [zachjs/sv2v](https://github.com/zachjs/sv2v) - SystemVerilog to Verilog conversion
 - [BrunoLevy/geogram](https://github.com/BrunoLevy/geogram) - a programming library with geometric algorithms
 - [j-jith/pandoc-elsevier-template](https://github.com/j-jith/pandoc-elsevier-template) - :page_with_curl: Pandoc template for papers in Elsevier journals
@@ -1090,7 +1092,7 @@
 - [FKLC/AnyAPI](https://github.com/FKLC/AnyAPI) - AnyAPI is a library that helps you to write any API wrapper with ease and in pythonic way.
 - [sibblegp/b2blaze](https://github.com/sibblegp/b2blaze) - b2blaze
 - [kovidgoyal/rapydscript-ng](https://github.com/kovidgoyal/rapydscript-ng) - A transpiler for a Python like language to JavaScript
-- [sanic-org/sanic](https://github.com/sanic-org/sanic) - Next generation Python web server/framework | Build fast. Run fast.
+- [sanic-org/sanic](https://github.com/sanic-org/sanic) - Accelerate your web app development  | Build fast. Run fast.
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [mido/mido](https://github.com/mido/mido) - MIDI Objects for Python
 - [rawpython/remi](https://github.com/rawpython/remi) - Python REMote Interface library. Platform independent. In about 100 Kbytes, perfect for your diet.
@@ -1292,7 +1294,7 @@
 - [flet-dev/flet](https://github.com/flet-dev/flet) - Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.
 - [oldweb-today/oldweb-today](https://github.com/oldweb-today/oldweb-today) - Browse emulated browsers connected to old web sites in your browser!
 - [tenox7/wrp](https://github.com/tenox7/wrp) - Web Rendering Proxy: Use vintage, historical, legacy browsers on modern web
-- [sanic-org/sanic](https://github.com/sanic-org/sanic) - Next generation Python web server/framework | Build fast. Run fast.
+- [sanic-org/sanic](https://github.com/sanic-org/sanic) - Accelerate your web app development  | Build fast. Run fast.
 
 ## webpack 
 
