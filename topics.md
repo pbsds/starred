@@ -57,6 +57,7 @@
 - [git](#git)
 - [github](#github)
 - [go](#go)
+- [godot](#godot)
 - [golang](#golang)
 - [hacking](#hacking)
 - [hacktoberfest](#hacktoberfest)
@@ -95,6 +96,7 @@
 - [npm](#npm)
 - [numpy](#numpy)
 - [objective-c](#objective-c)
+- [open-source](#open-source)
 - [opengl](#opengl)
 - [operating-system](#operating-system)
 - [others](#others)
@@ -458,6 +460,7 @@
 
 ## game-development 
 
+- [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [samdze/playdate-nim](https://github.com/samdze/playdate-nim) - Nim bindings with extra features for the Playdate SDK
 - [deepnight/ldtk](https://github.com/deepnight/ldtk) - Modern, lightweight and efficient 2D level editor
 - [matrix-org/thirdroom](https://github.com/matrix-org/thirdroom) - Open, decentralised, immersive worlds built on Matrix
@@ -466,6 +469,7 @@
 
 ## game-engine 
 
+- [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen.
 
 ## games 
@@ -493,6 +497,10 @@
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 
+## godot 
+
+- [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
+
 ## golang 
 
 - [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, ActivityPub server, powered by Go.
@@ -509,6 +517,7 @@
 
 ## hacktoberfest 
 
+- [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [diced/zipline](https://github.com/diced/zipline) - A ShareX/file upload server that is easy to use, packed with features, and with an easy setup!
 - [Rust-GCC/gccrs](https://github.com/Rust-GCC/gccrs) - GCC Front-End for Rust
 - [chipsalliance/verible](https://github.com/chipsalliance/verible) - Verible is a suite of SystemVerilog developer tools, including a parser, style-linter, formatter and language server
@@ -591,6 +600,7 @@
 
 ## javascript 
 
+- [boxyhq/jackson](https://github.com/boxyhq/jackson) - SAML Jackson: An Enterprise SAML SSO service designed as an OAuth 2.0 or OpenID Connect flow. Integrate SAML and OIDC with just a few lines of code. Demo - https://saml-demo.boxyhq.com
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
 - [matrix-org/thirdroom](https://github.com/matrix-org/thirdroom) - Open, decentralised, immersive worlds built on Matrix
 - [jaames/iro.js](https://github.com/jaames/iro.js) - 🎨  Modular color picker widget for JavaScript, with support for a bunch of color formats
@@ -755,6 +765,7 @@
 
 ## nodejs 
 
+- [boxyhq/jackson](https://github.com/boxyhq/jackson) - SAML Jackson: An Enterprise SAML SSO service designed as an OAuth 2.0 or OpenID Connect flow. Integrate SAML and OIDC with just a few lines of code. Demo - https://saml-demo.boxyhq.com
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 
@@ -776,6 +787,10 @@
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by MapsWithMe (MapsMe) founde
 - [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - A BSD-based OS project that aims to provide an experience like and some compatibility with macOS (formerly known as airyxOS)
 - [xmake-io/xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
+
+## open-source 
+
+- [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 
 ## opengl 
 
@@ -806,7 +821,6 @@
 - [folkertvanheusden/multitail](https://github.com/folkertvanheusden/multitail) - Tail on steroids
 - [machengim/oasis](https://github.com/machengim/oasis) - Self-hosted file server
 - [nathanfarlow/stylehax](https://github.com/nathanfarlow/stylehax) - Nintendo DSi browser exploit
-- [boxyhq/jackson](https://github.com/boxyhq/jackson) - SAML Jackson: An Enterprise SAML SSO service designed as an OAuth 2.0 or OpenID Connect flow. Integrate SAML and OIDC with just a few lines of code. Demo - https://saml-demo.boxyhq.com
 - [phpgl/visu](https://github.com/phpgl/visu) - A Modern OpenGL Framework for PHP.
 - [nix-community/disko](https://github.com/nix-community/disko) - Format disks with nix-config [maintainer=@Lassulus]
 - [vinceliuice/Colloid-gtk-theme](https://github.com/vinceliuice/Colloid-gtk-theme) - Colloid gtk theme for linux
@@ -1270,6 +1284,7 @@
 
 ## typescript 
 
+- [boxyhq/jackson](https://github.com/boxyhq/jackson) - SAML Jackson: An Enterprise SAML SSO service designed as an OAuth 2.0 or OpenID Connect flow. Integrate SAML and OIDC with just a few lines of code. Demo - https://saml-demo.boxyhq.com
 - [matrix-org/thirdroom](https://github.com/matrix-org/thirdroom) - Open, decentralised, immersive worlds built on Matrix
 - [comby-tools/comby](https://github.com/comby-tools/comby) - A code rewrite tool for structural search and replace that supports ~every language.
 
