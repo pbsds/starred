@@ -1012,7 +1012,7 @@
 - [fail0verflow/hbc](https://github.com/fail0verflow/hbc) - The Homebrew Channel - open source edition
 - [HouraiTeahouse/FantasyCrescendo](https://github.com/HouraiTeahouse/FantasyCrescendo) - A 2.5D Touhou Platform Fighter, By the fans, for the fans.
 - [p-e-w/maybe](https://github.com/p-e-w/maybe) - :open_file_folder: :rabbit2: :tophat: See what a program does before deciding whether you really want it to happen (NO LONGER MAINTAINED)
-- [o4dev/i3](https://github.com/o4dev/i3) - Unofficial i3 Mirror. Includes a gaps branch for gaps between windows.
+- [stlukey/i3](https://github.com/stlukey/i3) - Unofficial i3 Mirror. Includes a gaps branch for gaps between windows.
 - [PaulSec/twittor](https://github.com/PaulSec/twittor) - A fully featured backdoor that uses Twitter as a C&C server
 - [aboood40091/drc-sim](https://github.com/aboood40091/drc-sim) - Turn your PC into a Wii U gamepad/controller!
 - [vsergeev/python-periphery](https://github.com/vsergeev/python-periphery) - A pure Python 2/3 library for peripheral I/O (GPIO, LED, PWM, SPI, I2C, MMIO, Serial) in Linux.
