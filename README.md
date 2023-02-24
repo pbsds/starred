@@ -98,7 +98,7 @@
 - [shinh/elvm](https://github.com/shinh/elvm) - EsoLangVM Compiler Infrastructure
 - [EGG-electric-unicycle/documentation](https://github.com/EGG-electric-unicycle/documentation) - 
 - [fail0verflow/hbc](https://github.com/fail0verflow/hbc) - The Homebrew Channel - open source edition
-- [o4dev/i3](https://github.com/o4dev/i3) - Unofficial i3 Mirror. Includes a gaps branch for gaps between windows.
+- [stlukey/i3](https://github.com/stlukey/i3) - Unofficial i3 Mirror. Includes a gaps branch for gaps between windows.
 - [Arisotura/blargSnes](https://github.com/Arisotura/blargSnes) - SNES emulator for the 3DS.
 
 ## C# # 
