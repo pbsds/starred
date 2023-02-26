@@ -921,7 +921,7 @@
 - [vsitzmann/awesome-implicit-representations](https://github.com/vsitzmann/awesome-implicit-representations) - A curated list of resources on implicit neural representations.
 - [psykon/awesome-demoscene](https://github.com/psykon/awesome-demoscene) - A list of demoscene related tools, code and ressources.
 - [audreyt/ethercalc](https://github.com/audreyt/ethercalc) - Node.js port of Multi-user SocialCalc
-- [Hjdskes/cage](https://github.com/Hjdskes/cage) - A Wayland kiosk
+- [cage-kiosk/cage](https://github.com/cage-kiosk/cage) - A Wayland kiosk
 - [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
 - [icebreaker-fpga/icebreaker-litex-examples](https://github.com/icebreaker-fpga/icebreaker-litex-examples) - Example litex Risc-V SOC and some example code projects in multiple languages.
 - [geteduroam/windows-app](https://github.com/geteduroam/windows-app) - Windows application for geteduroam
