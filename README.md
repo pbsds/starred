@@ -596,7 +596,7 @@
 ## TypeScript 
 
 - [diced/zipline](https://github.com/diced/zipline) - A ShareX/file upload server that is easy to use, packed with features, and with an easy setup!
-- [boxyhq/jackson](https://github.com/boxyhq/jackson) - SAML Jackson: An Enterprise SAML SSO service designed as an OAuth 2.0 or OpenID Connect flow. Integrate SAML and OIDC with just a few lines of code. Demo - https://saml-demo.boxyhq.com
+- [boxyhq/jackson](https://github.com/boxyhq/jackson) - An Enterprise SAML single sign-on service designed as an OAuth 2.0 flow. Integrate SAML and OIDC SSO with just a few lines of code.
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 An interplanetary microblogging platform 🚀
 - [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) - Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
