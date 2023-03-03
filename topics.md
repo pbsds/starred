@@ -136,6 +136,7 @@
 - [ubuntu](#ubuntu)
 - [unity](#unity)
 - [vim](#vim)
+- [vuejs](#vuejs)
 - [web](#web)
 - [webpack](#webpack)
 - [windows](#windows)
@@ -808,6 +809,8 @@
 
 ## others 
 
+- [jeanfeydy/geomloss](https://github.com/jeanfeydy/geomloss) - Geometric loss functions between point clouds, images and volumes
+- [getkeops/keops](https://github.com/getkeops/keops) - KErnel OPerationS, on CPUs and GPUs, with autodiff and without memory overflows
 - [containers/bubblewrap](https://github.com/containers/bubblewrap) - Unprivileged sandboxing tool
 - [robn/freebsd-vf2](https://github.com/robn/freebsd-vf2) - FreeBSD on StarFive VisionFive 2
 - [NickCao/nixos-riscv](https://github.com/NickCao/nixos-riscv) - 
@@ -1307,6 +1310,10 @@
 - [thameera/vimv](https://github.com/thameera/vimv) - Batch-rename files using Vim
 - [themerdev/themer](https://github.com/themerdev/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
+
+## vuejs 
+
+- [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
 
 ## web 
 
