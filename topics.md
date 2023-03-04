@@ -136,7 +136,6 @@
 - [ubuntu](#ubuntu)
 - [unity](#unity)
 - [vim](#vim)
-- [vuejs](#vuejs)
 - [web](#web)
 - [webpack](#webpack)
 - [windows](#windows)
@@ -1310,10 +1309,6 @@
 - [thameera/vimv](https://github.com/thameera/vimv) - Batch-rename files using Vim
 - [themerdev/themer](https://github.com/themerdev/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
-
-## vuejs 
-
-- [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
 
 ## web 
 
