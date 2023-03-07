@@ -815,6 +815,7 @@
 
 ## others 
 
+- [jbhuang0604/awesome-tips](https://github.com/jbhuang0604/awesome-tips) - 
 - [jeanfeydy/geomloss](https://github.com/jeanfeydy/geomloss) - Geometric loss functions between point clouds, images and volumes
 - [getkeops/keops](https://github.com/getkeops/keops) - KErnel OPerationS, on CPUs and GPUs, with autodiff and without memory overflows
 - [containers/bubblewrap](https://github.com/containers/bubblewrap) - Unprivileged sandboxing tool
