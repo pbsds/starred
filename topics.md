@@ -138,6 +138,7 @@
 - [ubuntu](#ubuntu)
 - [unity](#unity)
 - [vim](#vim)
+- [vuejs](#vuejs)
 - [web](#web)
 - [webpack](#webpack)
 - [windows](#windows)
@@ -820,6 +821,7 @@
 
 ## others 
 
+- [FOSDEM/video](https://github.com/FOSDEM/video) - 
 - [jbhuang0604/awesome-tips](https://github.com/jbhuang0604/awesome-tips) - 
 - [jeanfeydy/geomloss](https://github.com/jeanfeydy/geomloss) - Geometric loss functions between point clouds, images and volumes
 - [getkeops/keops](https://github.com/getkeops/keops) - KErnel OPerationS, on CPUs and GPUs, with autodiff and without memory overflows
@@ -1322,6 +1324,10 @@
 - [thameera/vimv](https://github.com/thameera/vimv) - Batch-rename files using Vim
 - [themerdev/themer](https://github.com/themerdev/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
+
+## vuejs 
+
+- [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
 
 ## web 
 
