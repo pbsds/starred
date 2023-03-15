@@ -468,6 +468,7 @@
 
 ## game-development 
 
+- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [samdze/playdate-nim](https://github.com/samdze/playdate-nim) - Nim bindings with extra features for the Playdate SDK
 - [deepnight/ldtk](https://github.com/deepnight/ldtk) - Modern, lightweight and efficient 2D level editor
@@ -477,6 +478,7 @@
 
 ## game-engine 
 
+- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen.
 
@@ -525,6 +527,7 @@
 
 ## hacktoberfest 
 
+- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [diced/zipline](https://github.com/diced/zipline) - A ShareX/file upload server that is easy to use, packed with features, and with an easy setup!
 - [Rust-GCC/gccrs](https://github.com/Rust-GCC/gccrs) - GCC Front-End for Rust
@@ -806,6 +809,7 @@
 
 ## open-source 
 
+- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [boxyhq/jackson](https://github.com/boxyhq/jackson) - An Enterprise SAML single sign-on service designed as an OAuth 2.0 flow. Integrate SAML and OIDC SSO with just a few lines of code.
 
@@ -821,6 +825,8 @@
 
 ## others 
 
+- [nixified-ai/flake](https://github.com/nixified-ai/flake) - A Nix flake for many AI projects
+- [gbtb/nix-stable-diffusion](https://github.com/gbtb/nix-stable-diffusion) - Flake for running SD on NixOS
 - [FOSDEM/video](https://github.com/FOSDEM/video) - 
 - [jbhuang0604/awesome-tips](https://github.com/jbhuang0604/awesome-tips) - 
 - [jeanfeydy/geomloss](https://github.com/jeanfeydy/geomloss) - Geometric loss functions between point clouds, images and volumes
@@ -1190,6 +1196,7 @@
 
 ## rust 
 
+- [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative.
 - [vulkano-rs/vulkano](https://github.com/vulkano-rs/vulkano) - Safe and rich Rust wrapper around the Vulkan API
 - [Rust-GCC/gccrs](https://github.com/Rust-GCC/gccrs) - GCC Front-End for Rust
