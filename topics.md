@@ -513,6 +513,7 @@
 
 ## golang 
 
+- [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
 - [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, ActivityPub server, powered by Go.
 - [cube2222/octosql](https://github.com/cube2222/octosql) - OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
@@ -601,7 +602,7 @@
 
 ## iot 
 
-- [pikasTech/PikaPython](https://github.com/pikasTech/PikaPython) - PikaPython - Python runs with  only 4KB of RAM, zero dependencies, easy to bind with C. Similar project: MicroPython, JerryScript.
+- [pikasTech/PikaPython](https://github.com/pikasTech/PikaPython) - An ultra-lightweight Python interpreter that runs with only 4KB of RAM, zero dependencies. It is ready to use out of the box without any configuration required and easy to extend with C. Similar proje
 
 ## java 
 
@@ -652,7 +653,7 @@
 - [jank-lang/jank](https://github.com/jank-lang/jank) - A Clojure dialect on LLVM with gradual typing, a native runtime, and C++ interop
 - [nim-lang/Nim](https://github.com/nim-lang/Nim) - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, an
 - [curv3d/curv](https://github.com/curv3d/curv) - a language for making art using mathematics
-- [pikasTech/PikaPython](https://github.com/pikasTech/PikaPython) - PikaPython - Python runs with  only 4KB of RAM, zero dependencies, easy to bind with C. Similar project: MicroPython, JerryScript.
+- [pikasTech/PikaPython](https://github.com/pikasTech/PikaPython) - An ultra-lightweight Python interpreter that runs with only 4KB of RAM, zero dependencies. It is ready to use out of the box without any configuration required and easy to extend with C. Similar proje
 - [erg-lang/erg](https://github.com/erg-lang/erg) - A statically typed language that can deeply improve the Python ecosystem
 - [roc-lang/roc](https://github.com/roc-lang/roc) - Roc's goal is to be a fast, friendly, functional language.
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
@@ -713,7 +714,7 @@
 ## lua 
 
 - [jgm/djot](https://github.com/jgm/djot) - A light markup language
-- [pikasTech/PikaPython](https://github.com/pikasTech/PikaPython) - PikaPython - Python runs with  only 4KB of RAM, zero dependencies, easy to bind with C. Similar project: MicroPython, JerryScript.
+- [pikasTech/PikaPython](https://github.com/pikasTech/PikaPython) - An ultra-lightweight Python interpreter that runs with only 4KB of RAM, zero dependencies. It is ready to use out of the box without any configuration required and easy to extend with C. Similar proje
 - [xmake-io/xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
 
 ## machine-learning 
@@ -1096,7 +1097,7 @@
 
 ## python 
 
-- [pikasTech/PikaPython](https://github.com/pikasTech/PikaPython) - PikaPython - Python runs with  only 4KB of RAM, zero dependencies, easy to bind with C. Similar project: MicroPython, JerryScript.
+- [pikasTech/PikaPython](https://github.com/pikasTech/PikaPython) - An ultra-lightweight Python interpreter that runs with only 4KB of RAM, zero dependencies. It is ready to use out of the box without any configuration required and easy to extend with C. Similar proje
 - [pudo/dataset](https://github.com/pudo/dataset) - Easy-to-use data handling for SQL data stores with support for implicit table creation, bulk loading, and transactions.
 - [flet-dev/flet](https://github.com/flet-dev/flet) - Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.
 - [erg-lang/erg](https://github.com/erg-lang/erg) - A statically typed language that can deeply improve the Python ecosystem
