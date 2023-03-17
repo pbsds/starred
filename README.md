@@ -226,6 +226,7 @@
 
 ## Haskell 
 
+- [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 - [zachjs/sv2v](https://github.com/zachjs/sv2v) - SystemVerilog to Verilog conversion
 - [maralorn/nix-output-monitor](https://github.com/maralorn/nix-output-monitor) - Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building.
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
