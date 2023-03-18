@@ -50,7 +50,7 @@
 
 ## C 
 
-- [containers/bubblewrap](https://github.com/containers/bubblewrap) - Unprivileged sandboxing tool
+- [containers/bubblewrap](https://github.com/containers/bubblewrap) - Low-level unprivileged sandboxing tool used by Flatpak and similar projects
 - [yuq/gfx](https://github.com/yuq/gfx) - 
 - [folkertvanheusden/multitail](https://github.com/folkertvanheusden/multitail) - Tail on steroids
 - [nathanfarlow/stylehax](https://github.com/nathanfarlow/stylehax) - Nintendo DSi browser exploit
