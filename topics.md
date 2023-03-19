@@ -829,6 +829,7 @@
 
 ## others 
 
+- [dali99/nixos-matrix-modules](https://github.com/dali99/nixos-matrix-modules) - NixOS modules for matrix related services
 - [nixified-ai/flake](https://github.com/nixified-ai/flake) - A Nix flake for many AI projects
 - [gbtb/nix-stable-diffusion](https://github.com/gbtb/nix-stable-diffusion) - Flake for running SD on NixOS
 - [FOSDEM/video](https://github.com/FOSDEM/video) - 
