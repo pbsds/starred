@@ -201,7 +201,7 @@
 
 - [cjolowicz/nox-poetry](https://github.com/cjolowicz/nox-poetry) - Use Poetry inside Nox sessions
 - [BastilleBSD/rocinante](https://github.com/BastilleBSD/rocinante) - Rosinante is lightweight configuration management software.
-- [suptejas/electric](https://github.com/suptejas/electric) - A fast, futuristic package manager for Windows.
+- [dimensionhq/electric](https://github.com/dimensionhq/electric) - A fast, futuristic package manager for Windows.
 
 ## awesome 
 
@@ -266,7 +266,7 @@
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [joehillen/sysz](https://github.com/joehillen/sysz) - An fzf  terminal UI for systemctl
-- [suptejas/electric](https://github.com/suptejas/electric) - A fast, futuristic package manager for Windows.
+- [dimensionhq/electric](https://github.com/dimensionhq/electric) - A fast, futuristic package manager for Windows.
 - [soywod/himalaya](https://github.com/soywod/himalaya) - Command-line interface for email management
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
 - [Byron/gitoxide](https://github.com/Byron/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
@@ -399,7 +399,7 @@
 
 - [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
 - [mbucc/shmig](https://github.com/mbucc/shmig) - Database migration tool written in BASH.
-- [suptejas/electric](https://github.com/suptejas/electric) - A fast, futuristic package manager for Windows.
+- [dimensionhq/electric](https://github.com/dimensionhq/electric) - A fast, futuristic package manager for Windows.
 
 ## discord 
 
@@ -1065,7 +1065,7 @@
 ## package-manager 
 
 - [DavHau/nix-portable](https://github.com/DavHau/nix-portable) - Nix - Static, Permissionless, Installation-free, Pre-configured
-- [suptejas/electric](https://github.com/suptejas/electric) - A fast, futuristic package manager for Windows.
+- [dimensionhq/electric](https://github.com/dimensionhq/electric) - A fast, futuristic package manager for Windows.
 - [xmake-io/xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
 - [olofk/fusesoc](https://github.com/olofk/fusesoc) - Package manager and build abstraction tool for FPGA/ASIC development
 
@@ -1088,7 +1088,7 @@
 
 ## powershell 
 
-- [suptejas/electric](https://github.com/suptejas/electric) - A fast, futuristic package manager for Windows.
+- [dimensionhq/electric](https://github.com/dimensionhq/electric) - A fast, futuristic package manager for Windows.
 
 ## programming 
 
@@ -1124,7 +1124,7 @@
 - [sdispater/pendulum](https://github.com/sdispater/pendulum) - Python datetimes made easy
 - [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps) - A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries.
 - [tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
-- [suptejas/electric](https://github.com/suptejas/electric) - A fast, futuristic package manager for Windows.
+- [dimensionhq/electric](https://github.com/dimensionhq/electric) - A fast, futuristic package manager for Windows.
 - [RocketRace/easy_z3](https://github.com/RocketRace/easy_z3) - Using z3's never been easier (maybe)
 - [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
 - [glumpy/glumpy](https://github.com/glumpy/glumpy) - Python+Numpy+OpenGL: fast, scalable and beautiful scientific visualization
@@ -1245,7 +1245,7 @@
 
 ## server 
 
-- [suptejas/electric](https://github.com/suptejas/electric) - A fast, futuristic package manager for Windows.
+- [dimensionhq/electric](https://github.com/dimensionhq/electric) - A fast, futuristic package manager for Windows.
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
 
 ## shell 
@@ -1364,7 +1364,7 @@
 - [tangobattle/tango](https://github.com/tangobattle/tango) - Play Mega Man Battle Network online with rollback netcode!
 - [WoeUSB/WoeUSB](https://github.com/WoeUSB/WoeUSB) - A Microsoft Windows® USB installation media preparer for GNU+Linux
 - [winfsp/sshfs-win](https://github.com/winfsp/sshfs-win) - SSHFS For Windows
-- [suptejas/electric](https://github.com/suptejas/electric) - A fast, futuristic package manager for Windows.
+- [dimensionhq/electric](https://github.com/dimensionhq/electric) - A fast, futuristic package manager for Windows.
 - [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
