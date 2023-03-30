@@ -433,7 +433,7 @@
 - [bgreenlee/pygtail](https://github.com/bgreenlee/pygtail) - Pygtail reads log file lines that have not been read. It will even handle log files that have been rotated. Based on logcheck's logtail2 (http://logcheck.org)
 - [sdispater/pendulum](https://github.com/sdispater/pendulum) - Python datetimes made easy
 - [tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
-- [suptejas/electric](https://github.com/suptejas/electric) - A fast, futuristic package manager for Windows.
+- [dimensionhq/electric](https://github.com/dimensionhq/electric) - A fast, futuristic package manager for Windows.
 - [RocketRace/easy_z3](https://github.com/RocketRace/easy_z3) - Using z3's never been easier (maybe)
 - [icebreaker-fpga/icebreaker-litex-examples](https://github.com/icebreaker-fpga/icebreaker-litex-examples) - Example litex Risc-V SOC and some example code projects in multiple languages.
 - [martinResearch/DEODR](https://github.com/martinResearch/DEODR) - A differentiable 3D renderer with Pytorch, Tensorflow and Matlab interfaces
