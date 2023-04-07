@@ -416,7 +416,7 @@
 - [R-O-C-K-E-T/Factorio-SAT](https://github.com/R-O-C-K-E-T/Factorio-SAT) - Enhancing the Factorio experience with SAT solvers
 - [kinnay/LDN](https://github.com/kinnay/LDN) - Python package for local wireless communication with a Nintendo Switch
 - [FlyingGiraffe/vnn](https://github.com/FlyingGiraffe/vnn) - Vector Neurons: A General Framework for SO(3)-Equivariant Networks
-- [navis-org/skeletor](https://github.com/navis-org/skeletor) - 3D skeleton extraction from meshes.
+- [navis-org/skeletor](https://github.com/navis-org/skeletor) - Extraction of 3D skeletons from meshes.
 - [hukkelas/sharpened_cosine_similarity_torch](https://github.com/hukkelas/sharpened_cosine_similarity_torch) - A Sharpened Cosine Similarity layer for PyTorch
 - [facebookresearch/higher](https://github.com/facebookresearch/higher) - higher is a pytorch library allowing users to obtain higher order gradients over losses spanning training loops rather than individual training steps.
 - [kylepollina/objexplore](https://github.com/kylepollina/objexplore) - A terminal UI to inspect and explore Python objects
