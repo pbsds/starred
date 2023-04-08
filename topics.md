@@ -45,6 +45,7 @@
 - [docker](#docker)
 - [documentation](#documentation)
 - [dotnet](#dotnet)
+- [education](#education)
 - [electron](#electron)
 - [emulator](#emulator)
 - [firefox](#firefox)
@@ -424,6 +425,11 @@
 
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
 - [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
+
+## education 
+
+- [UCL-INGI/INGInious](https://github.com/UCL-INGI/INGInious) - INGInious is a secure and automated exercises assessment platform using your own tests, also providing a pluggable interface with your existing LMS.
+- [hneemann/Digital](https://github.com/hneemann/Digital) - A digital logic designer and circuit simulator.
 
 ## electron 
 
@@ -1033,7 +1039,6 @@
 - [jezen/is-thirteen](https://github.com/jezen/is-thirteen) - Check if a number is equal to 13.
 - [jaames/flipnote-player](https://github.com/jaames/flipnote-player) - 🎬 Web player and video converter for animations made with Flipnote Studio; an animation app for the Nintendo DSi and 3DS
 - [EGG-electric-unicycle/documentation](https://github.com/EGG-electric-unicycle/documentation) - 
-- [hneemann/Digital](https://github.com/hneemann/Digital) - A digital logic designer and circuit simulator.
 - [game-icons/icons](https://github.com/game-icons/icons) - All SVG icons available on http://game-icons.net
 - [fyrkat/ssp-theme](https://github.com/fyrkat/ssp-theme) - fyrkat theme for SimpleSamlPhp
 - [tbenthompson/cppimport](https://github.com/tbenthompson/cppimport) - Import C++ files directly from Python!
