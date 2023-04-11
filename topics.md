@@ -825,6 +825,7 @@
 
 ## opengl 
 
+- [sutne-NTNU/TDT4230-Graphics-and-Visualization](https://github.com/sutne-NTNU/TDT4230-Graphics-and-Visualization) - 2022 Spring Semester. Assignments and Project in the course.
 - [utensils/docker-opengl](https://github.com/utensils/docker-opengl) - Multi-Arch Docker - Mesa 3D OpenGL Software Rendering (Gallium) - LLVMpipe, and OpenSWR Drivers
 - [glumpy/glumpy](https://github.com/glumpy/glumpy) - Python+Numpy+OpenGL: fast, scalable and beautiful scientific visualization
 
@@ -835,6 +836,7 @@
 
 ## others 
 
+- [numtide/system-manager](https://github.com/numtide/system-manager) - Manage system config using nix on any distro
 - [dali99/nixos-matrix-modules](https://github.com/dali99/nixos-matrix-modules) - NixOS modules for matrix related services
 - [nixified-ai/flake](https://github.com/nixified-ai/flake) - A Nix flake for many AI projects
 - [gbtb/nix-stable-diffusion](https://github.com/gbtb/nix-stable-diffusion) - Flake for running SD on NixOS
@@ -913,7 +915,6 @@
 - [Stektpotet/overkill-2022](https://github.com/Stektpotet/overkill-2022) - TDT4230 Graphics and Visualisation Final Project
 - [microsoft/Microsoft-3D-Movie-Maker](https://github.com/microsoft/Microsoft-3D-Movie-Maker) - This is the source code for the original Microsoft 3D Movie Maker released in 1995. This is not supported software.
 - [Eeaeau/TDT4230-Project-space-swarm](https://github.com/Eeaeau/TDT4230-Project-space-swarm) - 
-- [sutne-NTNU/TDT4230-Graphics-and-Visualization](https://github.com/sutne-NTNU/TDT4230-Graphics-and-Visualization) - 2022 Spring Semester. Assignments and Project in the course.
 - [Riphiphip/TDT4230-project](https://github.com/Riphiphip/TDT4230-project) - TDT4230 Graphics project: OpenGL Metaballs
 - [LarsAur/TDT4230-Final-Project](https://github.com/LarsAur/TDT4230-Final-Project) - 
 - [Embla-Flatlandsmo/openGL-playground](https://github.com/Embla-Flatlandsmo/openGL-playground) - 
