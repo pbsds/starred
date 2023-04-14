@@ -663,7 +663,7 @@
 - [curv3d/curv](https://github.com/curv3d/curv) - a language for making art using mathematics
 - [pikasTech/PikaPython](https://github.com/pikasTech/PikaPython) - An ultra-lightweight Python interpreter that runs with only 4KB of RAM, zero dependencies. It is ready to use out of the box without any configuration required and easy to extend with C. Similar proje
 - [erg-lang/erg](https://github.com/erg-lang/erg) - A statically typed language that can deeply improve the Python ecosystem
-- [roc-lang/roc](https://github.com/roc-lang/roc) - Roc's goal is to be a fast, friendly, functional language.
+- [roc-lang/roc](https://github.com/roc-lang/roc) - A fast, friendly, functional language. Work in progress!
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [sylefeb/Silice](https://github.com/sylefeb/Silice) - Silice is an open source language that simplifies prototyping and writing algorithms on FPGA architectures.
 - [pyos/dg](https://github.com/pyos/dg) - A programming language for the CPython VM.
