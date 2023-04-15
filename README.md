@@ -362,7 +362,7 @@
 - [google-research/tuning_playbook](https://github.com/google-research/tuning_playbook) - A playbook for systematically maximizing the performance of deep learning models.
 - [NixOS/nix-book](https://github.com/NixOS/nix-book) - Nix documentation – centralized community online learning resource for Nix
 - [Ravenslofty/yosys-cookbook](https://github.com/Ravenslofty/yosys-cookbook) - User-friendly explanation of Yosys options
-- [weihaox/awesome-neural-rendering](https://github.com/weihaox/awesome-neural-rendering) - A collection of resources on neural rendering.
+- [weihaox/awesome-neural-rendering](https://github.com/weihaox/awesome-neural-rendering) - A curated list of  neural rendering resources.
 - [vsitzmann/awesome-implicit-representations](https://github.com/vsitzmann/awesome-implicit-representations) - A curated list of resources on implicit neural representations.
 - [psykon/awesome-demoscene](https://github.com/psykon/awesome-demoscene) - A list of demoscene related tools, code and ressources.
 - [uso-archive/data](https://github.com/uso-archive/data) - Full mirror of UserStyles.org
