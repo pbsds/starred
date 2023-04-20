@@ -836,6 +836,7 @@
 
 ## others 
 
+- [Fueredoriku/FractalWorldExplorer](https://github.com/Fueredoriku/FractalWorldExplorer) - A TDT4230 project application where one can explore self-defined fractals. This project uses openGL to implement a raymarcher in C++.
 - [numtide/system-manager](https://github.com/numtide/system-manager) - Manage system config using nix on any distro
 - [dali99/nixos-matrix-modules](https://github.com/dali99/nixos-matrix-modules) - NixOS modules for matrix related services
 - [nixified-ai/flake](https://github.com/nixified-ai/flake) - A Nix flake for many AI projects
