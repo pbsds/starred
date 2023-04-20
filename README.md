@@ -216,6 +216,7 @@
 
 ## HTML 
 
+- [Fueredoriku/FractalWorldExplorer](https://github.com/Fueredoriku/FractalWorldExplorer) - A TDT4230 project application where one can explore self-defined fractals. This project uses openGL to implement a raymarcher in C++.
 - [jgm/djot](https://github.com/jgm/djot) - A light markup language
 - [googlefonts/atkinson-hyperlegible](https://github.com/googlefonts/atkinson-hyperlegible) - 
 - [Ravenslofty/mistral](https://github.com/Ravenslofty/mistral) - Cyclone V bitstream reverse-engineering project
