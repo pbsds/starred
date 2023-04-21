@@ -397,6 +397,7 @@
 
 ## Python 
 
+- [numtide/nix-gl-host](https://github.com/numtide/nix-gl-host) - Run OpenGL/Cuda programs built with Nix, on all Linux distributions.
 - [jeanfeydy/geomloss](https://github.com/jeanfeydy/geomloss) - Geometric loss functions between point clouds, images and volumes
 - [getkeops/keops](https://github.com/getkeops/keops) - KErnel OPerationS, on CPUs and GPUs, with autodiff and without memory overflows
 - [nerfstudio-project/nerfstudio](https://github.com/nerfstudio-project/nerfstudio) - A collaboration friendly studio for NeRFs
@@ -504,6 +505,7 @@
 
 ## Rust 
 
+- [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
 - [numtide/system-manager](https://github.com/numtide/system-manager) - Manage system config using nix on any distro
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [serokell/deploy-rs](https://github.com/serokell/deploy-rs) - A simple multi-profile Nix-flake deploy tool.
