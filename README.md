@@ -397,6 +397,9 @@
 
 ## Python 
 
+- [VITA-Group/GNT](https://github.com/VITA-Group/GNT) - [ICLR 2023] "Is Attention All NeRF Needs?" by Mukund Varma T*, Peihao Wang* , Xuxi Chen, Tianlong Chen, Subhashini Venugopalan, Zhangyang Wang
+- [ashawkey/stable-dreamfusion](https://github.com/ashawkey/stable-dreamfusion) - A pytorch implementation of text-to-3D dreamfusion, powered by stable diffusion.
+- [openai/shap-e](https://github.com/openai/shap-e) - Generate 3D objects conditioned on text or images
 - [numtide/nix-gl-host](https://github.com/numtide/nix-gl-host) - Run OpenGL/Cuda programs built with Nix, on all Linux distributions.
 - [jeanfeydy/geomloss](https://github.com/jeanfeydy/geomloss) - Geometric loss functions between point clouds, images and volumes
 - [getkeops/keops](https://github.com/getkeops/keops) - KErnel OPerationS, on CPUs and GPUs, with autodiff and without memory overflows
