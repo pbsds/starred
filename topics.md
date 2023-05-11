@@ -1079,6 +1079,7 @@
 
 ## package-manager 
 
+- [nmattia/niv](https://github.com/nmattia/niv) - Easy dependency management for Nix projects
 - [DavHau/nix-portable](https://github.com/DavHau/nix-portable) - Nix - Static, Permissionless, Installation-free, Pre-configured
 - [dimensionhq/electric](https://github.com/dimensionhq/electric) - A fast, futuristic package manager for Windows.
 - [xmake-io/xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
