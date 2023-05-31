@@ -1013,7 +1013,7 @@
 - [RobertBaruch/n6800](https://github.com/RobertBaruch/n6800) - A 6800 CPU written in nMigen
 - [brownhci/WebGazer](https://github.com/brownhci/WebGazer) - WebGazer.js: Scalable Webcam EyeTracking Using User Interactions
 - [JibbSmart/JoyShockMapper](https://github.com/JibbSmart/JoyShockMapper) - A tool for PC gamers to play games with DualShock 4, DualSense, JoyCon, and Switch Pro Controllers. Gyro aiming, flick stick.
-- [formatc1702/WireViz](https://github.com/formatc1702/WireViz) - Easily document cables and wiring harnesses
+- [wireviz/WireViz](https://github.com/wireviz/WireViz) - Easily document cables and wiring harnesses
 - [YosysHQ/fpga-toolchain](https://github.com/YosysHQ/fpga-toolchain) - Multi-platform nightly builds of open source FPGA tools
 - [carlini/printf-tac-toe](https://github.com/carlini/printf-tac-toe) - tic-tac-toe in a single call to printf
 - [flotwig/the-one-cert](https://github.com/flotwig/the-one-cert) - One cert to rule them all: SSL cert that is valid for any and all domains + all levels of subdomains
