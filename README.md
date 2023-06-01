@@ -466,7 +466,7 @@
 - [RobertBaruch/n6800](https://github.com/RobertBaruch/n6800) - A 6800 CPU written in nMigen
 - [berenm/steam-cli](https://github.com/berenm/steam-cli) - Command-line interface to install and execute Steam games
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
-- [wireviz/WireViz](https://github.com/wireviz/WireViz) - Easily document cables and wiring harnesses
+- [wireviz/WireViz](https://github.com/wireviz/WireViz) - Easily document cables and wiring harnesses.
 - [pyos/dg](https://github.com/pyos/dg) - A programming language for the CPython VM.
 - [timothycrosley/portray](https://github.com/timothycrosley/portray) - Your Project with Great Documentation.
 - [hauntsaninja/pyp](https://github.com/hauntsaninja/pyp) - Easily run Python at the shell! Magical, but never mysterious.
