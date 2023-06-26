@@ -847,6 +847,7 @@
 
 ## others 
 
+- [nix-community/nix-vscode-extensions](https://github.com/nix-community/nix-vscode-extensions) - Nix expressions for VSCode and OpenVSX extensions [maintainers: @deemp, @AmeerTaweel]
 - [arturs-berzins/boundary_sensitivity](https://github.com/arturs-berzins/boundary_sensitivity) - Code for the ICLR 2023 paper Neural Implicit Shape Editing using Boundary Sensitivity.
 - [HigherOrderCO/HVM](https://github.com/HigherOrderCO/HVM) - A massively parallel, optimal functional runtime in Rust
 - [bjorne/git-pa-svenska](https://github.com/bjorne/git-pa-svenska) - Git på svenska
