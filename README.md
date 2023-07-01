@@ -123,7 +123,7 @@
 - [chipsalliance/verible](https://github.com/chipsalliance/verible) - Verible is a suite of SystemVerilog developer tools, including a parser, style-linter, formatter and language server
 - [C3RV1/UndertaleNDS](https://github.com/C3RV1/UndertaleNDS) - Undertale port for Nintendo DS (src only, no copyrighted material).
 - [clsid2/mpc-hc](https://github.com/clsid2/mpc-hc) - Media Player Classic
-- [jank-lang/jank](https://github.com/jank-lang/jank) - A Clojure dialect on LLVM with gradual typing, a native runtime, and C++ interop
+- [jank-lang/jank](https://github.com/jank-lang/jank) - A Clojure dialect hosted on LLVM with native C++ interop
 - [patriciogonzalezvivo/glslViewer](https://github.com/patriciogonzalezvivo/glslViewer) - Console-based GLSL Sandbox for 2D/3D shaders
 - [fstl-app/fstl](https://github.com/fstl-app/fstl) - A fast STL file viewer
 - [curv3d/curv](https://github.com/curv3d/curv) - a language for making art using mathematics
@@ -519,7 +519,7 @@
 - [szabodanika/microbin](https://github.com/szabodanika/microbin) - A tiny, self-contained, configurable paste bin and URL shortener written in Rust.
 - [rerun-io/rerun](https://github.com/rerun-io/rerun) - Log images, point clouds, etc, and visualize them effortlessly. Built in Rust using egui
 - [HigherOrderCO/HVM](https://github.com/HigherOrderCO/HVM) - A massively parallel, optimal functional runtime in Rust
-- [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A fast and polyglot tool for code structrual search, lint and rewriting at large scale. Written in Rust
+- [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structrual search, lint and rewriting. Written in Rust
 - [mitsuhiko/rye](https://github.com/mitsuhiko/rye) - An Experimental Package Management Solution for Python
 - [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
 - [numtide/system-manager](https://github.com/numtide/system-manager) - Manage system config using nix on any distro
