@@ -561,6 +561,7 @@
 
 ## hacktoberfest 
 
+- [taconi/plugin-channel](https://github.com/taconi/plugin-channel) - Fork by official plugin channel for micro
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [diced/zipline](https://github.com/diced/zipline) - A ShareX/file upload server that is easy to use, packed with features, and with an easy setup!
@@ -861,6 +862,9 @@
 
 ## others 
 
+- [CloudCannon/pagefind](https://github.com/CloudCannon/pagefind) - Static low-bandwidth search at scale
+- [ajalt/fuckitpy](https://github.com/ajalt/fuckitpy) - The Python error steamroller.
+- [zhaofengli/attic](https://github.com/zhaofengli/attic) - Multi-tenant Nix Binary Cache
 - [considerate/nixos-odroidhc4](https://github.com/considerate/nixos-odroidhc4) - NixOS configuration for the ODROID HC4 microcomputer
 - [nix-community/nix-vscode-extensions](https://github.com/nix-community/nix-vscode-extensions) - Nix expressions for VSCode and OpenVSX extensions [maintainers: @deemp, @AmeerTaweel]
 - [arturs-berzins/boundary_sensitivity](https://github.com/arturs-berzins/boundary_sensitivity) - Code for the ICLR 2023 paper Neural Implicit Shape Editing using Boundary Sensitivity.
