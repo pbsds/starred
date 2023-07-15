@@ -234,6 +234,7 @@
 
 ## Haskell 
 
+- [jgm/typst-hs](https://github.com/jgm/typst-hs) - Haskell library for parsing and evaluating typst
 - [nix-community/nix-vscode-extensions](https://github.com/nix-community/nix-vscode-extensions) - Nix expressions for VSCode and OpenVSX extensions [maintainers: @deemp, @AmeerTaweel]
 - [nmattia/niv](https://github.com/nmattia/niv) - Easy dependency management for Nix projects
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
