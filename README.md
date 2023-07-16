@@ -250,6 +250,7 @@
 
 ## Java 
 
+- [Difegue/DoujinSoft](https://github.com/Difegue/DoujinSoft) - Web Shop/Archive for WarioWare DIY games.
 - [open-pdf-sign/open-pdf-sign](https://github.com/open-pdf-sign/open-pdf-sign) - Digitally sign PDF files from your commandline
 - [MineDojo/MineDojo](https://github.com/MineDojo/MineDojo) - Building Open-Ended Embodied Agents with Internet-Scale Knowledge
 - [EnterpriseQualityCoding/FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes.
@@ -370,6 +371,7 @@
 
 ## Others 
 
+- [gbdev/awesome-gbdev](https://github.com/gbdev/awesome-gbdev) - A curated list of Game Boy development resources such as tools, docs, emulators, related projects and open-source ROMs.
 - [taconi/plugin-channel](https://github.com/taconi/plugin-channel) - Fork by official plugin channel for micro
 - [zubair-irshad/Awesome-Implicit-NeRF-Robotics](https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics) - A comprehensive list of Implicit Representations and NeRF papers relating to Robotics/RL domain, including papers, codes, and related websites
 - [bjorne/git-pa-svenska](https://github.com/bjorne/git-pa-svenska) - Git på svenska
