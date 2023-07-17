@@ -23,6 +23,7 @@
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
+- [Makefile](#makefile)
 - [NASL](#nasl)
 - [Nim](#nim)
 - [Nix](#nix)
@@ -320,6 +321,10 @@
 - [jaames/playnote-studio](https://github.com/jaames/playnote-studio) - An unofficial Flipnote Studio animation player for the Playdate console!
 - [xmake-io/xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
 - [nagadomi/waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art
+
+## Makefile 
+
+- [sylefeb/a5k](https://github.com/sylefeb/a5k) - Another World on a chip
 
 ## NASL 
 
