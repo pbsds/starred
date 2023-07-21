@@ -876,6 +876,7 @@
 
 ## others 
 
+- [ogoid/nixos-expose-cuda](https://github.com/ogoid/nixos-expose-cuda) - access cuda gpus in nix builds
 - [sylefeb/a5k](https://github.com/sylefeb/a5k) - Another World on a chip
 - [jgm/typst-hs](https://github.com/jgm/typst-hs) - Haskell library for parsing and evaluating typst
 - [verse-lang/verse](https://github.com/verse-lang/verse) - The Verse Programming Language
