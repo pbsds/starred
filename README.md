@@ -350,6 +350,7 @@
 
 ## Nix 
 
+- [nix-community/NixNG](https://github.com/nix-community/NixNG) - A linux distribution based on Nix [maintainer=@MagicRB]
 - [SomeoneSerge/nixpkgs-cuda-ci](https://github.com/SomeoneSerge/nixpkgs-cuda-ci) - Building and caching nixpkgs with cudaSupport=true. We push to https://cuda-maintainers.cachix.org/
 - [considerate/nixos-odroidhc4](https://github.com/considerate/nixos-odroidhc4) - NixOS configuration for the ODROID HC4 microcomputer
 - [dali99/nixos-matrix-modules](https://github.com/dali99/nixos-matrix-modules) - NixOS modules for matrix related services
