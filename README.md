@@ -420,6 +420,7 @@
 
 ## Python 
 
+- [taconi/cachetoolz](https://github.com/taconi/cachetoolz) - This library offers a decorator that enhances the functionality of caching functions.
 - [ogoid/nixos-expose-cuda](https://github.com/ogoid/nixos-expose-cuda) - access cuda gpus in nix builds
 - [ajalt/fuckitpy](https://github.com/ajalt/fuckitpy) - The Python error steamroller.
 - [VITA-Group/GNT](https://github.com/VITA-Group/GNT) - [ICLR 2023] "Is Attention All NeRF Needs?" by Mukund Varma T*, Peihao Wang* , Xuxi Chen, Tianlong Chen, Subhashini Venugopalan, Zhangyang Wang
