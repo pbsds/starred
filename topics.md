@@ -878,6 +878,7 @@
 
 ## others 
 
+- [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [cid-chan/peerix](https://github.com/cid-chan/peerix) - Peer2Peer Nix-Binary-Cache
 - [nix-community/NixNG](https://github.com/nix-community/NixNG) - A linux distribution based on Nix [maintainer=@MagicRB]
 - [ogoid/nixos-expose-cuda](https://github.com/ogoid/nixos-expose-cuda) - access cuda gpus in nix builds
