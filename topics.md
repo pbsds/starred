@@ -93,7 +93,6 @@
 - [markdown](#markdown)
 - [mastodon](#mastodon)
 - [mobile](#mobile)
-- [monitoring](#monitoring)
 - [music](#music)
 - [mysql](#mysql)
 - [neural-network](#neural-network)
@@ -803,10 +802,6 @@
 ## mobile 
 
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by MapsWithMe (MapsMe) founde
-
-## monitoring 
-
-- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, WireGuard, Automation, Ho
 
 ## music 
 
