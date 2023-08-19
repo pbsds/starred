@@ -68,7 +68,6 @@
 - [matrix-org/thirdroom](https://github.com/matrix-org/thirdroom) - Open, decentralised, immersive worlds built on Matrix
 - [NixOS/mobile-nixos](https://github.com/NixOS/mobile-nixos) - 
 - [InitWare/InitWare](https://github.com/InitWare/InitWare) - The InitWare Suite of Middleware allows you to manage services and system resources as logical entities called units. Its main component is a service management ("init") system.
-- [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - A BSD-based OS project that aims to provide an experience like and some compatibility with macOS (formerly known as airyxOS)
 - [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) - Flipper Zero firmware source code
 - [tuupola/hagl](https://github.com/tuupola/hagl) - Hardware Agnostic Graphics Library for embedded
 - [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) - NVIDIA Linux open GPU kernel module source
@@ -389,6 +388,7 @@
 - [jbhuang0604/awesome-tips](https://github.com/jbhuang0604/awesome-tips) - 
 - [Rust-GCC/gccrs](https://github.com/Rust-GCC/gccrs) - GCC Front-End for Rust
 - [google-research/tuning_playbook](https://github.com/google-research/tuning_playbook) - A playbook for systematically maximizing the performance of deep learning models.
+- [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - A BSD-based OS project that aims to provide an experience like and some compatibility with macOS (formerly known as airyxOS)
 - [NixOS/nix-book](https://github.com/NixOS/nix-book) - Nix documentation – centralized community online learning resource for Nix
 - [Ravenslofty/yosys-cookbook](https://github.com/Ravenslofty/yosys-cookbook) - User-friendly explanation of Yosys options
 - [weihaox/awesome-neural-rendering](https://github.com/weihaox/awesome-neural-rendering) - A curated list of  neural rendering resources.
