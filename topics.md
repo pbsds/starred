@@ -578,7 +578,6 @@
 - [taconi/plugin-channel](https://github.com/taconi/plugin-channel) - Fork by official plugin channel for micro
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
-- [diced/zipline](https://github.com/diced/zipline) - A ShareX/file upload server that is easy to use, packed with features, and with an easy setup!
 - [Rust-GCC/gccrs](https://github.com/Rust-GCC/gccrs) - GCC Front-End for Rust
 - [chipsalliance/verible](https://github.com/chipsalliance/verible) - Verible is a suite of SystemVerilog developer tools, including a parser, style-linter, formatter and language server
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
