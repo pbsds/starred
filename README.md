@@ -51,6 +51,7 @@
 
 ## C 
 
+- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
 - [ralismark/nix-appimage](https://github.com/ralismark/nix-appimage) - Convert a nixos derivation into a self-contained binary
 - [illustris/nixfs](https://github.com/illustris/nixfs) - 
 - [containers/bubblewrap](https://github.com/containers/bubblewrap) - Low-level unprivileged sandboxing tool used by Flatpak and similar projects
@@ -425,6 +426,9 @@
 
 ## Python 
 
+- [RuslanKhalitov/ChordMixer](https://github.com/RuslanKhalitov/ChordMixer) - The official implementation of the ChordMixer architecture.
+- [wiedersehne/Paramixer](https://github.com/wiedersehne/Paramixer) - Parameterizing Mixing Links in Sparse Factors Works Better than Dot-Product Self-Attention (CVPR 2022)
+- [mailys-hau/echoviz](https://github.com/mailys-hau/echoviz) - Visualization of (3D) echocardiograms
 - [cid-chan/peerix](https://github.com/cid-chan/peerix) - Peer2Peer Nix-Binary-Cache
 - [taconi/cachetoolz](https://github.com/taconi/cachetoolz) - This library offers a decorator that enhances the functionality of caching functions.
 - [ogoid/nixos-expose-cuda](https://github.com/ogoid/nixos-expose-cuda) - access cuda gpus in nix builds
@@ -555,7 +559,7 @@
 - [numtide/system-manager](https://github.com/numtide/system-manager) - Manage system config using nix on any distro
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [serokell/deploy-rs](https://github.com/serokell/deploy-rs) - A simple multi-profile Nix-flake deploy tool.
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) - The Determinate Nix Installer.
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) - The fast and reliable Determinate Nix Installer, with over 500,000 installs.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 - [vulkano-rs/vulkano](https://github.com/vulkano-rs/vulkano) - Safe and rich Rust wrapper around the Vulkan API
 - [rust-lang/polonius](https://github.com/rust-lang/polonius) - Defines the Rust borrow checker.
