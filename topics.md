@@ -884,6 +884,7 @@
 
 ## others 
 
+- [bisqwit/that_editor](https://github.com/bisqwit/that_editor) - *That* editor.
 - [RuslanKhalitov/ChordMixer](https://github.com/RuslanKhalitov/ChordMixer) - The official implementation of the ChordMixer architecture.
 - [mailys-hau/echoviz](https://github.com/mailys-hau/echoviz) - Visualization of (3D) echocardiograms
 - [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust
