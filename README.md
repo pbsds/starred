@@ -121,6 +121,7 @@
 
 ## C++ 
 
+- [bisqwit/that_editor](https://github.com/bisqwit/that_editor) - *That* editor.
 - [verse-lang/verse](https://github.com/verse-lang/verse) - The Verse Programming Language
 - [tomkwok/svgasm](https://github.com/tomkwok/svgasm) - SVG animation from multiple SVGs or single GIF using tracer
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
