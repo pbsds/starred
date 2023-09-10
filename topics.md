@@ -884,6 +884,7 @@
 
 ## others 
 
+- [platformer/typst-algorithms](https://github.com/platformer/typst-algorithms) - 
 - [bisqwit/that_editor](https://github.com/bisqwit/that_editor) - *That* editor.
 - [RuslanKhalitov/ChordMixer](https://github.com/RuslanKhalitov/ChordMixer) - The official implementation of the ChordMixer architecture.
 - [mailys-hau/echoviz](https://github.com/mailys-hau/echoviz) - Visualization of (3D) echocardiograms
