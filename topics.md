@@ -884,6 +884,7 @@
 
 ## others 
 
+- [antimatter15/splat](https://github.com/antimatter15/splat) - WebGL 3D Gaussian Splat Viewer
 - [platformer/typst-algorithms](https://github.com/platformer/typst-algorithms) - 
 - [bisqwit/that_editor](https://github.com/bisqwit/that_editor) - *That* editor.
 - [RuslanKhalitov/ChordMixer](https://github.com/RuslanKhalitov/ChordMixer) - The official implementation of the ChordMixer architecture.
@@ -1080,7 +1081,7 @@
 - [tocoteron/joycon-python](https://github.com/tocoteron/joycon-python) - driver for Joy-Con (Nintendo Switch)
 - [DanielOgorchock/linux](https://github.com/DanielOgorchock/linux) - 
 - [nerdsinspace/leaky-leaky](https://github.com/nerdsinspace/leaky-leaky) - [PATCHED] Exploit that allows one to authenticate as any user in Minecraft
-- [rumatsuki/leafnote](https://github.com/rumatsuki/leafnote) - The server software powering Leafnote, a completely open-source Flipnote Hatena replacement server.
+- [patapancakes/leafnote](https://github.com/patapancakes/leafnote) - The server software powering Leafnote, a completely open-source Flipnote Hatena replacement server.
 - [FrozenCow/wiidevicelibrary](https://github.com/FrozenCow/wiidevicelibrary) - A cross platform C# class library that provides an interface to various Wii related devices.
 - [pergola-fpga/pergola](https://github.com/pergola-fpga/pergola) - Low-cost ECP5 FPGA development board
 - [Digilent/digilent-xdc](https://github.com/Digilent/digilent-xdc) - A collection of Master XDC files for Digilent FPGA and Zynq boards.
