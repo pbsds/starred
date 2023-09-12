@@ -268,6 +268,7 @@
 
 ## JavaScript 
 
+- [antimatter15/splat](https://github.com/antimatter15/splat) - WebGL 3D Gaussian Splat Viewer
 - [arturs-berzins/boundary_sensitivity](https://github.com/arturs-berzins/boundary_sensitivity) - Code for the ICLR 2023 paper Neural Implicit Shape Editing using Boundary Sensitivity.
 - [pulsar-edit/pulsar](https://github.com/pulsar-edit/pulsar) - A Community-led Hyper-Hackable Text Editor
 - [FOSDEM/video](https://github.com/FOSDEM/video) - 
@@ -510,7 +511,7 @@
 - [mithi/hexapod-robot-simulator](https://github.com/mithi/hexapod-robot-simulator) - A hexapod robot simulator built from first principles
 - [tctianchi/pyvenn](https://github.com/tctianchi/pyvenn) - 2 ~ 6 sets venn diagram for python
 - [tocoteron/joycon-python](https://github.com/tocoteron/joycon-python) - driver for Joy-Con (Nintendo Switch)
-- [rumatsuki/leafnote](https://github.com/rumatsuki/leafnote) - The server software powering Leafnote, a completely open-source Flipnote Hatena replacement server.
+- [patapancakes/leafnote](https://github.com/patapancakes/leafnote) - The server software powering Leafnote, a completely open-source Flipnote Hatena replacement server.
 - [PierrickKoch/wiiboard](https://github.com/PierrickKoch/wiiboard) - Wii Fit Balance Board
 - [pergola-fpga/pergola](https://github.com/pergola-fpga/pergola) - Low-cost ECP5 FPGA development board
 - [olofk/fusesoc](https://github.com/olofk/fusesoc) - Package manager and build abstraction tool for FPGA/ASIC development
