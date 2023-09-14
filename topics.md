@@ -884,6 +884,7 @@
 
 ## others 
 
+- [qwell/bsky-exploits](https://github.com/qwell/bsky-exploits) - 
 - [antimatter15/splat](https://github.com/antimatter15/splat) - WebGL 3D Gaussian Splat Viewer
 - [platformer/typst-algorithms](https://github.com/platformer/typst-algorithms) - 
 - [bisqwit/that_editor](https://github.com/bisqwit/that_editor) - *That* editor.
