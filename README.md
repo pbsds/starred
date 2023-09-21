@@ -23,7 +23,6 @@
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
-- [Makefile](#makefile)
 - [NASL](#nasl)
 - [Nim](#nim)
 - [Nix](#nix)
@@ -46,6 +45,7 @@
 - [Tcl](#tcl)
 - [TeX](#tex)
 - [TypeScript](#typescript)
+- [Typst](#typst)
 - [Vala](#vala)
 - [Verilog](#verilog)
 
@@ -328,10 +328,6 @@
 - [xmake-io/xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
 - [nagadomi/waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art
 
-## Makefile 
-
-- [sylefeb/a5k](https://github.com/sylefeb/a5k) - Another World on a chip
-
 ## NASL 
 
 - [BachiLi/redner](https://github.com/BachiLi/redner) - Differentiable rendering without approximation.
@@ -385,7 +381,6 @@
 
 ## Others 
 
-- [platformer/typst-algorithms](https://github.com/platformer/typst-algorithms) - 
 - [gbdev/awesome-gbdev](https://github.com/gbdev/awesome-gbdev) - A curated list of Game Boy development resources such as tools, docs, emulators, related projects and open-source ROMs.
 - [taconi/plugin-channel](https://github.com/taconi/plugin-channel) - Fork by official plugin channel for micro
 - [zubair-irshad/Awesome-Implicit-NeRF-Robotics](https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics) - A comprehensive list of Implicit Representations and NeRF papers relating to Robotics/RL domain, including papers, codes, and related websites
@@ -430,12 +425,14 @@
 
 ## Python 
 
+- [sashs/Ropper](https://github.com/sashs/Ropper) - Display information about files in different file formats and find gadgets to build rop chains for different architectures (x86/x86_64, ARM/ARM64, MIPS, PowerPC, SPARC64). For disassembly ropper uses 
 - [RuslanKhalitov/ChordMixer](https://github.com/RuslanKhalitov/ChordMixer) - The official implementation of the ChordMixer architecture.
 - [wiedersehne/Paramixer](https://github.com/wiedersehne/Paramixer) - Parameterizing Mixing Links in Sparse Factors Works Better than Dot-Product Self-Attention (CVPR 2022)
 - [mailys-hau/echoviz](https://github.com/mailys-hau/echoviz) - Visualization of (3D) echocardiograms
 - [cid-chan/peerix](https://github.com/cid-chan/peerix) - Peer2Peer Nix-Binary-Cache
 - [taconi/cachetoolz](https://github.com/taconi/cachetoolz) - This library offers a decorator that enhances the functionality of caching functions.
 - [ogoid/nixos-expose-cuda](https://github.com/ogoid/nixos-expose-cuda) - access cuda gpus in nix builds
+- [sylefeb/a5k](https://github.com/sylefeb/a5k) - Another World on a chip
 - [ajalt/fuckitpy](https://github.com/ajalt/fuckitpy) - The Python error steamroller.
 - [VITA-Group/GNT](https://github.com/VITA-Group/GNT) - [ICLR 2023] "Is Attention All NeRF Needs?" by Mukund Varma T*, Peihao Wang* , Xuxi Chen, Tianlong Chen, Subhashini Venugopalan, Zhangyang Wang
 - [ashawkey/stable-dreamfusion](https://github.com/ashawkey/stable-dreamfusion) - Text-to-3D & Image-to-3D & Mesh Exportation with NeRF + Diffusion.
@@ -677,6 +674,10 @@
 - [themerdev/themer](https://github.com/themerdev/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
 - [akveo/eva-icons](https://github.com/akveo/eva-icons) - A pack of more than 480 beautifully crafted Open Source icons. SVG, Sketch, Web Font and Animations support.
 - [jaames/flipnote.js](https://github.com/jaames/flipnote.js) - JS library for decoding, converting, and in-browser playback of animations created with Nintendo's Flipnote Studio and Flipnote Studio 3D apps
+
+## Typst 
+
+- [platformer/typst-algorithms](https://github.com/platformer/typst-algorithms) - 
 
 ## Vala 
 
