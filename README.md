@@ -122,6 +122,7 @@
 
 ## C++ 
 
+- [mitsuba-renderer/mitsuba3](https://github.com/mitsuba-renderer/mitsuba3) - Mitsuba 3: A Retargetable Forward and Inverse Renderer
 - [bisqwit/that_editor](https://github.com/bisqwit/that_editor) - *That* editor.
 - [verse-lang/verse](https://github.com/verse-lang/verse) - The Verse Programming Language
 - [tomkwok/svgasm](https://github.com/tomkwok/svgasm) - SVG animation from multiple SVGs or single GIF using tracer
@@ -204,6 +205,7 @@
 
 ## Go 
 
+- [pdtpartners/nix-snapshotter](https://github.com/pdtpartners/nix-snapshotter) - Brings native understanding of Nix packages to containerd
 - [rystaf/mlmym](https://github.com/rystaf/mlmym) - a familiar desktop experience for lemmy
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [Foxboron/ssh-tpm-agent](https://github.com/Foxboron/ssh-tpm-agent) - :computer: :key: ssh-agent for TPMs
@@ -426,6 +428,7 @@
 
 ## Python 
 
+- [laixintao/flameshow](https://github.com/laixintao/flameshow) - A terminal Flamegraph viewer.
 - [sashs/Ropper](https://github.com/sashs/Ropper) - Display information about files in different file formats and find gadgets to build rop chains for different architectures (x86/x86_64, ARM/ARM64, MIPS, PowerPC, SPARC64). For disassembly ropper uses 
 - [RuslanKhalitov/ChordMixer](https://github.com/RuslanKhalitov/ChordMixer) - The official implementation of the ChordMixer architecture.
 - [wiedersehne/Paramixer](https://github.com/wiedersehne/Paramixer) - Parameterizing Mixing Links in Sparse Factors Works Better than Dot-Product Self-Attention (CVPR 2022)
