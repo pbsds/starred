@@ -890,6 +890,7 @@
 
 ## others 
 
+- [martinmarinov/TempestSDR](https://github.com/martinmarinov/TempestSDR) - Remote video eavesdropping using a software-defined radio platform
 - [ngi-nix/ngipkgs](https://github.com/ngi-nix/ngipkgs) - Nix packages and services for projects supported through the NGI program
 - [mitsuba-renderer/mitsuba3](https://github.com/mitsuba-renderer/mitsuba3) - Mitsuba 3: A Retargetable Forward and Inverse Renderer
 - [wiiuse/wiiuse](https://github.com/wiiuse/wiiuse) - WiiUse "feature complete"  cross-platform Wii Remote access library
@@ -1446,6 +1447,7 @@
 
 ## unity 
 
+- [aras-p/UnityGaussianSplatting](https://github.com/aras-p/UnityGaussianSplatting) - Toy Gaussian Splatting visualization in Unity
 - [JohannesDeml/PartyBalance](https://github.com/JohannesDeml/PartyBalance) - A small unity game using the wii balance board (with Wii Balance Walker) in combintion with the microphone
 
 ## vim 
