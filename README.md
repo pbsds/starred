@@ -51,6 +51,7 @@
 
 ## C 
 
+- [martinmarinov/TempestSDR](https://github.com/martinmarinov/TempestSDR) - Remote video eavesdropping using a software-defined radio platform
 - [wiiuse/wiiuse](https://github.com/wiiuse/wiiuse) - WiiUse "feature complete"  cross-platform Wii Remote access library
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
 - [ralismark/nix-appimage](https://github.com/ralismark/nix-appimage) - Convert a nixos derivation into a self-contained binary
@@ -108,6 +109,7 @@
 
 ## C# # 
 
+- [aras-p/UnityGaussianSplatting](https://github.com/aras-p/UnityGaussianSplatting) - Toy Gaussian Splatting visualization in Unity
 - [stakira/OpenUtau](https://github.com/stakira/OpenUtau) - Open singing synthesis platform / Open source UTAU successor
 - [mxgmn/WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) - Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics
 - [geteduroam/windows-app](https://github.com/geteduroam/windows-app) - Windows application for geteduroam
