@@ -241,7 +241,6 @@
 - [cryptpad/cryptpad](https://github.com/cryptpad/cryptpad) - Collaborative office suite, end-to-end encrypted and open-source.
 - [Ravenslofty/mistral](https://github.com/Ravenslofty/mistral) - Cyclone V bitstream reverse-engineering project
 - [GTFOBins/GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) - GTFOBins is a curated list of Unix binaries that can be used to bypass local security restrictions in misconfigured systems
-- [jfremstad/matematisk_ordliste](https://github.com/jfremstad/matematisk_ordliste) - Matematisk ordliste
 - [larsbrinkhoff/awesome-cpus](https://github.com/larsbrinkhoff/awesome-cpus) - All CPU and MCU documentation in one place
 - [brownhci/WebGazer](https://github.com/brownhci/WebGazer) - WebGazer.js: Scalable Webcam EyeTracking Using User Interactions
 
@@ -292,7 +291,7 @@
 - [eternalphane/pytorch-pypi](https://github.com/eternalphane/pytorch-pypi) - Simple repository (PEP 503) for pytorch
 - [ninjadev/nin](https://github.com/ninjadev/nin) - nin is ninjatool
 - [piroor/treestyletab](https://github.com/piroor/treestyletab) - Tree Style Tab, Show tabs like a tree.
-- [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning, and machine learning models
+- [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning and machine learning models
 - [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
 - [audreyt/ethercalc](https://github.com/audreyt/ethercalc) - Node.js port of Multi-user SocialCalc
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
@@ -508,6 +507,7 @@
 - [hertogp/imagine](https://github.com/hertogp/imagine) - A pandoc-filter for images
 - [whitequark/prjbureau](https://github.com/whitequark/prjbureau) - Documenting the Microchip (Atmel) ATF15xx CPLD fuse maps and programming algorithms
 - [remote-cli/remote](https://github.com/remote-cli/remote) - Work with remote hosts seamlessly. Code local, build / execute commands remotely
+- [jfremstad/matematisk_ordliste](https://github.com/jfremstad/matematisk_ordliste) - Matematisk ordliste
 - [RobertBaruch/n6800](https://github.com/RobertBaruch/n6800) - A 6800 CPU written in nMigen
 - [berenm/steam-cli](https://github.com/berenm/steam-cli) - Command-line interface to install and execute Steam games
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
