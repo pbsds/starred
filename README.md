@@ -124,6 +124,7 @@
 
 ## C++ 
 
+- [ValveSoftware/gamescope](https://github.com/ValveSoftware/gamescope) - SteamOS session compositing window manager
 - [mitsuba-renderer/mitsuba3](https://github.com/mitsuba-renderer/mitsuba3) - Mitsuba 3: A Retargetable Forward and Inverse Renderer
 - [bisqwit/that_editor](https://github.com/bisqwit/that_editor) - *That* editor.
 - [verse-lang/verse](https://github.com/verse-lang/verse) - The Verse Programming Language
