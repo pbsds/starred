@@ -559,6 +559,8 @@
 
 ## Rust 
 
+- [BrianHicks/tree-grepper](https://github.com/BrianHicks/tree-grepper) - Like grep, but uses tree-sitter grammars to search
+- [astro/deadnix](https://github.com/astro/deadnix) - Scan Nix files for dead code
 - [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust
 - [nix-community/nurl](https://github.com/nix-community/nurl) - Generate Nix fetcher calls from repository URLs [maintainer=@figsoda]
 - [CloudCannon/pagefind](https://github.com/CloudCannon/pagefind) - Static low-bandwidth search at scale
