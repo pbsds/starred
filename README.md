@@ -559,6 +559,7 @@
 
 ## Rust 
 
+- [nix-community/nix-init](https://github.com/nix-community/nix-init) - Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more [maintainer=@figsoda]
 - [BrianHicks/tree-grepper](https://github.com/BrianHicks/tree-grepper) - Like grep, but uses tree-sitter grammars to search
 - [astro/deadnix](https://github.com/astro/deadnix) - Scan Nix files for dead code
 - [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust
