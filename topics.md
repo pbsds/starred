@@ -912,6 +912,7 @@
 
 ## others 
 
+- [flakestry/flakestry.dev](https://github.com/flakestry/flakestry.dev) - A public central registry of Nix flakes.
 - [ValveSoftware/gamescope](https://github.com/ValveSoftware/gamescope) - SteamOS session compositing window manager
 - [nix-community/noogle](https://github.com/nix-community/noogle) - https://noogle.dev - nix function exploring. [maintainer=@hsjobeki]
 - [jtojnar/nonemast](https://github.com/jtojnar/nonemast) - Tool for reviewing GNOME update Nixpkgs PRs
