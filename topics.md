@@ -917,6 +917,7 @@
 
 ## others 
 
+- [nix-community/nixGL](https://github.com/nix-community/nixGL) - A wrapper tool for nix OpenGL application [maintainer=@guibou]
 - [nix-community/pyproject.nix](https://github.com/nix-community/pyproject.nix) - A collection of Nix utilities to work with Python projects [maintainer=@adisbladis]
 - [flakestry/flakestry.dev](https://github.com/flakestry/flakestry.dev) - A public central registry of Nix flakes.
 - [ValveSoftware/gamescope](https://github.com/ValveSoftware/gamescope) - SteamOS session compositing window manager
