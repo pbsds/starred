@@ -917,6 +917,7 @@
 
 ## others 
 
+- [Mic92/envfs](https://github.com/Mic92/envfs) - Fuse filesystem that returns symlinks to executables based on the PATH of the requesting process.
 - [nix-community/nixGL](https://github.com/nix-community/nixGL) - A wrapper tool for nix OpenGL application [maintainer=@guibou]
 - [nix-community/pyproject.nix](https://github.com/nix-community/pyproject.nix) - A collection of Nix utilities to work with Python projects [maintainer=@adisbladis]
 - [flakestry/flakestry.dev](https://github.com/flakestry/flakestry.dev) - A public central registry of Nix flakes.
