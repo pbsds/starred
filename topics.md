@@ -21,7 +21,6 @@
 - [babel](#babel)
 - [bash](#bash)
 - [c](#c)
-- [chatgpt](#chatgpt)
 - [chrome](#chrome)
 - [cli](#cli)
 - [clojure](#clojure)
@@ -266,10 +265,6 @@
 - [adam-mcdaniel/oakc](https://github.com/adam-mcdaniel/oakc) - A portable programming language with a compact intermediate representation
 - [Titor8115/mandown](https://github.com/Titor8115/mandown) - man-page inspired Markdown viewer
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
-
-## chatgpt 
-
-- [xyproto/orbiton](https://github.com/xyproto/orbiton) - Fast and config-free text editor and IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, viewing man pages and for quick edit-compile cycles wh
 
 ## chrome 
 
