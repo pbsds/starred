@@ -136,6 +136,7 @@
 - [shell](#shell)
 - [sketch](#sketch)
 - [sql](#sql)
+- [sqlite](#sqlite)
 - [statistics](#statistics)
 - [sublime-text](#sublime-text)
 - [swift](#swift)
@@ -915,7 +916,6 @@
 
 ## others 
 
-- [ibizaman/selfhostblocks](https://github.com/ibizaman/selfhostblocks) - Building blocks for self-hosting with best practices
 - [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image.
 - [google/git-appraise](https://github.com/google/git-appraise) - Distributed code review system for Git repos
 - [delroth/grep-nixos-cache](https://github.com/delroth/grep-nixos-cache) - Finds strings in a large list of cached NixOS store paths
@@ -1094,7 +1094,6 @@
 - [geteduroam/windows-app](https://github.com/geteduroam/windows-app) - Windows application for geteduroam
 - [martinResearch/DEODR](https://github.com/martinResearch/DEODR) - A differentiable 3D renderer with Pytorch, Tensorflow and Matlab interfaces
 - [skullchap/chadstr](https://github.com/skullchap/chadstr) - Chad Strings - The Chad way to handle strings in C.
-- [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
 - [awesome-NeRF/awesome-NeRF](https://github.com/awesome-NeRF/awesome-NeRF) - A curated list of awesome neural radiance fields papers
 - [minerva-cpu/minerva](https://github.com/minerva-cpu/minerva) - A 32-bit RISC-V soft processor
 - [leahneukirchen/nq](https://github.com/leahneukirchen/nq) - Unix command line queue utility
@@ -1399,6 +1398,7 @@
 
 ## self-hosted 
 
+- [ibizaman/selfhostblocks](https://github.com/ibizaman/selfhostblocks) - Building blocks for self-hosting with battery included.
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
@@ -1433,6 +1433,11 @@
 - [mbucc/shmig](https://github.com/mbucc/shmig) - Database migration tool written in BASH.
 - [tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
+
+## sqlite 
+
+- [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
+- [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
 
 ## statistics 
 
