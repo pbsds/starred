@@ -371,6 +371,7 @@
 
 ## Nix 
 
+- [adisbladis/pdm2nix](https://github.com/adisbladis/pdm2nix) - 
 - [ibizaman/selfhostblocks](https://github.com/ibizaman/selfhostblocks) - Building blocks for self-hosting with battery included.
 - [polygon/audio.nix](https://github.com/polygon/audio.nix) - Assorted audio packages for Nix(OS)/Linux.
 - [Platonic-Systems/process-compose-flake](https://github.com/Platonic-Systems/process-compose-flake) - A `flake-parts` module to spin up processes for development by leveraging `process-compose`
@@ -425,7 +426,6 @@
 - [danluu/post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems. Sorry for the delay in merging PRs!
 - [goabstract/Marketing-for-Engineers](https://github.com/goabstract/Marketing-for-Engineers) - A curated collection of marketing articles & tools to grow your product.
 - [jornane/dotfiles](https://github.com/jornane/dotfiles) - Moved to SourceHut https://git.sr.ht/~jornane/dotfiles
-- [game-icons/icons](https://github.com/game-icons/icons) - All SVG icons available on http://game-icons.net
 - [Flipnote-Collective/flipnote-studio-docs](https://github.com/Flipnote-Collective/flipnote-studio-docs) - Documentation for Flipnote Studio (DSiWare)
 - [Flipnote-Collective/flipnote-studio-3d-docs](https://github.com/Flipnote-Collective/flipnote-studio-3d-docs) - Documentation for Flipnote Studio 3D (3DS eShop)
 
@@ -673,6 +673,7 @@
 - [aurora/rmate](https://github.com/aurora/rmate) - Remote TextMate 2 implemented as shell script
 - [afterlogic/webmail-lite-8](https://github.com/afterlogic/webmail-lite-8) - Open-source webmail script for existing IMAP server
 - [redox-os/redox](https://github.com/redox-os/redox) - Mirror of https://gitlab.redox-os.org/redox-os/redox
+- [game-icons/icons](https://github.com/game-icons/icons) - All SVG icons available on https://game-icons.net
 - [fyrkat/zfsroot](https://github.com/fyrkat/zfsroot) - 
 - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
 
