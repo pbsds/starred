@@ -917,6 +917,7 @@
 
 ## others 
 
+- [danth/stylix](https://github.com/danth/stylix) - System-wide colorscheming and typography for NixOS
 - [adisbladis/pdm2nix](https://github.com/adisbladis/pdm2nix) - 
 - [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image.
 - [google/git-appraise](https://github.com/google/git-appraise) - Distributed code review system for Git repos
