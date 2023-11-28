@@ -376,6 +376,7 @@
 
 ## Nix 
 
+- [anduril/jetpack-nixos](https://github.com/anduril/jetpack-nixos) - NixOS module for NVIDIA Jetson devices
 - [adisbladis/pdm2nix](https://github.com/adisbladis/pdm2nix) - 
 - [ibizaman/selfhostblocks](https://github.com/ibizaman/selfhostblocks) - Building blocks for self-hosting with battery included.
 - [polygon/audio.nix](https://github.com/polygon/audio.nix) - Assorted audio packages for Nix(OS)/Linux.
