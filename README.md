@@ -663,7 +663,7 @@
 
 - [GuillaumeDesforges/fix-python](https://github.com/GuillaumeDesforges/fix-python) - A simple CLI tool to allow you to use Python "normally" in NixOS
 - [sylefeb/a5k](https://github.com/sylefeb/a5k) - Another World on a chip
-- [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - install nixos everywhere via ssh
+- [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - install nixos everywhere via ssh [maintainer=@numtide]
 - [robn/freebsd-vf2](https://github.com/robn/freebsd-vf2) - FreeBSD on StarFive VisionFive 2
 - [devkitPro/pacman-packages](https://github.com/devkitPro/pacman-packages) - 
 - [devkitPro/buildscripts](https://github.com/devkitPro/buildscripts) - Scripts for building devkitPro toolchains
