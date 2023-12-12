@@ -372,6 +372,7 @@
 
 ## Nix 
 
+- [Janik-Haag/NixOS-DNS](https://github.com/Janik-Haag/NixOS-DNS) - Manage your dns zones with NixOS
 - [telent/liminix](https://github.com/telent/liminix) - Mirror of gti.telent.net:dan/liminix
 - [anduril/jetpack-nixos](https://github.com/anduril/jetpack-nixos) - NixOS module for NVIDIA Jetson devices
 - [danth/stylix](https://github.com/danth/stylix) - System-wide colorscheming and typography for NixOS
@@ -614,7 +615,7 @@
 - [roc-lang/roc](https://github.com/roc-lang/roc) - A fast, friendly, functional language. Work in progress!
 - [kanidm/kanidm](https://github.com/kanidm/kanidm) - Kanidm: A simple, secure and fast identity management platform
 - [zackradisic/aussieplusplus](https://github.com/zackradisic/aussieplusplus) - Programming language from down under
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow.
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [nerdypepper/statix](https://github.com/nerdypepper/statix) - lints and suggestions for the nix programming language
 - [tummychow/git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic
