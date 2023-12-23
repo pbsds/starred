@@ -310,7 +310,7 @@
 - [jank-lang/jank](https://github.com/jank-lang/jank) - A Clojure dialect hosted on LLVM with native C++ interop
 - [nim-lang/Nim](https://github.com/nim-lang/Nim) - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, an
 - [can-lehmann/exprgrad](https://github.com/can-lehmann/exprgrad) - An experimental deep learning framework for Nim based on a differentiable array programming language
-- [cucapra/calyx](https://github.com/cucapra/calyx) - Intermediate Language (IL) for Hardware Accelerator Generators
+- [calyxir/calyx](https://github.com/calyxir/calyx) - Intermediate Language (IL) for Hardware Accelerator Generators
 - [halide/Halide](https://github.com/halide/Halide) - a language for fast, portable data-parallel computation
 - [erg-lang/erg](https://github.com/erg-lang/erg) - A statically typed language compatible with Python
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
@@ -344,6 +344,7 @@
 
 ## cpp 
 
+- [rerun-io/rerun](https://github.com/rerun-io/rerun) - Visualize streams of multimodal data. Fast, easy to use, and simple to integrate.  Built in Rust using egui.
 - [jank-lang/jank](https://github.com/jank-lang/jank) - A Clojure dialect hosted on LLVM with native C++ interop
 - [cemu-project/Cemu](https://github.com/cemu-project/Cemu) - Cemu - Wii U emulator
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by MapsWithMe (MapsMe) founde
