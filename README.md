@@ -129,6 +129,7 @@
 
 ## C++ 
 
+- [EduApps-CDG/OpenDX](https://github.com/EduApps-CDG/OpenDX) - Bring DirectX to Linux! This is a Open Source DirectX implementation for Linux, providing native support for DirectX-based applications and games, without relying on Wine's Windows compatibility layer
 - [ValveSoftware/gamescope](https://github.com/ValveSoftware/gamescope) - SteamOS session compositing window manager
 - [mitsuba-renderer/mitsuba3](https://github.com/mitsuba-renderer/mitsuba3) - Mitsuba 3: A Retargetable Forward and Inverse Renderer
 - [bisqwit/that_editor](https://github.com/bisqwit/that_editor) - *That* editor.
