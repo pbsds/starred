@@ -924,6 +924,7 @@
 
 ## others 
 
+- [BladeTransformerLLC/gauzilla](https://github.com/BladeTransformerLLC/gauzilla) - Gauzilla: a 3D Gaussian Splatting renderer written in Rust for WebAssembly with lock-free multithreading
 - [taconi/micro](https://github.com/taconi/micro) - A modern and intuitive terminal-based text editor
 - [Janik-Haag/NixOS-DNS](https://github.com/Janik-Haag/NixOS-DNS) - Manage your dns zones with NixOS
 - [telent/liminix](https://github.com/telent/liminix) - Mirror of gti.telent.net:dan/liminix
