@@ -924,6 +924,7 @@
 
 ## others 
 
+- [SebastianMuskalla/ModelessVim](https://github.com/SebastianMuskalla/ModelessVim) - Configuration files to turn vim into a modeless editor.
 - [delroth/nixpkgs-vendored-vulns-scan](https://github.com/delroth/nixpkgs-vendored-vulns-scan) - Infrastructure to scan for vulnerabilities in nixpkgs packages that vendor their dependencies, e.g. Rust / NPM / Go / Java / .NET
 - [jpcy/xatlas](https://github.com/jpcy/xatlas) - Mesh parameterization / UV unwrapping library
 - [BladeTransformerLLC/gauzilla](https://github.com/BladeTransformerLLC/gauzilla) - Gauzilla: a 3D Gaussian Splatting renderer written in Rust for WebAssembly with lock-free multithreading
