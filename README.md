@@ -220,6 +220,7 @@
 
 ## Go 
 
+- [letsblockit/letsblockit](https://github.com/letsblockit/letsblockit) - Remove low-quality content and useless nags, focus on what matters. A community-maintained uBlock Origin filter set.
 - [taconi/micro](https://github.com/taconi/micro) - A modern and intuitive terminal-based text editor
 - [google/git-appraise](https://github.com/google/git-appraise) - Distributed code review system for Git repos
 - [xataio/pgroll](https://github.com/xataio/pgroll) - PostgreSQL zero-downtime migrations made easy
