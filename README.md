@@ -129,6 +129,7 @@
 
 ## C++ 
 
+- [ktock/container2wasm](https://github.com/ktock/container2wasm) - Container to WASM converter
 - [jpcy/xatlas](https://github.com/jpcy/xatlas) - Mesh parameterization / UV unwrapping library
 - [EduApps-CDG/OpenDX](https://github.com/EduApps-CDG/OpenDX) - Bring DirectX to Linux! This is a Open Source DirectX implementation for Linux, providing native support for DirectX-based applications and games, without relying on Wine's Windows compatibility layer
 - [ValveSoftware/gamescope](https://github.com/ValveSoftware/gamescope) - SteamOS session compositing window manager
@@ -292,6 +293,7 @@
 
 ## JavaScript 
 
+- [ktock/vscode-container-wasm](https://github.com/ktock/vscode-container-wasm) - 
 - [antimatter15/splat](https://github.com/antimatter15/splat) - WebGL 3D Gaussian Splat Viewer
 - [arturs-berzins/boundary_sensitivity](https://github.com/arturs-berzins/boundary_sensitivity) - Code for the ICLR 2023 paper Neural Implicit Shape Editing using Boundary Sensitivity.
 - [pulsar-edit/pulsar](https://github.com/pulsar-edit/pulsar) - A Community-led Hyper-Hackable Text Editor
