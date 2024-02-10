@@ -1085,7 +1085,7 @@
 - [FlyingGiraffe/vnn](https://github.com/FlyingGiraffe/vnn) - Vector Neurons: A General Framework for SO(3)-Equivariant Networks
 - [allanjude/zxfer](https://github.com/allanjude/zxfer) - A continuation of development on zxfer, a popular script for managing ZFS snapshot replication
 - [hukkelas/sharpened_cosine_similarity_torch](https://github.com/hukkelas/sharpened_cosine_similarity_torch) - A Sharpened Cosine Similarity layer for PyTorch
-- [Fuwn/para](https://github.com/Fuwn/para) - 🗃 Decoder and utility for the Flipnote Studios .ppm animation format.
+- [Fuwn/para](https://github.com/Fuwn/para) - 🗃 Flipnote Studios .ppm Animation Format Decoder & Utility
 - [iaddis/metalnes](https://github.com/iaddis/metalnes) - Transistor level NES simulation
 - [eternalphane/pytorch-pypi](https://github.com/eternalphane/pytorch-pypi) - Simple repository (PEP 503) for pytorch
 - [ahrm/sioyek](https://github.com/ahrm/sioyek) - Sioyek is a PDF viewer with a focus on textbooks and research papers
