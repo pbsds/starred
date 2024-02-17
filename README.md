@@ -382,6 +382,7 @@
 
 ## Nix 
 
+- [Tow-Boot/Tow-Boot](https://github.com/Tow-Boot/Tow-Boot) - An opinionated distribution of U-Boot. — https://matrix.to/#/#Tow-Boot:matrix.org?via=matrix.org
 - [fricklerhandwerk/attr-cmd](https://github.com/fricklerhandwerk/attr-cmd) - Build shell commands from Nix attribute sets.
 - [Janik-Haag/NixOS-DNS](https://github.com/Janik-Haag/NixOS-DNS) - Manage your dns zones with NixOS
 - [telent/liminix](https://github.com/telent/liminix) - Mirror of gti.telent.net:dan/liminix
