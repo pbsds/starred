@@ -931,6 +931,7 @@
 
 ## others 
 
+- [Tow-Boot/Tow-Boot](https://github.com/Tow-Boot/Tow-Boot) - An opinionated distribution of U-Boot. — https://matrix.to/#/#Tow-Boot:matrix.org?via=matrix.org
 - [fricklerhandwerk/attr-cmd](https://github.com/fricklerhandwerk/attr-cmd) - Build shell commands from Nix attribute sets.
 - [ktock/vscode-container-wasm](https://github.com/ktock/vscode-container-wasm) - 
 - [typhon-ci/typhon](https://github.com/typhon-ci/typhon) - Nix-based continuous integration
