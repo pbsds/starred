@@ -612,7 +612,6 @@
 - [BrianHicks/tree-grepper](https://github.com/BrianHicks/tree-grepper) - Like grep, but uses tree-sitter grammars to search
 - [utdemir/nix-tree](https://github.com/utdemir/nix-tree) - Interactively browse dependency graphs of Nix derivations.
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
-- [taconi/cachetoolz](https://github.com/taconi/cachetoolz) - This library offers a decorator that enhances the functionality of caching functions.
 - [Difegue/DoujinSoft](https://github.com/Difegue/DoujinSoft) - Web Shop/Archive for WarioWare DIY games.
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
@@ -1287,7 +1286,6 @@
 
 - [nerfstudio-project/viser](https://github.com/nerfstudio-project/viser) - Web-based 3D visualization + Python
 - [nix-community/nix-init](https://github.com/nix-community/nix-init) - Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more [maintainer=@figsoda]
-- [taconi/cachetoolz](https://github.com/taconi/cachetoolz) - This library offers a decorator that enhances the functionality of caching functions.
 - [rerun-io/rerun](https://github.com/rerun-io/rerun) - Visualize streams of multimodal data. Fast, easy to use, and simple to integrate.  Built in Rust using egui.
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
 - [pikasTech/PikaPython](https://github.com/pikasTech/PikaPython) - An ultra-lightweight Python interpreter that runs with only 4KB of RAM, zero dependencies. It is ready to use out of the box without any configuration required and easy to extend with C. Similar proje
