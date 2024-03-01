@@ -485,7 +485,6 @@
 - [wiedersehne/Paramixer](https://github.com/wiedersehne/Paramixer) - Parameterizing Mixing Links in Sparse Factors Works Better than Dot-Product Self-Attention (CVPR 2022)
 - [mailys-hau/echoviz](https://github.com/mailys-hau/echoviz) - Visualization of (3D) echocardiograms
 - [cid-chan/peerix](https://github.com/cid-chan/peerix) - Peer2Peer Nix-Binary-Cache
-- [taconi/cachetoolz](https://github.com/taconi/cachetoolz) - This library offers a decorator that enhances the functionality of caching functions.
 - [ogoid/nixos-expose-cuda](https://github.com/ogoid/nixos-expose-cuda) - access cuda gpus in nix builds
 - [ajalt/fuckitpy](https://github.com/ajalt/fuckitpy) - The Python error steamroller.
 - [VITA-Group/GNT](https://github.com/VITA-Group/GNT) - [ICLR 2023] "Is Attention All NeRF Needs?" by Mukund Varma T*, Peihao Wang* , Xuxi Chen, Tianlong Chen, Subhashini Venugopalan, Zhangyang Wang
