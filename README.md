@@ -129,7 +129,6 @@
 - [FrozenCow/wiidevicelibrary](https://github.com/FrozenCow/wiidevicelibrary) - A cross platform C# class library that provides an interface to various Wii related devices.
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
 - [Looking-Glass/JoyconLib](https://github.com/Looking-Glass/JoyconLib) - Joy-Con library for Unity.
-- [noahc3/SDSetup](https://github.com/noahc3/SDSetup) - The Ninite for your Nintendo Switch.
 - [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
 - [HouraiTeahouse/FantasyCrescendo](https://github.com/HouraiTeahouse/FantasyCrescendo) - A 2.5D Touhou Platform Fighter, By the fans, for the fans.
 
@@ -176,7 +175,6 @@
 - [ggerganov/imtui](https://github.com/ggerganov/imtui) - ImTui: Immediate Mode Text-based User Interface C++ Library
 - [asmuth/clip](https://github.com/asmuth/clip) - Create charts from the command line
 - [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
-- [merryhime/dynarmic](https://github.com/merryhime/dynarmic) - An ARM dynamic recompiler.
 - [YosysHQ/yosys](https://github.com/YosysHQ/yosys) - Yosys Open SYnthesis Suite
 - [melonDS-emu/melonDS](https://github.com/melonDS-emu/melonDS) - DS emulator, sorta
 - [anbox/anbox](https://github.com/anbox/anbox) - Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system
@@ -189,9 +187,7 @@
 - [Armag3ddonDev/joycon](https://github.com/Armag3ddonDev/joycon) - Driver for the controller of the Nintendo Switch
 - [ssloy/tinyraytracer](https://github.com/ssloy/tinyraytracer) - A brief computer graphics / rendering course
 - [ErisBlastar/cplusequality](https://github.com/ErisBlastar/cplusequality) - Feminist Software Foundation C+=, a new language for us feminists
-- [yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu) - Nintendo Switch emulator
 - [dolphin-emu/dolphin](https://github.com/dolphin-emu/dolphin) - Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.
-- [citra-emu/citra](https://github.com/citra-emu/citra) - A Nintendo 3DS Emulator
 - [smealum/SPACECRAFT](https://github.com/smealum/SPACECRAFT) - SPACECRAFT
 - [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) - PS3 emulator/debugger
 
@@ -200,6 +196,7 @@
 - [vinceliuice/vimix-gtk-themes](https://github.com/vinceliuice/vimix-gtk-themes) - Vimix is a flat Material Design theme for GTK 3, GTK 2 and Gnome-Shell etc.
 - [nswarr/flipnote-server](https://github.com/nswarr/flipnote-server) - The original reverse engineered Flipnote Hatena server
 - [dohliam/dropin-minimal-css](https://github.com/dohliam/dropin-minimal-css) - Drop-in switcher for previewing minimal CSS frameworks
+- [noahc3/SDSetup](https://github.com/noahc3/SDSetup) - The Ninite for your Nintendo Switch.
 
 ## Clojure 
 
