@@ -134,6 +134,7 @@
 
 ## C++ 
 
+- [JuliaHubOSS/llvm-cbe](https://github.com/JuliaHubOSS/llvm-cbe) - resurrected LLVM "C Backend", with improvements
 - [ktock/container2wasm](https://github.com/ktock/container2wasm) - Container to WASM converter
 - [jpcy/xatlas](https://github.com/jpcy/xatlas) - Mesh parameterization / UV unwrapping library
 - [EduApps-CDG/OpenDX](https://github.com/EduApps-CDG/OpenDX) - Bring DirectX to Linux! This is a Open Source DirectX implementation for Linux, providing native support for DirectX-based applications and games, without relying on Wine's Windows compatibility layer
