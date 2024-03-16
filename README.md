@@ -381,6 +381,7 @@
 
 ## Nix 
 
+- [lilyinstarlight/bottom-nix](https://github.com/lilyinstarlight/bottom-nix) - An implementation of the Bottom encoding format in Nix
 - [nixos-bsd/nixbsd](https://github.com/nixos-bsd/nixbsd) - An unofficial NixOS fork with a FreeBSD kernel
 - [loqusion/typix](https://github.com/loqusion/typix) - Deterministic Typst compilation with Nix
 - [Tow-Boot/Tow-Boot](https://github.com/Tow-Boot/Tow-Boot) - An opinionated distribution of U-Boot. — https://matrix.to/#/#Tow-Boot:matrix.org?via=matrix.org
