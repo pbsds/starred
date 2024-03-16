@@ -932,6 +932,7 @@
 
 ## others 
 
+- [lilyinstarlight/bottom-nix](https://github.com/lilyinstarlight/bottom-nix) - An implementation of the Bottom encoding format in Nix
 - [JuliaHubOSS/llvm-cbe](https://github.com/JuliaHubOSS/llvm-cbe) - resurrected LLVM "C Backend", with improvements
 - [electric-sql/pglite](https://github.com/electric-sql/pglite) - Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno
 - [nixos-bsd/nixbsd](https://github.com/nixos-bsd/nixbsd) - An unofficial NixOS fork with a FreeBSD kernel
