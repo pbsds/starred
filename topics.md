@@ -1342,7 +1342,7 @@
 - [timothycrosley/portray](https://github.com/timothycrosley/portray) - Your Project with Great Documentation.
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [FKLC/AnyAPI](https://github.com/FKLC/AnyAPI) - AnyAPI is a library that helps you to write any API wrapper with ease and in pythonic way.
-- [beerfactory/hbmqtt](https://github.com/beerfactory/hbmqtt) - MQTT client/broker using Python asynchronous I/O
+- [njouanin/hbmqtt](https://github.com/njouanin/hbmqtt) - MQTT client/broker using Python asynchronous I/O
 
 ## pytorch 
 
