@@ -581,7 +581,7 @@
 - [Sudomemo/sudomemo-utils](https://github.com/Sudomemo/sudomemo-utils) - Utilities for working with Flipnote Studio DSi's proprietary formats, using PHP + Python
 - [sanic-org/sanic](https://github.com/sanic-org/sanic) - Accelerate your web app development  | Build fast. Run fast.
 - [nedwill/HackPrinceton2013](https://github.com/nedwill/HackPrinceton2013) - 
-- [beerfactory/hbmqtt](https://github.com/beerfactory/hbmqtt) - MQTT client/broker using Python asynchronous I/O
+- [njouanin/hbmqtt](https://github.com/njouanin/hbmqtt) - MQTT client/broker using Python asynchronous I/O
 - [p-e-w/maybe](https://github.com/p-e-w/maybe) - :open_file_folder: :rabbit2: :tophat: See what a program does before deciding whether you really want it to happen (NO LONGER MAINTAINED)
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [mido/mido](https://github.com/mido/mido) - MIDI Objects for Python
