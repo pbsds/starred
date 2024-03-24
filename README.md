@@ -172,7 +172,7 @@
 - [facebookresearch/faiss](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors.
 - [pmp-library/pmp-library](https://github.com/pmp-library/pmp-library) - The Polygon Mesh Processing Library
 - [f3d-app/f3d](https://github.com/f3d-app/f3d) - Fast and minimalist 3D viewer.
-- [sylefeb/Silice](https://github.com/sylefeb/Silice) - Silice is an easy-to-learn, powerful hardware description language, that allows both to prototype ideas quickly and then refine designs to be compact and efficient.
+- [sylefeb/Silice](https://github.com/sylefeb/Silice) - Silice is an easy-to-learn, powerful hardware description language, that simplifies designing hardware algorithms with parallelism and pipelines.
 - [ggerganov/imtui](https://github.com/ggerganov/imtui) - ImTui: Immediate Mode Text-based User Interface C++ Library
 - [asmuth/clip](https://github.com/asmuth/clip) - Create charts from the command line
 - [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
@@ -381,6 +381,7 @@
 
 ## Nix 
 
+- [h7x4/maunium-stickerpicker-nix](https://github.com/h7x4/maunium-stickerpicker-nix) - Nix wrapper for maunium/stickerpicker
 - [lilyinstarlight/bottom-nix](https://github.com/lilyinstarlight/bottom-nix) - An implementation of the Bottom encoding format in Nix
 - [nixos-bsd/nixbsd](https://github.com/nixos-bsd/nixbsd) - An unofficial NixOS fork with a FreeBSD kernel
 - [loqusion/typix](https://github.com/loqusion/typix) - Deterministic Typst compilation with Nix
