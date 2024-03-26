@@ -473,6 +473,7 @@
 
 ## Python 
 
+- [tiiuae/sbomnix](https://github.com/tiiuae/sbomnix) - A suite of utilities to help with software supply chain challenges on nix targets
 - [nerfstudio-project/viser](https://github.com/nerfstudio-project/viser) - Web-based 3D visualization + Python
 - [delroth/nixpkgs-vendored-vulns-scan](https://github.com/delroth/nixpkgs-vendored-vulns-scan) - Infrastructure to scan for vulnerabilities in nixpkgs packages that vendor their dependencies, e.g. Rust / NPM / Go / Java / .NET
 - [abathur/resholve](https://github.com/abathur/resholve) - a shell resolver? :) (find and resolve shell script dependencies)
