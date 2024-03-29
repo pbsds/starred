@@ -297,6 +297,7 @@
 
 ## JavaScript 
 
+- [OrionReed/dom3d](https://github.com/OrionReed/dom3d) - Browser extension to view and debug the DOM in 3D space.
 - [ktock/vscode-container-wasm](https://github.com/ktock/vscode-container-wasm) - 
 - [antimatter15/splat](https://github.com/antimatter15/splat) - WebGL 3D Gaussian Splat Viewer
 - [arturs-berzins/boundary_sensitivity](https://github.com/arturs-berzins/boundary_sensitivity) - Code for the ICLR 2023 paper Neural Implicit Shape Editing using Boundary Sensitivity.
@@ -454,7 +455,7 @@
 ## PHP 
 
 - [ssddanbrown/rss](https://github.com/ssddanbrown/rss) - A simple twitter-feed-style RSS aggregator written in PHP, Laravel, Inertia.js, Tailwind and Vue.js
-- [phpgl/visu](https://github.com/phpgl/visu) - A Modern OpenGL Framework for PHP.
+- [phpgl/visu](https://github.com/phpgl/visu) - A PHP Game Engine as a Modern OpenGL Component Framework.
 - [the-djmaze/snappymail](https://github.com/the-djmaze/snappymail) - Simple, modern & fast web-based email client
 - [paragonie/paseto](https://github.com/paragonie/paseto) - Platform-Agnostic Security Tokens
 - [fyrkat/ssp-theme](https://github.com/fyrkat/ssp-theme) - fyrkat theme for SimpleSamlPhp
