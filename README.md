@@ -201,7 +201,7 @@
 
 ## Clojure 
 
-- [penpot/penpot](https://github.com/penpot/penpot) - Penpot - The Open-Source design & prototyping platform
+- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
 
 ## Cuda 
 
