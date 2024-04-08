@@ -604,6 +604,7 @@
 
 ## Rust 
 
+- [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
 - [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on AMD GPUs
 - [typhon-ci/typhon](https://github.com/typhon-ci/typhon) - Nix-based continuous integration
 - [BladeTransformerLLC/gauzilla](https://github.com/BladeTransformerLLC/gauzilla) - Gauzilla: a 3D Gaussian Splatting renderer written in Rust for WebAssembly with lock-free multithreading
