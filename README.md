@@ -475,6 +475,7 @@
 
 ## Python 
 
+- [morpho-matters/morpholib](https://github.com/morpho-matters/morpholib) - A general-purpose programmatic animation tool
 - [tweag/python-nix](https://github.com/tweag/python-nix) - Python-Nix FFI library using the new C API
 - [tiiuae/sbomnix](https://github.com/tiiuae/sbomnix) - A suite of utilities to help with software supply chain challenges on nix targets
 - [nerfstudio-project/viser](https://github.com/nerfstudio-project/viser) - Web-based 3D visualization + Python
@@ -604,6 +605,7 @@
 
 ## Rust 
 
+- [bluskript/nix-inspect](https://github.com/bluskript/nix-inspect) - Interactive tui for inspecting nix configs
 - [tweag/genealogos](https://github.com/tweag/genealogos) - Genealogos, a Nix sbom generator
 - [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
 - [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on AMD GPUs
