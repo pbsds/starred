@@ -140,6 +140,7 @@
 - [sketch](#sketch)
 - [sql](#sql)
 - [sqlite](#sqlite)
+- [stable-diffusion](#stable-diffusion)
 - [statistics](#statistics)
 - [sublime-text](#sublime-text)
 - [swift](#swift)
@@ -1002,7 +1003,6 @@
 - [HigherOrderCO/HVM](https://github.com/HigherOrderCO/HVM) - A massively parallel, optimal functional runtime in Rust
 - [bjorne/git-pa-svenska](https://github.com/bjorne/git-pa-svenska) - Git på svenska
 - [VITA-Group/GNT](https://github.com/VITA-Group/GNT) - [ICLR 2023] "Is Attention All NeRF Needs?" by Mukund Varma T*, Peihao Wang* , Xuxi Chen, Tianlong Chen, Subhashini Venugopalan, Zhangyang Wang
-- [ashawkey/stable-dreamfusion](https://github.com/ashawkey/stable-dreamfusion) - Text-to-3D & Image-to-3D & Mesh Exportation with NeRF + Diffusion.
 - [openai/shap-e](https://github.com/openai/shap-e) - Generate 3D objects conditioned on text or images
 - [illustris/nixfs](https://github.com/illustris/nixfs) - 
 - [numtide/nix-gl-host](https://github.com/numtide/nix-gl-host) - Run OpenGL/Cuda programs built with Nix, on all Linux distributions.
@@ -1010,7 +1010,6 @@
 - [numtide/system-manager](https://github.com/numtide/system-manager) - Manage system config using nix on any distro
 - [dali99/nixos-matrix-modules](https://github.com/dali99/nixos-matrix-modules) - NixOS modules for matrix related services
 - [nixified-ai/flake](https://github.com/nixified-ai/flake) - A Nix flake for many AI projects
-- [gbtb/nix-stable-diffusion](https://github.com/gbtb/nix-stable-diffusion) - Flake for running SD on NixOS
 - [FOSDEM/video](https://github.com/FOSDEM/video) - 
 - [jbhuang0604/awesome-tips](https://github.com/jbhuang0604/awesome-tips) - 
 - [jeanfeydy/geomloss](https://github.com/jeanfeydy/geomloss) - Geometric loss functions between point clouds, images and volumes
@@ -1056,7 +1055,6 @@
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [jzimmerman/langcc](https://github.com/jzimmerman/langcc) - langcc: A Next-Generation Compiler Compiler
 - [colemickens/stable-diffusion-flake](https://github.com/colemickens/stable-diffusion-flake) - 
-- [lkwq007/stablediffusion-infinity](https://github.com/lkwq007/stablediffusion-infinity) - Outpainting with Stable Diffusion on an infinite canvas
 - [nix-community/nixos-generators](https://github.com/nix-community/nixos-generators) - Collection of image builders [maintainer=@Lassulus]
 - [quarto-dev/quarto-cli](https://github.com/quarto-dev/quarto-cli) - Open-source scientific and technical publishing system built on Pandoc.
 - [Retraze/ndc-techtown-2022](https://github.com/Retraze/ndc-techtown-2022) - 
@@ -1496,6 +1494,12 @@
 
 - [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 - [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
+
+## stable-diffusion 
+
+- [ashawkey/stable-dreamfusion](https://github.com/ashawkey/stable-dreamfusion) - Text-to-3D & Image-to-3D & Mesh Exportation with NeRF + Diffusion.
+- [gbtb/nix-stable-diffusion](https://github.com/gbtb/nix-stable-diffusion) - Flake for running SD on NixOS
+- [lkwq007/stablediffusion-infinity](https://github.com/lkwq007/stablediffusion-infinity) - Outpainting with Stable Diffusion on an infinite canvas
 
 ## statistics 
 
