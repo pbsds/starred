@@ -6,7 +6,6 @@
 ## Contents
 
 - [Adblock Filter List](#adblock-filter-list)
-- [Batchfile](#batchfile)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -56,10 +55,6 @@
 ## Adblock Filter List 
 
 - [DandelionSprout/adfilt](https://github.com/DandelionSprout/adfilt) - The place where I, DandelionSprout, store my web filter lists for countless topics, including my Nordic adblock list. As simple as that, really.
-
-## Batchfile 
-
-- [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image.
 
 ## C 
 
@@ -477,6 +472,7 @@
 
 ## PowerShell 
 
+- [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image.
 - [nrkno/brainfuck_programmer](https://github.com/nrkno/brainfuck_programmer) - Her ligger kode fra innovasjonsdagene i september 2021 hvor vi tenkte stort og prøvde å lage en algoritme som kunne programmere i Brainfuck.
 
 ## Python 
