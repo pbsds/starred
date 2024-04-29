@@ -67,6 +67,7 @@
 - [go](#go)
 - [godot](#godot)
 - [golang](#golang)
+- [graphql](#graphql)
 - [hacking](#hacking)
 - [hacktoberfest](#hacktoberfest)
 - [haskell](#haskell)
@@ -193,6 +194,7 @@
 
 ## api 
 
+- [halworsen/fflogsapi](https://github.com/halworsen/fflogsapi) - A Python client for the FF Logs API
 - [mitmproxy/pdoc](https://github.com/mitmproxy/pdoc) - API Documentation for Python Projects
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
 - [FKLC/AnyAPI](https://github.com/FKLC/AnyAPI) - AnyAPI is a library that helps you to write any API wrapper with ease and in pythonic way.
@@ -607,6 +609,10 @@
 - [adam-mcdaniel/oakc](https://github.com/adam-mcdaniel/oakc) - A portable programming language with a compact intermediate representation
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 
+## graphql 
+
+- [halworsen/fflogsapi](https://github.com/halworsen/fflogsapi) - A Python client for the FF Logs API
+
 ## hacking 
 
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
@@ -614,6 +620,7 @@
 
 ## hacktoberfest 
 
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 - [BrianHicks/tree-grepper](https://github.com/BrianHicks/tree-grepper) - Like grep, but uses tree-sitter grammars to search
 - [utdemir/nix-tree](https://github.com/utdemir/nix-tree) - Interactively browse dependency graphs of Nix derivations.
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
@@ -766,6 +773,7 @@
 
 ## latex 
 
+- [mitex-rs/mitex](https://github.com/mitex-rs/mitex) - LaTeX support for Typst, powered by Rust and WASM. https://mitex-rs.github.io/mitex/
 - [Vindaar/LatexDSL](https://github.com/Vindaar/LatexDSL) - A mini DSL to generate LaTeX from Nim
 - [randombenj/modern-latex-theme](https://github.com/randombenj/modern-latex-theme) - A simple and modern LaTeX theme which can be used with pandoc
 - [dalibo/pandocker](https://github.com/dalibo/pandocker) - 🐳 A simple docker image for pandoc with filters, templates, fonts, and the latex bazaar
@@ -784,6 +792,7 @@
 
 ## linux 
 
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 - [EduApps-CDG/OpenDX](https://github.com/EduApps-CDG/OpenDX) - Bring DirectX to Linux! This is a Open Source DirectX implementation for Linux, providing native support for DirectX-based applications and games, without relying on Wine's Windows compatibility layer
 - [xyproto/orbiton](https://github.com/xyproto/orbiton) - Configuration-free text editor and IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, viewing man pages and for quick edit-compile cycles when
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
@@ -940,6 +949,9 @@
 
 ## others 
 
+- [DacoTaco/priiloader](https://github.com/DacoTaco/priiloader) - A Wii homebrew application that can prevent and fix some user level bricks
+- [andersrodem/konsulent-karma](https://github.com/andersrodem/konsulent-karma) - Et register over konsulentselskaper som har kansellert internships og fulltidsstillinger
+- [KFearsoff/nix-drama-explained](https://github.com/KFearsoff/nix-drama-explained) - This is a repository that aims to concisely explain the issues in Nix community
 - [Alhadis/OSC8-Adoption](https://github.com/Alhadis/OSC8-Adoption) - List of terminal emulators that support hyperlinks (OSC 8 escape sequences).
 - [Aftendo/Afternote](https://github.com/Aftendo/Afternote) - Modern open-source Flipnote Hatena server
 - [nixcon/nixcon-proposals](https://github.com/nixcon/nixcon-proposals) - Anything that has to do with NixCon and proposals, e.g. venue proposals, sponsorship proposals, etc.
@@ -1409,6 +1421,7 @@
 
 ## rust 
 
+- [mitex-rs/mitex](https://github.com/mitex-rs/mitex) - LaTeX support for Typst, powered by Rust and WASM. https://mitex-rs.github.io/mitex/
 - [vosen/ZLUDA](https://github.com/vosen/ZLUDA) - CUDA on AMD GPUs
 - [nix-community/patsh](https://github.com/nix-community/patsh) - A command-line tool for patching shell scripts inspired by resholve [maintainer=@figsoda]
 - [nix-community/nix-init](https://github.com/nix-community/nix-init) - Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more [maintainer=@figsoda]
