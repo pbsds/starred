@@ -130,6 +130,7 @@
 
 ## C++ 
 
+- [DacoTaco/priiloader](https://github.com/DacoTaco/priiloader) - A Wii homebrew application that can prevent and fix some user level bricks
 - [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 - [JuliaHubOSS/llvm-cbe](https://github.com/JuliaHubOSS/llvm-cbe) - resurrected LLVM "C Backend", with improvements
 - [ktock/container2wasm](https://github.com/ktock/container2wasm) - Container to WASM converter
@@ -383,6 +384,7 @@
 
 ## Nix 
 
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 - [h7x4/maunium-stickerpicker-nix](https://github.com/h7x4/maunium-stickerpicker-nix) - Nix wrapper for maunium/stickerpicker
 - [lilyinstarlight/bottom-nix](https://github.com/lilyinstarlight/bottom-nix) - An implementation of the Bottom encoding format in Nix
 - [nixos-bsd/nixbsd](https://github.com/nixos-bsd/nixbsd) - An unofficial NixOS fork with a FreeBSD kernel
@@ -431,6 +433,7 @@
 
 ## Others 
 
+- [KFearsoff/nix-drama-explained](https://github.com/KFearsoff/nix-drama-explained) - This is a repository that aims to concisely explain the issues in Nix community
 - [nixcon/nixcon-proposals](https://github.com/nixcon/nixcon-proposals) - Anything that has to do with NixCon and proposals, e.g. venue proposals, sponsorship proposals, etc.
 - [basings/selfhosted-music-overview](https://github.com/basings/selfhosted-music-overview) - A table listing software network services which can be hosted on your own servers
 - [gbdev/awesome-gbdev](https://github.com/gbdev/awesome-gbdev) - A curated list of Game Boy development resources such as tools, docs, emulators, related projects and open-source ROMs.
@@ -477,6 +480,7 @@
 
 ## Python 
 
+- [halworsen/fflogsapi](https://github.com/halworsen/fflogsapi) - A Python client for the FF Logs API
 - [Aftendo/Afternote](https://github.com/Aftendo/Afternote) - Modern open-source Flipnote Hatena server
 - [morpho-matters/morpholib](https://github.com/morpho-matters/morpholib) - A general-purpose programmatic animation tool
 - [tweag/python-nix](https://github.com/tweag/python-nix) - Python-Nix FFI library using the new C API
@@ -608,6 +612,7 @@
 
 ## Rust 
 
+- [mitex-rs/mitex](https://github.com/mitex-rs/mitex) - LaTeX support for Typst, powered by Rust and WASM. https://mitex-rs.github.io/mitex/
 - [bluskript/nix-inspect](https://github.com/bluskript/nix-inspect) - Interactive tui for inspecting nix configs
 - [tweag/genealogos](https://github.com/tweag/genealogos) - Genealogos, a Nix sbom generator
 - [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
@@ -741,6 +746,7 @@
 
 ## TypeScript 
 
+- [andersrodem/konsulent-karma](https://github.com/andersrodem/konsulent-karma) - Et register over konsulentselskaper som har kansellert internships og fulltidsstillinger
 - [electric-sql/pglite](https://github.com/electric-sql/pglite) - Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno
 - [GRA0007/crab.fit](https://github.com/GRA0007/crab.fit) - Enter your availability to find a time that works for everyone!
 - [qwell/bsky-exploits](https://github.com/qwell/bsky-exploits) - Bluesky / AT Protocol vulnerability disclosures and exploit framework
