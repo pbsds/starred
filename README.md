@@ -96,6 +96,7 @@
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [xemu-project/xemu](https://github.com/xemu-project/xemu) - Original Xbox Emulator for Windows, macOS, and Linux (Active Development)
 - [ReimuNotMoe/ydotool](https://github.com/ReimuNotMoe/ydotool) - Generic command-line automation tool (no X!)
+- [melonDS-emu/melonDS](https://github.com/melonDS-emu/melonDS) - DS emulator, sorta
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
 - [libvips/nip2](https://github.com/libvips/nip2) - A spreadsheet-like GUI for libvips.
 - [YosysHQ/fpga-toolchain](https://github.com/YosysHQ/fpga-toolchain) - Multi-platform nightly builds of open source FPGA tools
@@ -176,7 +177,6 @@
 - [asmuth/clip](https://github.com/asmuth/clip) - Create charts from the command line
 - [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
 - [YosysHQ/yosys](https://github.com/YosysHQ/yosys) - Yosys Open SYnthesis Suite
-- [melonDS-emu/melonDS](https://github.com/melonDS-emu/melonDS) - DS emulator, sorta
 - [anbox/anbox](https://github.com/anbox/anbox) - Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system
 - [mapeditor/tiled](https://github.com/mapeditor/tiled) - Flexible level editor
 - [BespokeSynth/BespokeSynth](https://github.com/BespokeSynth/BespokeSynth) - Software modular synth
