@@ -949,6 +949,7 @@
 
 ## others 
 
+- [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
 - [lix-project/lix](https://github.com/lix-project/lix) - [MIRROR, PRs ok! Issues: https://git.lix.systems/lix-project/lix/issues] A modern, delicious implementation of the Nix package manager, focused on correctness, usability, and growth — and committed to
 - [juspay/services-flake](https://github.com/juspay/services-flake) - NixOS-like services for Nix flakes
 - [DacoTaco/priiloader](https://github.com/DacoTaco/priiloader) - A Wii homebrew application that can prevent and fix some user level bricks
