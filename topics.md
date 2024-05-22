@@ -950,6 +950,8 @@
 
 ## others 
 
+- [Enter-tainer/typstyle](https://github.com/Enter-tainer/typstyle) - Beautiful and reliable typst code formatter
+- [samueldr/linux-3ds.nix](https://github.com/samueldr/linux-3ds.nix) - A Linux system for your 3DS, built with Nix
 - [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
 - [lix-project/lix](https://github.com/lix-project/lix) - [MIRROR, PRs ok! Issues: https://git.lix.systems/lix-project/lix/issues] A modern, delicious implementation of the Nix package manager, focused on correctness, usability, and growth — and committed to
 - [juspay/services-flake](https://github.com/juspay/services-flake) - NixOS-like services for Nix flakes
