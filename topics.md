@@ -586,6 +586,7 @@
 
 ## go 
 
+- [JoshuaDoes/autogo](https://github.com/JoshuaDoes/autogo) - An AutoIt interpreter and runtime package written in Go
 - [nix-community/nix-init](https://github.com/nix-community/nix-init) - Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more [maintainer=@figsoda]
 - [xyproto/orbiton](https://github.com/xyproto/orbiton) - Configuration-free text editor and IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, viewing man pages and for quick edit-compile cycles when
 - [rystaf/mlmym](https://github.com/rystaf/mlmym) - a familiar desktop experience for lemmy
@@ -601,6 +602,7 @@
 
 ## golang 
 
+- [JoshuaDoes/autogo](https://github.com/JoshuaDoes/autogo) - An AutoIt interpreter and runtime package written in Go
 - [xataio/pgroll](https://github.com/xataio/pgroll) - PostgreSQL zero-downtime migrations made easy
 - [laixintao/flameshow](https://github.com/laixintao/flameshow) - A terminal Flamegraph viewer.
 - [Foxboron/ssh-tpm-agent](https://github.com/Foxboron/ssh-tpm-agent) - :computer: :key: ssh-agent for TPMs
@@ -795,6 +797,7 @@
 
 ## linux 
 
+- [JoshuaDoes/autogo](https://github.com/JoshuaDoes/autogo) - An AutoIt interpreter and runtime package written in Go
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 - [EduApps-CDG/OpenDX](https://github.com/EduApps-CDG/OpenDX) - Bring DirectX to Linux! This is a Open Source DirectX implementation for Linux, providing native support for DirectX-based applications and games, without relying on Wine's Windows compatibility layer
 - [xyproto/orbiton](https://github.com/xyproto/orbiton) - Configuration-free text editor and IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, viewing man pages and for quick edit-compile cycles when
@@ -844,6 +847,7 @@
 
 ## macos 
 
+- [JoshuaDoes/autogo](https://github.com/JoshuaDoes/autogo) - An AutoIt interpreter and runtime package written in Go
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
 - [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - A BSD-based OS project that aims to provide source and binary compatibility with macOS® and a similar user experience.
 - [tangobattle/tango](https://github.com/tangobattle/tango) - Play Mega Man Battle Network online with rollback netcode!
@@ -952,6 +956,7 @@
 
 ## others 
 
+- [Thefantasticbagle/vulkan-nonlinear-raytracing](https://github.com/Thefantasticbagle/vulkan-nonlinear-raytracing) - A non-linear ray tracing engine made with Vulkan
 - [celun/celun](https://github.com/celun/celun) - The customizable embedded Linux using Nix.
 - [Enter-tainer/typstyle](https://github.com/Enter-tainer/typstyle) - Beautiful and reliable typst code formatter
 - [samueldr/linux-3ds.nix](https://github.com/samueldr/linux-3ds.nix) - A Linux system for your 3DS, built with Nix
@@ -1195,7 +1200,7 @@
 - [YosysHQ/fpga-toolchain](https://github.com/YosysHQ/fpga-toolchain) - Multi-platform nightly builds of open source FPGA tools
 - [carlini/printf-tac-toe](https://github.com/carlini/printf-tac-toe) - tic-tac-toe in a single call to printf
 - [flotwig/the-one-cert](https://github.com/flotwig/the-one-cert) - One cert to rule them all: SSL cert that is valid for any and all domains + all levels of subdomains
-- [spcask/pov-ray-tracing](https://github.com/spcask/pov-ray-tracing) - Ray tracing 25 scenes in 25 days with POV-Ray
+- [susam/pov25](https://github.com/susam/pov25) - Ray tracing 25 scenes in 25 days with POV-Ray
 - [agersant/polaris](https://github.com/agersant/polaris) - Polaris is a music streaming application, designed to let you enjoy your music collection from any computer or mobile device.
 - [tctianchi/pyvenn](https://github.com/tctianchi/pyvenn) - 2 ~ 6 sets venn diagram for python
 - [polygraphene/ALVR](https://github.com/polygraphene/ALVR) - ALVR is an open source remote VR display for Gear VR and Oculus Go. With it, you can play SteamVR games in your standalone headset.
@@ -1623,6 +1628,7 @@
 
 ## windows 
 
+- [JoshuaDoes/autogo](https://github.com/JoshuaDoes/autogo) - An AutoIt interpreter and runtime package written in Go
 - [neroist/uing](https://github.com/neroist/uing) - A fork of ui that wraps libui-ng instead of libui
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [tangobattle/tango](https://github.com/tangobattle/tango) - Play Mega Man Battle Network online with rollback netcode!
