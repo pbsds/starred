@@ -133,6 +133,7 @@
 
 ## C++ 
 
+- [Thefantasticbagle/vulkan-nonlinear-raytracing](https://github.com/Thefantasticbagle/vulkan-nonlinear-raytracing) - A non-linear ray tracing engine made with Vulkan
 - [GValiente/butano](https://github.com/GValiente/butano) - Modern C++ high level GBA engine
 - [lix-project/lix](https://github.com/lix-project/lix) - [MIRROR, PRs ok! Issues: https://git.lix.systems/lix-project/lix/issues] A modern, delicious implementation of the Nix package manager, focused on correctness, usability, and growth — and committed to
 - [DacoTaco/priiloader](https://github.com/DacoTaco/priiloader) - A Wii homebrew application that can prevent and fix some user level bricks
@@ -228,6 +229,7 @@
 
 ## Go 
 
+- [JoshuaDoes/autogo](https://github.com/JoshuaDoes/autogo) - An AutoIt interpreter and runtime package written in Go
 - [letsblockit/letsblockit](https://github.com/letsblockit/letsblockit) - Remove low-quality content and useless nags, focus on what matters. A community-maintained uBlock Origin filter set.
 - [taconi/micro](https://github.com/taconi/micro) - A modern and intuitive terminal-based text editor
 - [google/git-appraise](https://github.com/google/git-appraise) - Distributed code review system for Git repos
@@ -474,7 +476,7 @@
 
 ## POV-Ray SDL 
 
-- [spcask/pov-ray-tracing](https://github.com/spcask/pov-ray-tracing) - Ray tracing 25 scenes in 25 days with POV-Ray
+- [susam/pov25](https://github.com/susam/pov25) - Ray tracing 25 scenes in 25 days with POV-Ray
 
 ## Pascal 
 
