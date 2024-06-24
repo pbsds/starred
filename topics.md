@@ -962,6 +962,8 @@
 
 ## others 
 
+- [corkami/pics](https://github.com/corkami/pics) - File formats dissections and more...
+- [shell-pool/shpool](https://github.com/shell-pool/shpool) - Think tmux, then aim... lower
 - [Thefantasticbagle/vulkan-nonlinear-raytracing](https://github.com/Thefantasticbagle/vulkan-nonlinear-raytracing) - A non-linear ray tracing engine made with Vulkan
 - [celun/celun](https://github.com/celun/celun) - The customizable embedded Linux using Nix.
 - [Enter-tainer/typstyle](https://github.com/Enter-tainer/typstyle) - Beautiful and reliable typst code formatter
