@@ -395,6 +395,7 @@
 
 ## Nix 
 
+- [SaumonNet/proxmox-nixos](https://github.com/SaumonNet/proxmox-nixos) - The Proxmox Hypervisor, on NixOS [maintainers=@camillemndn @julienmalka]
 - [celun/celun](https://github.com/celun/celun) - The customizable embedded Linux using Nix.
 - [samueldr/linux-3ds.nix](https://github.com/samueldr/linux-3ds.nix) - A Linux system for your 3DS, built with Nix
 - [juspay/services-flake](https://github.com/juspay/services-flake) - NixOS-like services for Nix flakes
