@@ -1113,7 +1113,7 @@
 - [MineDojo/MineDojo](https://github.com/MineDojo/MineDojo) - Building Open-Ended Embodied Agents with Internet-Scale Knowledge
 - [the-djmaze/snappymail](https://github.com/the-djmaze/snappymail) - Simple, modern & fast web-based email client
 - [nerdypepper/statix](https://github.com/nerdypepper/statix) - lints and suggestions for the nix programming language
-- [NixOS/mobile-nixos](https://github.com/NixOS/mobile-nixos) - 
+- [mobile-nixos/mobile-nixos](https://github.com/mobile-nixos/mobile-nixos) - 📱 (rebooting... please wait...)
 - [googlefonts/atkinson-hyperlegible](https://github.com/googlefonts/atkinson-hyperlegible) - 
 - [nrkno/confetti.js](https://github.com/nrkno/confetti.js) - A simple confetti animation for your website :)
 - [nrkno/brainfuck_programmer](https://github.com/nrkno/brainfuck_programmer) - Her ligger kode fra innovasjonsdagene i september 2021 hvor vi tenkte stort og prøvde å lage en algoritme som kunne programmere i Brainfuck.
