@@ -84,7 +84,7 @@
 - [FlutterWayland/flutter_wlroots](https://github.com/FlutterWayland/flutter_wlroots) - Wayland compositor embedder and library for Flutter. Built with Wlroots.
 - [ad-oliviero/uwufetch](https://github.com/ad-oliviero/uwufetch) - A meme system info tool for Linux, based on nyan/uwu trend on r/linuxmasterrace.
 - [matrix-org/thirdroom](https://github.com/matrix-org/thirdroom) - Open, decentralised, immersive worlds built on Matrix
-- [NixOS/mobile-nixos](https://github.com/NixOS/mobile-nixos) - 
+- [mobile-nixos/mobile-nixos](https://github.com/mobile-nixos/mobile-nixos) - 📱 (rebooting... please wait...)
 - [InitWare/InitWare](https://github.com/InitWare/InitWare) - The InitWare Suite of Middleware allows you to manage services and system resources as logical entities called units. Its main component is a service management ("init") system.
 - [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) - Flipper Zero firmware source code
 - [tuupola/hagl](https://github.com/tuupola/hagl) - Hardware Agnostic Graphics Library for embedded
