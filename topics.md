@@ -963,6 +963,7 @@
 
 ## others 
 
+- [bartvbl/share-as-jpeg](https://github.com/bartvbl/share-as-jpeg) - I needed an app to convert image files to JPEG for use with apps that do not support certain file types.
 - [SaumonNet/proxmox-nixos](https://github.com/SaumonNet/proxmox-nixos) - The Proxmox Hypervisor, on NixOS [maintainers=@camillemndn @julienmalka]
 - [corkami/pics](https://github.com/corkami/pics) - File formats dissections and more...
 - [shell-pool/shpool](https://github.com/shell-pool/shpool) - Think tmux, then aim... lower
