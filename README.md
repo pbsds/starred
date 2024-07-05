@@ -294,6 +294,7 @@
 
 ## Java 
 
+- [bartvbl/share-as-jpeg](https://github.com/bartvbl/share-as-jpeg) - I needed an app to convert image files to JPEG for use with apps that do not support certain file types.
 - [Difegue/DoujinSoft](https://github.com/Difegue/DoujinSoft) - Web Shop/Archive for WarioWare DIY games.
 - [open-pdf-sign/open-pdf-sign](https://github.com/open-pdf-sign/open-pdf-sign) - Digitally sign PDF files from your commandline
 - [MineDojo/MineDojo](https://github.com/MineDojo/MineDojo) - Building Open-Ended Embodied Agents with Internet-Scale Knowledge
