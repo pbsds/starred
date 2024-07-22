@@ -629,6 +629,7 @@
 
 ## Rust 
 
+- [a-kenji/flake-edit](https://github.com/a-kenji/flake-edit) - Edit your flake inputs with ease.
 - [nixcloud/fixPath](https://github.com/nixcloud/fixPath) - A tool, similar to patchelf, making DLL FS location changes possible for EXE files using rel/abs paths.
 - [shell-pool/shpool](https://github.com/shell-pool/shpool) - Think tmux, then aim... lower
 - [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
