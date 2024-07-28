@@ -453,6 +453,7 @@
 
 ## Others 
 
+- [freuk/awesome-nix-hpc](https://github.com/freuk/awesome-nix-hpc) - high performance computing related nix resources
 - [KFearsoff/nix-drama-explained](https://github.com/KFearsoff/nix-drama-explained) - This is a repository that aims to concisely explain the issues in Nix community
 - [nixcon/nixcon-proposals](https://github.com/nixcon/nixcon-proposals) - Anything that has to do with NixCon and proposals, e.g. venue proposals, sponsorship proposals, etc.
 - [basings/selfhosted-music-overview](https://github.com/basings/selfhosted-music-overview) - A table listing software network services which can be hosted on your own servers
