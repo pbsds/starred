@@ -965,6 +965,7 @@
 
 ## others 
 
+- [numtide/nixos-facter](https://github.com/numtide/nixos-facter) - Declarative nixos-generate-config
 - [freuk/awesome-nix-hpc](https://github.com/freuk/awesome-nix-hpc) - high performance computing related nix resources
 - [nixcloud/fixPath](https://github.com/nixcloud/fixPath) - A tool, similar to patchelf, making DLL FS location changes possible for EXE files using rel/abs paths.
 - [bartvbl/share-as-jpeg](https://github.com/bartvbl/share-as-jpeg) - I needed an app to convert image files to JPEG for use with apps that do not support certain file types.
@@ -1483,6 +1484,7 @@
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [sharkdp/hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
 - [comby-tools/comby](https://github.com/comby-tools/comby) - A code rewrite tool for structural search and replace that supports ~every language.
+- [mTvare6/hello-world.rs](https://github.com/mTvare6/hello-world.rs) - 🚀Memory safe, blazing fast, configurable, minimal hello world written in rust(🚀) in a few lines of code with few(1092🚀) dependencies🚀
 - [soywod/himalaya](https://github.com/soywod/himalaya) - CLI to manage emails
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [sharkdp/pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors
