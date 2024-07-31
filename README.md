@@ -400,6 +400,8 @@
 
 ## Nix 
 
+- [cachix/git-hooks.nix](https://github.com/cachix/git-hooks.nix) - Seamless integration of https://pre-commit.com git hooks with Nix.
+- [NixOS/nixfmt](https://github.com/NixOS/nixfmt) - The official (but not yet stable) formatter for Nix code
 - [SaumonNet/proxmox-nixos](https://github.com/SaumonNet/proxmox-nixos) - The Proxmox Hypervisor, on NixOS [maintainers=@camillemndn @julienmalka]
 - [celun/celun](https://github.com/celun/celun) - The customizable embedded Linux using Nix.
 - [samueldr/linux-3ds.nix](https://github.com/samueldr/linux-3ds.nix) - A Linux system for your 3DS, built with Nix
@@ -491,6 +493,7 @@
 
 ## Pascal 
 
+- [red-prig/fpPS4](https://github.com/red-prig/fpPS4) - PS4 compatibility layer (emulator) on Free Pascal
 - [transmission-remote-gui/transgui](https://github.com/transmission-remote-gui/transgui) - 🧲 A feature rich cross platform Transmission BitTorrent client. Faster and has more functionality than the built-in web GUI.
 
 ## PowerShell 
@@ -632,6 +635,7 @@
 
 ## Rust 
 
+- [ethersync/ethersync](https://github.com/ethersync/ethersync) - Ethersync enables real-time co-editing of local text files.
 - [a-kenji/flake-edit](https://github.com/a-kenji/flake-edit) - Edit your flake inputs with ease.
 - [nixcloud/fixPath](https://github.com/nixcloud/fixPath) - A tool, similar to patchelf, making DLL FS location changes possible for EXE files using rel/abs paths.
 - [shell-pool/shpool](https://github.com/shell-pool/shpool) - Think tmux, then aim... lower
