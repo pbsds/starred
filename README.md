@@ -399,6 +399,7 @@
 
 ## Nix 
 
+- [yusefnapora/native-access-nix](https://github.com/yusefnapora/native-access-nix) - A nixy way to install Native Instruments plugins using wine
 - [cachix/git-hooks.nix](https://github.com/cachix/git-hooks.nix) - Seamless integration of https://pre-commit.com git hooks with Nix.
 - [NixOS/nixfmt](https://github.com/NixOS/nixfmt) - The official (but not yet stable) formatter for Nix code
 - [SaumonNet/proxmox-nixos](https://github.com/SaumonNet/proxmox-nixos) - The Proxmox Hypervisor, on NixOS [maintainers=@camillemndn @julienmalka]
@@ -480,7 +481,7 @@
 
 ## PHP 
 
-- [ssddanbrown/rss](https://github.com/ssddanbrown/rss) - A simple twitter-feed-style RSS aggregator written in PHP, Laravel, Inertia.js, Tailwind and Vue.js
+- [ssddanbrown/rss](https://github.com/ssddanbrown/rss) - PROJECT MIGRATED TO CODEBERG -- A simple twitter-feed-style RSS aggregator written in PHP, Laravel, Inertia.js, Tailwind and Vue.js
 - [phpgl/visu](https://github.com/phpgl/visu) - A PHP Game Engine as a Modern OpenGL Component Framework.
 - [the-djmaze/snappymail](https://github.com/the-djmaze/snappymail) - Simple, modern & fast web-based email client
 - [paragonie/paseto](https://github.com/paragonie/paseto) - Platform-Agnostic Security Tokens
