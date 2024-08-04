@@ -136,6 +136,7 @@
 
 ## C++ 
 
+- [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [Thefantasticbagle/vulkan-nonlinear-raytracing](https://github.com/Thefantasticbagle/vulkan-nonlinear-raytracing) - A non-linear ray tracing engine made with Vulkan
 - [GValiente/butano](https://github.com/GValiente/butano) - Modern C++ high level GBA engine
 - [lix-project/lix](https://github.com/lix-project/lix) - [MIRROR, PRs ok! Issues: https://git.lix.systems/lix-project/lix/issues] A modern, delicious implementation of the Nix package manager, focused on correctness, usability, and growth — and committed to
@@ -503,6 +504,7 @@
 
 ## Python 
 
+- [Ferase/PPMTools](https://github.com/Ferase/PPMTools) - A PPM parser module for Python 3. This is a rewrite of the PPM parser from Hatenatools, which was made for Python 2 (https://github.com/pbsds/Hatenatools)
 - [halworsen/fflogsapi](https://github.com/halworsen/fflogsapi) - A Python client for the FF Logs API
 - [Aftendo/Afternote](https://github.com/Aftendo/Afternote) - Modern open-source Flipnote Hatena server
 - [morpho-matters/morpholib](https://github.com/morpho-matters/morpholib) - A general-purpose programmatic animation tool
