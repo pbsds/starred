@@ -34,6 +34,7 @@
 - [Objective-C](#objective-c)
 - [Others](#others)
 - [PHP](#php)
+- [PLpgSQL](#plpgsql)
 - [POV-Ray SDL](#pov-ray-sdl)
 - [Pascal](#pascal)
 - [PowerShell](#powershell)
@@ -488,6 +489,10 @@
 - [paragonie/paseto](https://github.com/paragonie/paseto) - Platform-Agnostic Security Tokens
 - [fyrkat/ssp-theme](https://github.com/fyrkat/ssp-theme) - fyrkat theme for SimpleSamlPhp
 
+## PLpgSQL 
+
+- [electric-sql/pglite](https://github.com/electric-sql/pglite) - Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno
+
 ## POV-Ray SDL 
 
 - [susam/pov25](https://github.com/susam/pov25) - Ray tracing 25 scenes in 25 days with POV-Ray
@@ -776,8 +781,8 @@
 
 ## TypeScript 
 
+- [Xe/praise-me](https://github.com/Xe/praise-me) - Praise my GitHub profile!
 - [andersrodem/konsulent-karma](https://github.com/andersrodem/konsulent-karma) - Et register over konsulentselskaper som har kansellert internships og fulltidsstillinger
-- [electric-sql/pglite](https://github.com/electric-sql/pglite) - Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno
 - [GRA0007/crab.fit](https://github.com/GRA0007/crab.fit) - Enter your availability to find a time that works for everyone!
 - [qwell/bsky-exploits](https://github.com/qwell/bsky-exploits) - Bluesky / AT Protocol vulnerability disclosures and exploit framework
 - [diced/zipline](https://github.com/diced/zipline) - A ShareX/file upload server that is easy to use, packed with features, and with an easy setup!
