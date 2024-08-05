@@ -966,6 +966,7 @@
 
 ## others 
 
+- [Xe/praise-me](https://github.com/Xe/praise-me) - Praise my GitHub profile!
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [Ferase/PPMTools](https://github.com/Ferase/PPMTools) - A PPM parser module for Python 3. This is a rewrite of the PPM parser from Hatenatools, which was made for Python 2 (https://github.com/pbsds/Hatenatools)
 - [yusefnapora/native-access-nix](https://github.com/yusefnapora/native-access-nix) - A nixy way to install Native Instruments plugins using wine
