@@ -239,7 +239,7 @@
 
 ## Go 
 
-- [numtide/nixos-facter](https://github.com/numtide/nixos-facter) - Declarative nixos-generate-config
+- [numtide/nixos-facter](https://github.com/numtide/nixos-facter) - Declarative nixos-generate-config [maintainer=@brianmcgee]
 - [JoshuaDoes/autogo](https://github.com/JoshuaDoes/autogo) - An AutoIt interpreter and runtime package written in Go
 - [letsblockit/letsblockit](https://github.com/letsblockit/letsblockit) - Remove low-quality content and useless nags, focus on what matters. A community-maintained uBlock Origin filter set.
 - [google/git-appraise](https://github.com/google/git-appraise) - Distributed code review system for Git repos
@@ -780,6 +780,7 @@
 
 ## TeX 
 
+- [Atemu/nix-fuck-up-assessment-form](https://github.com/Atemu/nix-fuck-up-assessment-form) - To be filled by anyone who fucks up using Nix.
 - [j-jith/pandoc-elsevier-template](https://github.com/j-jith/pandoc-elsevier-template) - :page_with_curl: Pandoc template for papers in Elsevier journals
 - [vdumoulin/conv_arithmetic](https://github.com/vdumoulin/conv_arithmetic) - A technical report on convolution arithmetic in the context of deep learning
 - [randombenj/modern-latex-theme](https://github.com/randombenj/modern-latex-theme) - A simple and modern LaTeX theme which can be used with pandoc
