@@ -21,6 +21,7 @@
 - [babel](#babel)
 - [bash](#bash)
 - [c](#c)
+- [c-plus-plus](#c-plus-plus)
 - [chrome](#chrome)
 - [cli](#cli)
 - [clojure](#clojure)
@@ -278,6 +279,15 @@
 - [adam-mcdaniel/oakc](https://github.com/adam-mcdaniel/oakc) - A portable programming language with a compact intermediate representation
 - [Titor8115/mandown](https://github.com/Titor8115/mandown) - man-page inspired Markdown viewer
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
+
+## c-plus-plus 
+
+- [patriciogonzalezvivo/glslViewer](https://github.com/patriciogonzalezvivo/glslViewer) - Console-based GLSL Sandbox for 2D/3D shaders
+- [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
+- [pmp-library/pmp-library](https://github.com/pmp-library/pmp-library) - The Polygon Mesh Processing Library
+- [xmake-io/xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
+- [mapeditor/tiled](https://github.com/mapeditor/tiled) - Flexible level editor
+- [ssloy/tinyraytracer](https://github.com/ssloy/tinyraytracer) - A brief computer graphics / rendering course
 
 ## chrome 
 
@@ -977,6 +987,7 @@
 
 ## others 
 
+- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [Atemu/nix-fuck-up-assessment-form](https://github.com/Atemu/nix-fuck-up-assessment-form) - To be filled by anyone who fucks up using Nix.
 - [chipsalliance/chisel-nix](https://github.com/chipsalliance/chisel-nix) - Nix scripts used to manage the chisel projects.
 - [Programvareverkstedet/pvv-nixos-config](https://github.com/Programvareverkstedet/pvv-nixos-config) - Read-only mirror of https://git.pvv.ntnu.no/Projects/pvv-nixos-config
@@ -1191,7 +1202,6 @@
 - [facebookresearch/faiss](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors.
 - [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
 - [virt-manager/virt-manager](https://github.com/virt-manager/virt-manager) - Desktop tool for managing virtual machines via libvirt
-- [pmp-library/pmp-library](https://github.com/pmp-library/pmp-library) - The Polygon Mesh Processing Library
 - [ggerganov/imtui](https://github.com/ggerganov/imtui) - ImTui: Immediate Mode Text-based User Interface C++ Library
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
 - [hydromatic/morel](https://github.com/hydromatic/morel) - Standard ML interpreter, with relational extensions, implemented in Java
