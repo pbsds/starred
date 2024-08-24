@@ -987,6 +987,8 @@
 
 ## others 
 
+- [noamraph/nixsa](https://github.com/noamraph/nixsa) - Nixsa - A Nix Standalone Environment
+- [tweag/topiary](https://github.com/tweag/topiary) - 
 - [Tsche/magic_codec](https://github.com/Tsche/magic_codec) - 
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [Atemu/nix-fuck-up-assessment-form](https://github.com/Atemu/nix-fuck-up-assessment-form) - To be filled by anyone who fucks up using Nix.
