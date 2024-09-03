@@ -466,6 +466,7 @@
 
 ## Others 
 
+- [supermariofps/hatsune-miku-windows-linux-cursors](https://github.com/supermariofps/hatsune-miku-windows-linux-cursors) - Hatsune Miku Cursors for Windows/Linux!
 - [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users) - Check your ranking in GitHub! Don't forget to star ⭐ this repository.
 - [freuk/awesome-nix-hpc](https://github.com/freuk/awesome-nix-hpc) - high performance computing related nix resources
 - [KFearsoff/nix-drama-explained](https://github.com/KFearsoff/nix-drama-explained) - This is a repository that aims to concisely explain the issues in Nix community
@@ -513,6 +514,7 @@
 
 ## Python 
 
+- [angr/cle](https://github.com/angr/cle) - CLE Loads Everything (at least, many binary formats!)
 - [czq142857/NDC](https://github.com/czq142857/NDC) - PyTorch implementation of Neural Dual Contouring.
 - [Tsche/magic_codec](https://github.com/Tsche/magic_codec) - 
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
@@ -649,6 +651,7 @@
 
 ## Rust 
 
+- [papigers/rutty](https://github.com/papigers/rutty) - RuTTY - Rust TTY Server
 - [noamraph/nixsa](https://github.com/noamraph/nixsa) - Nixsa - A Nix Standalone Environment
 - [tweag/topiary](https://github.com/tweag/topiary) - 
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
