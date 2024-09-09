@@ -671,6 +671,7 @@
 - [piroor/treestyletab](https://github.com/piroor/treestyletab) - Tree Style Tab, Show tabs like a tree.
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+- [f3d-app/f3d](https://github.com/f3d-app/f3d) - Fast and minimalist 3D viewer.
 - [tiny-pilot/tinypilot](https://github.com/tiny-pilot/tinypilot) - Use your Raspberry Pi as a browser-based KVM.
 - [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen.
 - [xemu-project/xemu](https://github.com/xemu-project/xemu) - Original Xbox Emulator for Windows, macOS, and Linux (Active Development)
@@ -994,6 +995,10 @@
 
 ## others 
 
+- [Wiimm/wiimms-iso-tools](https://github.com/Wiimm/wiimms-iso-tools) - »Wiimms ISO Tools« is a set of command line tools to extract, modify and create Wii and GameCube ISO images and WBFS containers.
+- [OrangeX4/typst-cheq](https://github.com/OrangeX4/typst-cheq) - Write markdown-like checklist easily.
+- [tiiuae/jetpack-nixos](https://github.com/tiiuae/jetpack-nixos) - NixOS module for NVIDIA Jetson devices
+- [NixOS/nixpkgs-vet](https://github.com/NixOS/nixpkgs-vet) - Tool to vet (check) Nixpkgs, including its pkgs/by-name directory
 - [nginx/nginx](https://github.com/nginx/nginx) - The official NGINX Open Source repository.
 - [angr/cle](https://github.com/angr/cle) - CLE Loads Everything (at least, many binary formats!)
 - [supermariofps/hatsune-miku-windows-linux-cursors](https://github.com/supermariofps/hatsune-miku-windows-linux-cursors) - Hatsune Miku Cursors for Windows/Linux!
@@ -1389,6 +1394,7 @@
 
 ## python 
 
+- [google/pcbdl](https://github.com/google/pcbdl) - PCB Design Language: A programming way to design schematics.
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [morpho-matters/morpholib](https://github.com/morpho-matters/morpholib) - A general-purpose programmatic animation tool
 - [tiiuae/sbomnix](https://github.com/tiiuae/sbomnix) - A suite of utilities to help with software supply chain challenges on nix targets
