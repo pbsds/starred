@@ -995,6 +995,7 @@
 
 ## others 
 
+- [dasJ/zhf](https://github.com/dasJ/zhf) - ZHF read-only mirror
 - [Wiimm/wiimms-iso-tools](https://github.com/Wiimm/wiimms-iso-tools) - »Wiimms ISO Tools« is a set of command line tools to extract, modify and create Wii and GameCube ISO images and WBFS containers.
 - [OrangeX4/typst-cheq](https://github.com/OrangeX4/typst-cheq) - Write markdown-like checklist easily.
 - [tiiuae/jetpack-nixos](https://github.com/tiiuae/jetpack-nixos) - NixOS module for NVIDIA Jetson devices
