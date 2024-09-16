@@ -409,6 +409,7 @@
 
 ## Nix 
 
+- [NixOS/SC-election-2024](https://github.com/NixOS/SC-election-2024) - 2024 Election for the Steering Committee
 - [tiiuae/jetpack-nixos](https://github.com/tiiuae/jetpack-nixos) - NixOS module for NVIDIA Jetson devices
 - [chipsalliance/chisel-nix](https://github.com/chipsalliance/chisel-nix) - Nix scripts used to manage the chisel projects.
 - [Programvareverkstedet/pvv-nixos-config](https://github.com/Programvareverkstedet/pvv-nixos-config) - Read-only mirror of https://git.pvv.ntnu.no/Projects/pvv-nixos-config
@@ -451,7 +452,7 @@
 - [NickCao/nixos-riscv](https://github.com/NickCao/nixos-riscv) - 
 - [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments
 - [timbertson/runix](https://github.com/timbertson/runix) - 
-- [nix-community/disko](https://github.com/nix-community/disko) - Declarative disk partitioning and formatting using nix [maintainer=@Lassulus]
+- [nix-community/disko](https://github.com/nix-community/disko) - Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime]
 - [serokell/nix-npm-buildpackage](https://github.com/serokell/nix-npm-buildpackage) - Build nix packages that use npm/yarn
 - [zhaofengli/nixos-riscv64](https://github.com/zhaofengli/nixos-riscv64) - NixOS on the HiFive Unmatched
 - [colemickens/stable-diffusion-flake](https://github.com/colemickens/stable-diffusion-flake) - 
