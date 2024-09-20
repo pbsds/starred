@@ -997,6 +997,7 @@
 
 ## others 
 
+- [trendels/braceexpand](https://github.com/trendels/braceexpand) - Bash-style brace expansion for Python
 - [nix-community/nixpkgs-lint](https://github.com/nix-community/nixpkgs-lint) - A fast semantic linter for Nix using tree-sitter 🌳 + ❄️. [maintainers=@Artturin,@siraben]
 - [zlfn/rust-gb](https://github.com/zlfn/rust-gb) - Compile Rust code to GBZ80 (Gameboy Z80)
 - [NixOS/SC-election-2024](https://github.com/NixOS/SC-election-2024) - 2024 Election for the Steering Committee
@@ -1023,7 +1024,7 @@
 - [Ferase/PPMTools](https://github.com/Ferase/PPMTools) - A PPM parser module for Python 3. This is a rewrite of the PPM parser from Hatenatools, which was made for Python 2 (https://github.com/pbsds/Hatenatools)
 - [yusefnapora/native-access-nix](https://github.com/yusefnapora/native-access-nix) - A nixy way to install Native Instruments plugins using wine
 - [cachix/git-hooks.nix](https://github.com/cachix/git-hooks.nix) - Seamless integration of https://pre-commit.com git hooks with Nix.
-- [ethersync/ethersync](https://github.com/ethersync/ethersync) - Ethersync enables editor-agnostic real-time co-editing of local text files.
+- [ethersync/ethersync](https://github.com/ethersync/ethersync) - Editor-agnostic real-time collaborative editing of local text files.
 - [red-prig/fpPS4](https://github.com/red-prig/fpPS4) - PS4 compatibility layer (emulator) on Free Pascal
 - [numtide/nixos-facter](https://github.com/numtide/nixos-facter) - Declarative hardware configuration for NixOS [maintainer=@numtide]
 - [freuk/awesome-nix-hpc](https://github.com/freuk/awesome-nix-hpc) - high performance computing related nix resources
