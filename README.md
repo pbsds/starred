@@ -409,6 +409,8 @@
 
 ## Nix 
 
+- [fluidattacks/makes](https://github.com/fluidattacks/makes) - A software supply chain framework powered by Nix.
+- [JeremiahSecrist/regula-nix](https://github.com/JeremiahSecrist/regula-nix) - This project aims to help implement and enforce various security standards in NixOS. Regula meaning standards in latin.
 - [nix-community/rnix-parser](https://github.com/nix-community/rnix-parser) - A Nix parser written in Rust [maintainer=@oberblastmeister]
 - [NixOS/SC-election-2024](https://github.com/NixOS/SC-election-2024) - 2024 Election for the Steering Committee
 - [tiiuae/jetpack-nixos](https://github.com/tiiuae/jetpack-nixos) - NixOS module for NVIDIA Jetson devices
