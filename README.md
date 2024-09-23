@@ -64,6 +64,7 @@
 
 ## C 
 
+- [NixOS/patchelf](https://github.com/NixOS/patchelf) - A small utility to modify the dynamic linker and RPATH of ELF executables
 - [Wiimm/wiimms-iso-tools](https://github.com/Wiimm/wiimms-iso-tools) - »Wiimms ISO Tools« is a set of command line tools to extract, modify and create Wii and GameCube ISO images and WBFS containers.
 - [nginx/nginx](https://github.com/nginx/nginx) - The official NGINX Open Source repository.
 - [ptitSeb/box64](https://github.com/ptitSeb/box64) - Box64 - Linux Userspace x86_64 Emulator with a twist, targeted at ARM64 Linux devices
@@ -245,6 +246,7 @@
 
 ## Go 
 
+- [dnr/styx](https://github.com/dnr/styx) - alternate nix substitution
 - [numtide/nixos-facter](https://github.com/numtide/nixos-facter) - Declarative hardware configuration for NixOS [maintainer=@numtide]
 - [JoshuaDoes/autogo](https://github.com/JoshuaDoes/autogo) - An AutoIt interpreter and runtime package written in Go
 - [ktock/container2wasm](https://github.com/ktock/container2wasm) - Container to WASM converter
@@ -409,6 +411,13 @@
 
 ## Nix 
 
+- [pololu/nixcrpkgs](https://github.com/pololu/nixcrpkgs) - Tools for cross-compiling standalone applications using Nix.
+- [nix-community/redoxpkgs](https://github.com/nix-community/redoxpkgs) - Cross-compile to Redox using Nix [maintainer=@aaronjanse]
+- [tvlfyi/tvix](https://github.com/tvlfyi/tvix) - Tvix - A Rust implementation of Nix. Read-only mirror of https://cs.tvl.fyi/depot/-/tree/tvix
+- [nix-community/fenix](https://github.com/nix-community/fenix) - Rust toolchains and rust-analyzer nightly for Nix [maintainer=@figsoda]
+- [nix-community/nix-index-database](https://github.com/nix-community/nix-index-database) - Weekly updated nix-index database [maintainer=@Mic92]
+- [Mic92/nixos-shell](https://github.com/Mic92/nixos-shell) - Spawns lightweight nixos vms in a shell
+- [musnix/musnix](https://github.com/musnix/musnix) - Real-time audio in NixOS
 - [fluidattacks/makes](https://github.com/fluidattacks/makes) - A software supply chain framework powered by Nix.
 - [JeremiahSecrist/regula-nix](https://github.com/JeremiahSecrist/regula-nix) - This project aims to help implement and enforce various security standards in NixOS. Regula meaning standards in latin.
 - [nix-community/rnix-parser](https://github.com/nix-community/rnix-parser) - A Nix parser written in Rust [maintainer=@oberblastmeister]
@@ -521,6 +530,7 @@
 
 ## Python 
 
+- [nix-community/vulnix](https://github.com/nix-community/vulnix) - Vulnerability (CVE) scanner for Nix/NixOS.
 - [trendels/braceexpand](https://github.com/trendels/braceexpand) - Bash-style brace expansion for Python
 - [google/pcbdl](https://github.com/google/pcbdl) - PCB Design Language: A programming way to design schematics.
 - [angr/cle](https://github.com/angr/cle) - CLE Loads Everything (at least, many binary formats!)
@@ -660,6 +670,12 @@
 
 ## Rust 
 
+- [tweag/nixtract](https://github.com/tweag/nixtract) - A CLI tool to extract the graph of derivations from a Nix flake.
+- [replit/rippkgs](https://github.com/replit/rippkgs) - A CLI for indexing and searching packages in Nix expressions
+- [DeterminateSystems/nix-netboot-serve](https://github.com/DeterminateSystems/nix-netboot-serve) - Make any NixOS system netbootable with 10s cycle times.
+- [andir/npins](https://github.com/andir/npins) - Nix dependency pinning. Very similar to Niv but has a few features that I personally wanted.
+- [nix-community/lanzaboote](https://github.com/nix-community/lanzaboote) - Secure Boot for NixOS [maintainers=@blitz @raitobezarius @nikstur]
+- [nix-community/nix-index](https://github.com/nix-community/nix-index) - Quickly locate nix packages with specific files [maintainers=@bennofs @figsoda @raitobezarius]
 - [nix-community/nixpkgs-lint](https://github.com/nix-community/nixpkgs-lint) - A fast semantic linter for Nix using tree-sitter 🌳 + ❄️. [maintainers=@Artturin,@siraben]
 - [zlfn/rust-gb](https://github.com/zlfn/rust-gb) - Compile Rust code to GBZ80 (Gameboy Z80)
 - [pvolok/mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel
