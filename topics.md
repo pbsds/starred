@@ -644,6 +644,7 @@
 ## hacktoberfest 
 
 - [alexozer/flitter](https://github.com/alexozer/flitter) - A LiveSplit-inspired speedrunning split timer for Linux/macOS terminal. Supports global hotkeys.
+- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 - [BrianHicks/tree-grepper](https://github.com/BrianHicks/tree-grepper) - Like grep, but uses tree-sitter grammars to search
 - [utdemir/nix-tree](https://github.com/utdemir/nix-tree) - Interactively browse dependency graphs of Nix derivations.
@@ -999,6 +1000,19 @@
 
 ## others 
 
+- [dnr/styx](https://github.com/dnr/styx) - alternate nix substitution
+- [tweag/nixtract](https://github.com/tweag/nixtract) - A CLI tool to extract the graph of derivations from a Nix flake.
+- [replit/rippkgs](https://github.com/replit/rippkgs) - A CLI for indexing and searching packages in Nix expressions
+- [DeterminateSystems/nix-netboot-serve](https://github.com/DeterminateSystems/nix-netboot-serve) - Make any NixOS system netbootable with 10s cycle times.
+- [pololu/nixcrpkgs](https://github.com/pololu/nixcrpkgs) - Tools for cross-compiling standalone applications using Nix.
+- [nix-community/redoxpkgs](https://github.com/nix-community/redoxpkgs) - Cross-compile to Redox using Nix [maintainer=@aaronjanse]
+- [andir/npins](https://github.com/andir/npins) - Nix dependency pinning. Very similar to Niv but has a few features that I personally wanted.
+- [tvlfyi/tvix](https://github.com/tvlfyi/tvix) - Tvix - A Rust implementation of Nix. Read-only mirror of https://cs.tvl.fyi/depot/-/tree/tvix
+- [NixOS/patchelf](https://github.com/NixOS/patchelf) - A small utility to modify the dynamic linker and RPATH of ELF executables
+- [nix-community/nix-index-database](https://github.com/nix-community/nix-index-database) - Weekly updated nix-index database [maintainer=@Mic92]
+- [nix-community/nix-index](https://github.com/nix-community/nix-index) - Quickly locate nix packages with specific files [maintainers=@bennofs @figsoda @raitobezarius]
+- [Mic92/nixos-shell](https://github.com/Mic92/nixos-shell) - Spawns lightweight nixos vms in a shell
+- [musnix/musnix](https://github.com/musnix/musnix) - Real-time audio in NixOS
 - [JeremiahSecrist/regula-nix](https://github.com/JeremiahSecrist/regula-nix) - This project aims to help implement and enforce various security standards in NixOS. Regula meaning standards in latin.
 - [trendels/braceexpand](https://github.com/trendels/braceexpand) - Bash-style brace expansion for Python
 - [nix-community/nixpkgs-lint](https://github.com/nix-community/nixpkgs-lint) - A fast semantic linter for Nix using tree-sitter 🌳 + ❄️. [maintainers=@Artturin,@siraben]
@@ -1512,6 +1526,8 @@
 
 ## rust 
 
+- [nix-community/lanzaboote](https://github.com/nix-community/lanzaboote) - Secure Boot for NixOS [maintainers=@blitz @raitobezarius @nikstur]
+- [nix-community/fenix](https://github.com/nix-community/fenix) - Rust toolchains and rust-analyzer nightly for Nix [maintainer=@figsoda]
 - [nix-community/rnix-parser](https://github.com/nix-community/rnix-parser) - A Nix parser written in Rust [maintainer=@oberblastmeister]
 - [pvolok/mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel
 - [alexozer/flitter](https://github.com/alexozer/flitter) - A LiveSplit-inspired speedrunning split timer for Linux/macOS terminal. Supports global hotkeys.
@@ -1564,6 +1580,8 @@
 
 ## security 
 
+- [nix-community/vulnix](https://github.com/nix-community/vulnix) - Vulnerability (CVE) scanner for Nix/NixOS.
+- [nix-community/lanzaboote](https://github.com/nix-community/lanzaboote) - Secure Boot for NixOS [maintainers=@blitz @raitobezarius @nikstur]
 - [tiiuae/sbomnix](https://github.com/tiiuae/sbomnix) - A suite of utilities to help with software supply chain challenges on nix targets
 - [Foxboron/ssh-tpm-agent](https://github.com/Foxboron/ssh-tpm-agent) - :computer: :key: ssh-agent for TPMs
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
