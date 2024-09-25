@@ -531,6 +531,7 @@
 
 ## Python 
 
+- [nbQA-dev/nbQA](https://github.com/nbQA-dev/nbQA) - Run ruff, isort, pyupgrade, mypy, pylint, flake8, and more on Jupyter Notebooks
 - [nix-community/vulnix](https://github.com/nix-community/vulnix) - Vulnerability (CVE) scanner for Nix/NixOS.
 - [trendels/braceexpand](https://github.com/trendels/braceexpand) - Bash-style brace expansion for Python
 - [google/pcbdl](https://github.com/google/pcbdl) - PCB Design Language: A programming way to design schematics.
