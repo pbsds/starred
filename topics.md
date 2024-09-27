@@ -663,6 +663,7 @@
 - [ImVexed/muon](https://github.com/ImVexed/muon) - GPU based Electron on a diet
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [roc-lang/roc](https://github.com/roc-lang/roc) - A fast, friendly, functional language.
+- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by MapsWithMe (MapsMe) founde
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
 - [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - A BSD-based OS project that aims to provide source and binary compatibility with macOS® and a similar user experience.
 - [RensAlthuis/vertical-overview](https://github.com/RensAlthuis/vertical-overview) - Gnome has had vertically stacked workspaces for a long time. The Gnome 40 update unfortunately made the switch to a horizontal layout. A choice that many Gnome users disagree with. This extension comp
@@ -1176,7 +1177,7 @@
 - [OpenDroneMap/ODM](https://github.com/OpenDroneMap/ODM) - A command line toolkit to generate maps, point clouds, 3D models and DEMs from drone, balloon or kite images. 📷
 - [c-blake/cligen](https://github.com/c-blake/cligen) - Nim library to infer/generate command-line-interfaces / option / argument parsing; Docs at
 - [fstl-app/fstl](https://github.com/fstl-app/fstl) - A fast STL file viewer
-- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 An interplanetary microblogging platform 🚀
+- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 A completely free and open interplanetary microblogging platform 🚀
 - [yglukhov/nimpy](https://github.com/yglukhov/nimpy) - Nim - Python bridge
 - [kellerben/dudle](https://github.com/kellerben/dudle) - Online event coordination and survey application
 - [probcomp/PClean](https://github.com/probcomp/PClean) - A domain-specific probabilistic programming language for scalable Bayesian data cleaning
