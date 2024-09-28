@@ -1002,6 +1002,7 @@
 
 ## others 
 
+- [polygon/nix-buildproxy](https://github.com/polygon/nix-buildproxy) - Providing reproducible HTTP/HTTPS responders to builds that just can not live without
 - [KenneyNL/Adobe-Alternatives](https://github.com/KenneyNL/Adobe-Alternatives) - A list of alternatives for Adobe software
 - [dnr/styx](https://github.com/dnr/styx) - alternate nix substitution
 - [tweag/nixtract](https://github.com/tweag/nixtract) - A CLI tool to extract the graph of derivations from a Nix flake.
