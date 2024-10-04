@@ -141,6 +141,7 @@
 
 ## C++ 
 
+- [parisolab/mathmod](https://github.com/parisolab/mathmod) - Mathematical modelling software
 - [Almamu/linux-wallpaperengine](https://github.com/Almamu/linux-wallpaperengine) - Wallpaper Engine backgrounds for Linux!
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [Thefantasticbagle/vulkan-nonlinear-raytracing](https://github.com/Thefantasticbagle/vulkan-nonlinear-raytracing) - A non-linear ray tracing engine made with Vulkan
@@ -410,6 +411,7 @@
 
 ## Nix 
 
+- [fricklerhandwerk/true-nixos](https://github.com/fricklerhandwerk/true-nixos) - The one true way to manage NixOS configurations
 - [polygon/nix-buildproxy](https://github.com/polygon/nix-buildproxy) - Providing reproducible HTTP/HTTPS responders to builds that just can not live without
 - [pololu/nixcrpkgs](https://github.com/pololu/nixcrpkgs) - Tools for cross-compiling standalone applications using Nix.
 - [nix-community/redoxpkgs](https://github.com/nix-community/redoxpkgs) - Cross-compile to Redox using Nix [maintainer=@aaronjanse]
