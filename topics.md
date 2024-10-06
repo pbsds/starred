@@ -1001,6 +1001,7 @@
 
 ## others 
 
+- [aristanetworks/nix-serve-ng](https://github.com/aristanetworks/nix-serve-ng) - A drop-in replacement for nix-serve that is faster and more reliable
 - [soupglasses/nix-system-graphics](https://github.com/soupglasses/nix-system-graphics) - Run graphics accelerated programs built with Nix on any Linux distribution.
 - [parisolab/mathmod](https://github.com/parisolab/mathmod) - Mathematical modelling software
 - [fricklerhandwerk/true-nixos](https://github.com/fricklerhandwerk/true-nixos) - The one true way to manage NixOS configurations
@@ -1038,7 +1039,7 @@
 - [Tsche/magic_codec](https://github.com/Tsche/magic_codec) - 
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [Atemu/nix-fuck-up-assessment-form](https://github.com/Atemu/nix-fuck-up-assessment-form) - To be filled by anyone who fucks up using Nix.
-- [chipsalliance/chisel-nix](https://github.com/chipsalliance/chisel-nix) - Nix scripts used to manage the chisel projects.
+- [chipsalliance/chisel-nix](https://github.com/chipsalliance/chisel-nix) - Nix template for the chisel-based industrial designing flows.
 - [Programvareverkstedet/pvv-nixos-config](https://github.com/Programvareverkstedet/pvv-nixos-config) - Read-only mirror of https://git.pvv.ntnu.no/Projects/pvv-nixos-config
 - [DioxusLabs/blitz](https://github.com/DioxusLabs/blitz) - High performance HTML and CSS renderer powered by WGPU
 - [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users) - Check your ranking in GitHub! Don't forget to star ⭐ this repository.
