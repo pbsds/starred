@@ -1001,6 +1001,7 @@
 
 ## others 
 
+- [robtaylor/amaranth-awesome](https://github.com/robtaylor/amaranth-awesome) - Awesome projects using the Amaranth HDL
 - [aristanetworks/nix-serve-ng](https://github.com/aristanetworks/nix-serve-ng) - A drop-in replacement for nix-serve that is faster and more reliable
 - [soupglasses/nix-system-graphics](https://github.com/soupglasses/nix-system-graphics) - Run graphics accelerated programs built with Nix on any Linux distribution.
 - [parisolab/mathmod](https://github.com/parisolab/mathmod) - Mathematical modelling software
