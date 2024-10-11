@@ -64,6 +64,7 @@
 
 ## C 
 
+- [sinanmohd/evanix](https://github.com/sinanmohd/evanix) - Nix build Scheduler
 - [NixOS/patchelf](https://github.com/NixOS/patchelf) - A small utility to modify the dynamic linker and RPATH of ELF executables
 - [Wiimm/wiimms-iso-tools](https://github.com/Wiimm/wiimms-iso-tools) - »Wiimms ISO Tools« is a set of command line tools to extract, modify and create Wii and GameCube ISO images and WBFS containers.
 - [nginx/nginx](https://github.com/nginx/nginx) - The official NGINX Open Source repository.
@@ -468,7 +469,7 @@
 - [NickCao/nixos-riscv](https://github.com/NickCao/nixos-riscv) - 
 - [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments
 - [timbertson/runix](https://github.com/timbertson/runix) - 
-- [nix-community/disko](https://github.com/nix-community/disko) - Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime]
+- [nix-community/disko](https://github.com/nix-community/disko) - Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht]
 - [serokell/nix-npm-buildpackage](https://github.com/serokell/nix-npm-buildpackage) - Build nix packages that use npm/yarn
 - [zhaofengli/nixos-riscv64](https://github.com/zhaofengli/nixos-riscv64) - NixOS on the HiFive Unmatched
 - [colemickens/stable-diffusion-flake](https://github.com/colemickens/stable-diffusion-flake) - 
