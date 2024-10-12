@@ -1001,6 +1001,7 @@
 
 ## others 
 
+- [AsahiLinux/muvm](https://github.com/AsahiLinux/muvm) - muvm - run programs from your system in a microVM
 - [sinanmohd/evanix](https://github.com/sinanmohd/evanix) - Nix build Scheduler
 - [robtaylor/amaranth-awesome](https://github.com/robtaylor/amaranth-awesome) - Awesome projects using the Amaranth HDL
 - [aristanetworks/nix-serve-ng](https://github.com/aristanetworks/nix-serve-ng) - A drop-in replacement for nix-serve that is faster and more reliable
