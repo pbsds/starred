@@ -413,6 +413,7 @@
 
 ## Nix 
 
+- [nix-community/nixpkgs-xr](https://github.com/nix-community/nixpkgs-xr) - Automated packages for XR/AR/VR tools and apps for NixOS [maintainer=@Scrumplex]
 - [soupglasses/nix-system-graphics](https://github.com/soupglasses/nix-system-graphics) - Run graphics accelerated programs built with Nix on any Linux distribution.
 - [fricklerhandwerk/true-nixos](https://github.com/fricklerhandwerk/true-nixos) - The one true way to manage NixOS configurations
 - [polygon/nix-buildproxy](https://github.com/polygon/nix-buildproxy) - Providing reproducible HTTP/HTTPS responders to builds that just can not live without
