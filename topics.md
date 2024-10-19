@@ -1003,6 +1003,7 @@
 
 ## others 
 
+- [snowfallorg/nix-software-center](https://github.com/snowfallorg/nix-software-center) - A simple gtk4/libadwaita software center to easily install and manage nix packages
 - [ldo/dbussy](https://github.com/ldo/dbussy) - Python binding for D-Bus using asyncio
 - [AsahiLinux/muvm](https://github.com/AsahiLinux/muvm) - muvm - run programs from your system in a microVM
 - [sinanmohd/evanix](https://github.com/sinanmohd/evanix) - Nix build Scheduler
@@ -1539,6 +1540,7 @@
 
 ## rust 
 
+- [squidowl/halloy](https://github.com/squidowl/halloy) - IRC application written in Rust
 - [nix-community/lanzaboote](https://github.com/nix-community/lanzaboote) - Secure Boot for NixOS [maintainers=@blitz @raitobezarius @nikstur]
 - [nix-community/fenix](https://github.com/nix-community/fenix) - Rust toolchains and rust-analyzer nightly for Nix [maintainer=@figsoda]
 - [nix-community/rnix-parser](https://github.com/nix-community/rnix-parser) - A Nix parser written in Rust [maintainer=@oberblastmeister]
