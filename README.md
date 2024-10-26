@@ -415,6 +415,10 @@
 
 ## Nix 
 
+- [pdtpartners/globset](https://github.com/pdtpartners/globset) - Simplify Nix source management using familiar glob patterns
+- [tomberek/packnix](https://github.com/tomberek/packnix) - 
+- [langston-barrett/nixpkgs-blight](https://github.com/langston-barrett/nixpkgs-blight) - Instrument the builds of tens of thousands of open-source packages
+- [PapenfussLab/bionix](https://github.com/PapenfussLab/bionix) - Functional highly reproducible bioinformatics pipelines
 - [ipetkov/crane](https://github.com/ipetkov/crane) - A Nix library for building cargo projects. Never build twice thanks to incremental artifact caching.
 - [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) - The Media Server Nixos Module
 - [infinisil/nixus](https://github.com/infinisil/nixus) - Experimental deployment tool supporting multi-host abstractions
@@ -689,6 +693,7 @@
 
 ## Rust 
 
+- [hsjobeki/nix-types](https://github.com/hsjobeki/nix-types) - nix-types | type hints for nix
 - [squidowl/halloy](https://github.com/squidowl/halloy) - IRC application written in Rust
 - [snowfallorg/nix-software-center](https://github.com/snowfallorg/nix-software-center) - A simple gtk4/libadwaita software center to easily install and manage nix packages
 - [AsahiLinux/muvm](https://github.com/AsahiLinux/muvm) - muvm - run programs from your system in a microVM
