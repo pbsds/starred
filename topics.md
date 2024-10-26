@@ -1006,6 +1006,11 @@
 
 ## others 
 
+- [hsjobeki/nix-types](https://github.com/hsjobeki/nix-types) - nix-types | type hints for nix
+- [pdtpartners/globset](https://github.com/pdtpartners/globset) - Simplify Nix source management using familiar glob patterns
+- [tomberek/packnix](https://github.com/tomberek/packnix) - 
+- [langston-barrett/nixpkgs-blight](https://github.com/langston-barrett/nixpkgs-blight) - Instrument the builds of tens of thousands of open-source packages
+- [PapenfussLab/bionix](https://github.com/PapenfussLab/bionix) - Functional highly reproducible bioinformatics pipelines
 - [igrigorik/gharchive.org](https://github.com/igrigorik/gharchive.org) - GH Archive is a project to record the public GitHub timeline, archive it, and make it easily accessible for further analysis.
 - [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) - The Media Server Nixos Module
 - [infinisil/nixus](https://github.com/infinisil/nixus) - Experimental deployment tool supporting multi-host abstractions
