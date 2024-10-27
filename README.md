@@ -64,6 +64,7 @@
 
 ## C 
 
+- [Robotechnic/diagraph](https://github.com/Robotechnic/diagraph) - A typst wasm plugin to use graphviz directly inside documents
 - [sinanmohd/evanix](https://github.com/sinanmohd/evanix) - Nix build Scheduler
 - [NixOS/patchelf](https://github.com/NixOS/patchelf) - A small utility to modify the dynamic linker and RPATH of ELF executables
 - [Wiimm/wiimms-iso-tools](https://github.com/Wiimm/wiimms-iso-tools) - »Wiimms ISO Tools« is a set of command line tools to extract, modify and create Wii and GameCube ISO images and WBFS containers.
@@ -857,6 +858,7 @@
 
 ## TypeScript 
 
+- [NuschtOS/search](https://github.com/NuschtOS/search) - Simple and fast static-page NixOS option search
 - [Xe/praise-me](https://github.com/Xe/praise-me) - Praise my GitHub profile!
 - [andersrodem/konsulent-karma](https://github.com/andersrodem/konsulent-karma) - Et register over konsulentselskaper som har kansellert internships og fulltidsstillinger
 - [electric-sql/pglite](https://github.com/electric-sql/pglite) - Lightweight WASM Postgres with real-time, reactive bindings.
