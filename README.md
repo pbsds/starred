@@ -695,6 +695,7 @@
 
 ## Rust 
 
+- [o-santi/nix-forall](https://github.com/o-santi/nix-forall) - Nix bindings for all languages
 - [nixcon/NixConContent](https://github.com/nixcon/NixConContent) - A collection of all the content from NixCon Paris 2022 and beyond
 - [hsjobeki/nix-types](https://github.com/hsjobeki/nix-types) - nix-types | type hints for nix
 - [squidowl/halloy](https://github.com/squidowl/halloy) - IRC application written in Rust
