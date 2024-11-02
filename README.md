@@ -417,6 +417,7 @@
 
 ## Nix 
 
+- [adisbladis/uv2nix](https://github.com/adisbladis/uv2nix) - 
 - [pdtpartners/globset](https://github.com/pdtpartners/globset) - Simplify Nix source management using familiar glob patterns
 - [tomberek/packnix](https://github.com/tomberek/packnix) - 
 - [langston-barrett/nixpkgs-blight](https://github.com/langston-barrett/nixpkgs-blight) - Instrument the builds of tens of thousands of open-source packages
@@ -552,6 +553,7 @@
 
 ## Python 
 
+- [Nix-Security-WG/nix-security-tracker](https://github.com/Nix-Security-WG/nix-security-tracker) - Web service for managing information on vulnerabilities in software distributed through Nixpkgs
 - [SatyrDiamond/DawVert](https://github.com/SatyrDiamond/DawVert) - DawVert - The DAW ConVERTer
 - [nbQA-dev/nbQA](https://github.com/nbQA-dev/nbQA) - Run ruff, isort, pyupgrade, mypy, pylint, flake8, and more on Jupyter Notebooks
 - [nix-community/vulnix](https://github.com/nix-community/vulnix) - Vulnerability (CVE) scanner for Nix/NixOS.
@@ -695,6 +697,7 @@
 
 ## Rust 
 
+- [whitequark/superlinker](https://github.com/whitequark/superlinker) - a tool for reinterpreting ELF executables and shared libraries
 - [o-santi/nix-forall](https://github.com/o-santi/nix-forall) - Nix bindings for all languages
 - [nixcon/NixConContent](https://github.com/nixcon/NixConContent) - A collection of all the content from NixCon Paris 2022 and beyond
 - [hsjobeki/nix-types](https://github.com/hsjobeki/nix-types) - nix-types | type hints for nix
