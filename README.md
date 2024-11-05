@@ -553,6 +553,7 @@
 
 ## Python 
 
+- [omnilib/aioitertools](https://github.com/omnilib/aioitertools) - itertools and builtins for AsyncIO and mixed iterables
 - [Nix-Security-WG/nix-security-tracker](https://github.com/Nix-Security-WG/nix-security-tracker) - Web service for managing information on vulnerabilities in software distributed through Nixpkgs
 - [SatyrDiamond/DawVert](https://github.com/SatyrDiamond/DawVert) - DawVert - The DAW ConVERTer
 - [nbQA-dev/nbQA](https://github.com/nbQA-dev/nbQA) - Run ruff, isort, pyupgrade, mypy, pylint, flake8, and more on Jupyter Notebooks
