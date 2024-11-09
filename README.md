@@ -816,6 +816,7 @@
 
 ## Shell 
 
+- [Artturin/nix-difflog](https://github.com/Artturin/nix-difflog) - Diff nix build logs with less clutter
 - [QaidVoid/Complete-Single-GPU-Passthrough](https://github.com/QaidVoid/Complete-Single-GPU-Passthrough) - Single GPU VFIO Passthrough Guide
 - [SebastianMuskalla/ModelessVim](https://github.com/SebastianMuskalla/ModelessVim) - Configuration files to turn vim into a modeless editor.
 - [GuillaumeDesforges/fix-python](https://github.com/GuillaumeDesforges/fix-python) - A simple CLI tool to allow you to use Python "normally" in NixOS
