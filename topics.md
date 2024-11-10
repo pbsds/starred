@@ -1011,6 +1011,7 @@
 
 ## others 
 
+- [Artturin/nix-difflog](https://github.com/Artturin/nix-difflog) - Diff nix build logs with less clutter
 - [adisbladis/uv2nix](https://github.com/adisbladis/uv2nix) - 
 - [whitequark/superlinker](https://github.com/whitequark/superlinker) - a tool for reinterpreting ELF executables and shared libraries
 - [o-santi/nix-forall](https://github.com/o-santi/nix-forall) - Nix bindings for all languages
@@ -1097,7 +1098,6 @@
 - [juspay/services-flake](https://github.com/juspay/services-flake) - NixOS-like services for Nix flakes
 - [DacoTaco/priiloader](https://github.com/DacoTaco/priiloader) - A Wii homebrew application that can prevent and fix some user level bricks
 - [andersrodem/konsulent-karma](https://github.com/andersrodem/konsulent-karma) - Et register over konsulentselskaper som har kansellert internships og fulltidsstillinger
-- [KFearsoff/nix-drama-explained](https://github.com/KFearsoff/nix-drama-explained) - This is a repository that aims to concisely explain the issues in Nix community
 - [Alhadis/OSC8-Adoption](https://github.com/Alhadis/OSC8-Adoption) - List of terminal emulators that support hyperlinks (OSC 8 escape sequences).
 - [Aftendo/Afternote](https://github.com/Aftendo/Afternote) - Modern open-source Flipnote Hatena server
 - [nixcon/nixcon-proposals](https://github.com/nixcon/nixcon-proposals) - Anything that has to do with NixCon and proposals, e.g. venue proposals, sponsorship proposals, etc.
