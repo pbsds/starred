@@ -1011,6 +1011,7 @@
 
 ## others 
 
+- [nix-community/buildbot-nix](https://github.com/nix-community/buildbot-nix) - A nixos module to make buildbot a proper Nix-CI [maintainer=@Mic92,@MagicRB]
 - [Artturin/nix-difflog](https://github.com/Artturin/nix-difflog) - Diff nix build logs with less clutter
 - [adisbladis/uv2nix](https://github.com/adisbladis/uv2nix) - 
 - [whitequark/superlinker](https://github.com/whitequark/superlinker) - a tool for reinterpreting ELF executables and shared libraries
