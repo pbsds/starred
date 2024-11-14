@@ -418,6 +418,7 @@
 
 ## Nix 
 
+- [mrjones2014/opnix](https://github.com/mrjones2014/opnix) - ❄️ Native secret management for NixOS using 1Password.
 - [adisbladis/uv2nix](https://github.com/adisbladis/uv2nix) - 
 - [pdtpartners/globset](https://github.com/pdtpartners/globset) - Simplify Nix source management using familiar glob patterns
 - [tomberek/packnix](https://github.com/tomberek/packnix) - 
@@ -699,6 +700,7 @@
 
 ## Rust 
 
+- [tekumara/typos-lsp](https://github.com/tekumara/typos-lsp) - Source code spell checker for Visual Studio Code, Neovim and other LSP clients
 - [whitequark/superlinker](https://github.com/whitequark/superlinker) - a tool for reinterpreting ELF executables and shared libraries
 - [o-santi/nix-forall](https://github.com/o-santi/nix-forall) - Nix bindings for all languages
 - [nixcon/NixConContent](https://github.com/nixcon/NixConContent) - A collection of all the content from NixCon Paris 2022 and beyond
