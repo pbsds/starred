@@ -117,7 +117,6 @@
 - [Titor8115/mandown](https://github.com/Titor8115/mandown) - man-page inspired Markdown viewer
 - [DanielOgorchock/linux](https://github.com/DanielOgorchock/linux) - 
 - [littlefs-project/littlefs](https://github.com/littlefs-project/littlefs) - A little fail-safe filesystem designed for microcontrollers
-- [ashima/webgl-noise](https://github.com/ashima/webgl-noise) - Procedural Noise Shader Routines compatible with WebGL
 - [dekuNukem/Nintendo_Switch_Reverse_Engineering](https://github.com/dekuNukem/Nintendo_Switch_Reverse_Engineering) - A look at inner workings of Joycon and Nintendo Switch
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [tmate-io/tmate](https://github.com/tmate-io/tmate) - Instant Terminal Sharing
@@ -203,6 +202,7 @@
 - [polygraphene/ALVR](https://github.com/polygraphene/ALVR) - ALVR is an open source remote VR display for Gear VR and Oculus Go. With it, you can play SteamVR games in your standalone headset.
 - [plasma-umass/Mesh](https://github.com/plasma-umass/Mesh) - A memory allocator that automatically reduces the memory footprint of C/C++ applications.
 - [YosysHQ/nextpnr](https://github.com/YosysHQ/nextpnr) - nextpnr portable FPGA place and route tool
+- [ashima/webgl-noise](https://github.com/ashima/webgl-noise) - Procedural Noise Shader Routines compatible with WebGL
 - [Armag3ddonDev/joycon](https://github.com/Armag3ddonDev/joycon) - Driver for the controller of the Nintendo Switch
 - [ssloy/tinyraytracer](https://github.com/ssloy/tinyraytracer) - A brief computer graphics / rendering course
 - [ErisBlastar/cplusequality](https://github.com/ErisBlastar/cplusequality) - Feminist Software Foundation C+=, a new language for us feminists
