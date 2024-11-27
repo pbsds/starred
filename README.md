@@ -563,7 +563,7 @@
 - [Nix-Security-WG/nix-security-tracker](https://github.com/Nix-Security-WG/nix-security-tracker) - Web service for managing information on vulnerabilities in software distributed through Nixpkgs
 - [SatyrDiamond/DawVert](https://github.com/SatyrDiamond/DawVert) - DawVert - The DAW ConVERTer
 - [nbQA-dev/nbQA](https://github.com/nbQA-dev/nbQA) - Run ruff, isort, pyupgrade, mypy, pylint, flake8, and more on Jupyter Notebooks
-- [nix-community/vulnix](https://github.com/nix-community/vulnix) - Vulnerability (CVE) scanner for Nix/NixOS.
+- [nix-community/vulnix](https://github.com/nix-community/vulnix) - Vulnerability (CVE) scanner for Nix/NixOS [maintainer=@henrirosten]
 - [trendels/braceexpand](https://github.com/trendels/braceexpand) - Bash-style brace expansion for Python
 - [google/pcbdl](https://github.com/google/pcbdl) - PCB Design Language: A programming way to design schematics.
 - [angr/cle](https://github.com/angr/cle) - CLE Loads Everything (at least, many binary formats!)
@@ -730,7 +730,7 @@
 - [tweag/topiary](https://github.com/tweag/topiary) - 
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [versotile-org/verso](https://github.com/versotile-org/verso) - A web browser that plays old world blues to build new world hope
-- [DioxusLabs/blitz](https://github.com/DioxusLabs/blitz) - High performance HTML and CSS renderer powered by WGPU
+- [DioxusLabs/blitz](https://github.com/DioxusLabs/blitz) - A radically modular HTML/CSS rendering engine
 - [ethersync/ethersync](https://github.com/ethersync/ethersync) - A system for editor-agnostic, real-time collaborative editing of local text files.
 - [a-kenji/flake-edit](https://github.com/a-kenji/flake-edit) - Edit your flake inputs with ease.
 - [nixcloud/fixPath](https://github.com/nixcloud/fixPath) - A tool, similar to patchelf, making DLL FS location changes possible for EXE files using rel/abs paths.
