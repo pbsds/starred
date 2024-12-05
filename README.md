@@ -283,6 +283,7 @@
 
 ## HTML 
 
+- [versotile-org/verso](https://github.com/versotile-org/verso) - A web browser that plays old world blues to build new world hope
 - [meichthys/foss_photo_libraries](https://github.com/meichthys/foss_photo_libraries) - Free and Open Source Photo Libraries
 - [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic
 - [Fueredoriku/FractalWorldExplorer](https://github.com/Fueredoriku/FractalWorldExplorer) - A TDT4230 project application where one can explore self-defined fractals. This project uses openGL to implement a raymarcher in C++.
@@ -730,7 +731,6 @@
 - [noamraph/nixsa](https://github.com/noamraph/nixsa) - Nixsa - A Nix Standalone Environment
 - [tweag/topiary](https://github.com/tweag/topiary) - 
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
-- [versotile-org/verso](https://github.com/versotile-org/verso) - A web browser that plays old world blues to build new world hope
 - [DioxusLabs/blitz](https://github.com/DioxusLabs/blitz) - A radically modular HTML/CSS rendering engine
 - [ethersync/ethersync](https://github.com/ethersync/ethersync) - A system for editor-agnostic, real-time collaborative editing of local text files.
 - [a-kenji/flake-edit](https://github.com/a-kenji/flake-edit) - Edit your flake inputs with ease.
