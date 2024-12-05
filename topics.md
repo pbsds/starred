@@ -1079,7 +1079,6 @@
 - [noamraph/nixsa](https://github.com/noamraph/nixsa) - Nixsa - A Nix Standalone Environment
 - [tweag/topiary](https://github.com/tweag/topiary) - 
 - [Tsche/magic_codec](https://github.com/Tsche/magic_codec) - 
-- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [Atemu/nix-fuck-up-assessment-form](https://github.com/Atemu/nix-fuck-up-assessment-form) - To be filled by anyone who fucks up using Nix.
 - [chipsalliance/chisel-nix](https://github.com/chipsalliance/chisel-nix) - Nix template for the chisel-based industrial designing flows.
 - [Programvareverkstedet/pvv-nixos-config](https://github.com/Programvareverkstedet/pvv-nixos-config) - Read-only mirror of https://git.pvv.ntnu.no/Projects/pvv-nixos-config
@@ -1471,6 +1470,7 @@
 - [SatyrDiamond/DawVert](https://github.com/SatyrDiamond/DawVert) - DawVert - The DAW ConVERTer
 - [nbQA-dev/nbQA](https://github.com/nbQA-dev/nbQA) - Run ruff, isort, pyupgrade, mypy, pylint, flake8, and more on Jupyter Notebooks
 - [google/pcbdl](https://github.com/google/pcbdl) - PCB Design Language: A programming way to design schematics.
+- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [morpho-matters/morpholib](https://github.com/morpho-matters/morpholib) - A general-purpose programmatic animation tool
 - [tiiuae/sbomnix](https://github.com/tiiuae/sbomnix) - A suite of utilities to help with software supply chain challenges on nix targets
