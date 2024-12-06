@@ -39,6 +39,7 @@
 - [Pascal](#pascal)
 - [PowerShell](#powershell)
 - [Python](#python)
+- [RenderScript](#renderscript)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
@@ -283,7 +284,6 @@
 
 ## HTML 
 
-- [versotile-org/verso](https://github.com/versotile-org/verso) - A web browser that plays old world blues to build new world hope
 - [meichthys/foss_photo_libraries](https://github.com/meichthys/foss_photo_libraries) - Free and Open Source Photo Libraries
 - [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic
 - [Fueredoriku/FractalWorldExplorer](https://github.com/Fueredoriku/FractalWorldExplorer) - A TDT4230 project application where one can explore self-defined fractals. This project uses openGL to implement a raymarcher in C++.
@@ -698,6 +698,10 @@
 - [vsergeev/python-periphery](https://github.com/vsergeev/python-periphery) - A pure Python 2/3 library for peripheral I/O (GPIO, LED, PWM, SPI, I2C, MMIO, Serial) in Linux.
 - [grp/Wii.py](https://github.com/grp/Wii.py) - Wii toolkit in Python (pywii++)
 
+## RenderScript 
+
+- [mTvare6/hello-world.rs](https://github.com/mTvare6/hello-world.rs) - 🚀Memory safe, blazing fast, configurable, minimal hello world written in rust(🚀) in a few lines of code with few(1092🚀) dependencies🚀
+
 ## Ruby 
 
 - [igrigorik/gharchive.org](https://github.com/igrigorik/gharchive.org) - GH Archive is a project to record the public GitHub timeline, archive it, and make it easily accessible for further analysis.
@@ -731,6 +735,7 @@
 - [noamraph/nixsa](https://github.com/noamraph/nixsa) - Nixsa - A Nix Standalone Environment
 - [tweag/topiary](https://github.com/tweag/topiary) - 
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
+- [versotile-org/verso](https://github.com/versotile-org/verso) - A web browser that plays old world blues to build new world hope
 - [DioxusLabs/blitz](https://github.com/DioxusLabs/blitz) - A radically modular HTML/CSS rendering engine
 - [ethersync/ethersync](https://github.com/ethersync/ethersync) - A system for editor-agnostic, real-time collaborative editing of local text files.
 - [a-kenji/flake-edit](https://github.com/a-kenji/flake-edit) - Edit your flake inputs with ease.
@@ -795,7 +800,6 @@
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [sharkdp/hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
-- [mTvare6/hello-world.rs](https://github.com/mTvare6/hello-world.rs) - 🚀Memory safe, blazing fast, configurable, minimal hello world written in rust(🚀) in a few lines of code with few(1092🚀) dependencies🚀
 - [8051Enthusiast/biodiff](https://github.com/8051Enthusiast/biodiff) - Hex diff viewer using alignment algorithms from biology
 - [pimalaya/himalaya](https://github.com/pimalaya/himalaya) - CLI to manage emails
 - [alvr-org/ALVR](https://github.com/alvr-org/ALVR) - Stream VR games from your PC to your headset via Wi-Fi
