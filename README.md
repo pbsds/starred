@@ -70,7 +70,7 @@
 - [NixOS/patchelf](https://github.com/NixOS/patchelf) - A small utility to modify the dynamic linker and RPATH of ELF executables
 - [Wiimm/wiimms-iso-tools](https://github.com/Wiimm/wiimms-iso-tools) - »Wiimms ISO Tools« is a set of command line tools to extract, modify and create Wii and GameCube ISO images and WBFS containers.
 - [nginx/nginx](https://github.com/nginx/nginx) - The official NGINX Open Source repository.
-- [ptitSeb/box64](https://github.com/ptitSeb/box64) - Box64 - Linux Userspace x86_64 Emulator with a twist, targeted at ARM64 Linux devices
+- [ptitSeb/box64](https://github.com/ptitSeb/box64) - Box64 - Linux Userspace x86_64 Emulator with a twist, targeted at ARM64, RV64 and LoongArch Linux devices
 - [ptitSeb/gl4es](https://github.com/ptitSeb/gl4es) - GL4ES is a OpenGL 2.1/1.5 to GL ES 2.0/1.1 translation library, with support for Pandora, ODroid, OrangePI, CHIP, Raspberry PI, Android, Emscripten and AmigaOS4.
 - [pgbackrest/pgbackrest](https://github.com/pgbackrest/pgbackrest) - Reliable PostgreSQL Backup & Restore
 - [elishacloud/dxwrapper](https://github.com/elishacloud/dxwrapper) - Fixes compatibility issues with older games running on Windows 10/11 by wrapping DirectX dlls.  Also allows loading custom libraries with the file extension .asi into game processes.
@@ -137,7 +137,7 @@
 - [File-New-Project/EarTrumpet](https://github.com/File-New-Project/EarTrumpet) - EarTrumpet - Volume Control for Windows
 - [JohannesDeml/PartyBalance](https://github.com/JohannesDeml/PartyBalance) - A small unity game using the wii balance board (with Wii Balance Walker) in combintion with the microphone
 - [FrozenCow/wiidevicelibrary](https://github.com/FrozenCow/wiidevicelibrary) - A cross platform C# class library that provides an interface to various Wii related devices.
-- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
+- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
 - [Looking-Glass/JoyconLib](https://github.com/Looking-Glass/JoyconLib) - Joy-Con library for Unity.
 - [HouraiTeahouse/FantasyCrescendo](https://github.com/HouraiTeahouse/FantasyCrescendo) - A 2.5D Touhou Platform Fighter, By the fans, for the fans.
 
