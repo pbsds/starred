@@ -742,6 +742,7 @@
 - [a-kenji/flake-edit](https://github.com/a-kenji/flake-edit) - Edit your flake inputs with ease.
 - [nixcloud/fixPath](https://github.com/nixcloud/fixPath) - A tool, similar to patchelf, making DLL FS location changes possible for EXE files using rel/abs paths.
 - [shell-pool/shpool](https://github.com/shell-pool/shpool) - Think tmux, then aim... lower
+- [Enter-tainer/typstyle](https://github.com/Enter-tainer/typstyle) - Beautiful and reliable typst code formatter
 - [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
 - [mitex-rs/mitex](https://github.com/mitex-rs/mitex) - LaTeX support for Typst, powered by Rust and WASM. https://mitex-rs.github.io/mitex/
 - [bluskript/nix-inspect](https://github.com/bluskript/nix-inspect) - Interactive tui for inspecting nix configs
@@ -896,7 +897,6 @@
 ## Typst 
 
 - [OrangeX4/typst-cheq](https://github.com/OrangeX4/typst-cheq) - Write markdown-like checklist easily.
-- [Enter-tainer/typstyle](https://github.com/Enter-tainer/typstyle) - Beautiful and reliable typst code formatter
 - [platformer/typst-algorithms](https://github.com/platformer/typst-algorithms) - 
 
 ## Vala 
