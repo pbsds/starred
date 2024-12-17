@@ -559,6 +559,8 @@
 
 ## Python 
 
+- [AugmentariumLab/continuous-lfn](https://github.com/AugmentariumLab/continuous-lfn) - Continuous Levels of Detail for Light Field Networks (BMVC 2023)
+- [kwea123/Coordinate-MLPs](https://github.com/kwea123/Coordinate-MLPs) - Experiments of coordinate MLPs
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal.
 - [nix-community/buildbot-nix](https://github.com/nix-community/buildbot-nix) - A nixos module to make buildbot a proper Nix-CI [maintainer=@Mic92,@MagicRB]
