@@ -713,6 +713,7 @@
 
 ## Rust 
 
+- [aformatik/codchi](https://github.com/aformatik/codchi) - Codchi is a tool that manages your project's development environment in a reproducible and easy-to-use way. Setting up a development environment should be as easy as a `git clone`!
 - [tekumara/typos-lsp](https://github.com/tekumara/typos-lsp) - Source code spell checker for Visual Studio Code, Neovim and other LSP clients
 - [whitequark/superlinker](https://github.com/whitequark/superlinker) - a tool for reinterpreting ELF executables and shared libraries
 - [o-santi/nix-forall](https://github.com/o-santi/nix-forall) - Nix bindings for all languages
