@@ -252,7 +252,7 @@
 
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
 - [dnr/styx](https://github.com/dnr/styx) - alternate nix substitution
-- [numtide/nixos-facter](https://github.com/numtide/nixos-facter) - Declarative hardware configuration for NixOS [maintainer=@numtide]
+- [nix-community/nixos-facter](https://github.com/nix-community/nixos-facter) - Declarative hardware configuration for NixOS [maintainer=@brianmcgee,@Mic92]
 - [JoshuaDoes/autogo](https://github.com/JoshuaDoes/autogo) - An AutoIt interpreter and runtime package written in Go
 - [ktock/container2wasm](https://github.com/ktock/container2wasm) - Container to WASM converter
 - [letsblockit/letsblockit](https://github.com/letsblockit/letsblockit) - Remove low-quality content and useless nags, focus on what matters. A community-maintained uBlock Origin filter set.
