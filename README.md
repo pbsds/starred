@@ -264,7 +264,7 @@
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [Foxboron/ssh-tpm-agent](https://github.com/Foxboron/ssh-tpm-agent) - :computer: :key: ssh-agent for TPMs
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
-- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, small ActivityPub server. WE'RE ON HOLIDAY! &lt;3 Repo is read-only until Jan 2, 2025. See you in the new year!
+- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, small ActivityPub server. WE'RE ON HOLIDAY! &lt;3 Repo is read-only until Jan 17, 2025. See you in the new year!
 - [nlewo/nix2container](https://github.com/nlewo/nix2container) - An archive-less dockerTools.buildImage implementation
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [mrtazz/checkmake](https://github.com/mrtazz/checkmake) - experimental linter/analyzer for Makefiles
@@ -342,6 +342,7 @@
 - [jaames/iro.js](https://github.com/jaames/iro.js) - 🎨  Modular color picker widget for JavaScript, with support for a bunch of color formats
 - [nrkno/confetti.js](https://github.com/nrkno/confetti.js) - A simple confetti animation for your website :)
 - [RensAlthuis/vertical-overview](https://github.com/RensAlthuis/vertical-overview) - Gnome has had vertically stacked workspaces for a long time. The Gnome 40 update unfortunately made the switch to a horizontal layout. A choice that many Gnome users disagree with. This extension comp
+- [piebro/factorio-blueprint-visualizer](https://github.com/piebro/factorio-blueprint-visualizer) - A python library to artfully visualize Factorio Blueprints and an interactive web demo for using it.
 - [oldweb-today/oldweb-today](https://github.com/oldweb-today/oldweb-today) - Browse emulated browsers connected to old web sites in your browser!
 - [DanRuta/xVA-Synth](https://github.com/DanRuta/xVA-Synth) - Machine learning based speech synthesis Electron app, with voices from specific characters from video games
 - [laekov/panleaf](https://github.com/laekov/panleaf) - Write pandoc markdown in OverLeaf
@@ -380,7 +381,6 @@
 ## Jupyter Notebook 
 
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
-- [piebro/factorio-blueprint-visualizer](https://github.com/piebro/factorio-blueprint-visualizer) - A python library to artfully visualize Factorio Blueprints and an interactive web demo for using it.
 - [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps) - A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries.
 
 ## Kotlin 
@@ -887,6 +887,7 @@
 
 ## TypeScript 
 
+- [tale/headplane](https://github.com/tale/headplane) - An advanced UI for juanfont/headscale
 - [NuschtOS/search](https://github.com/NuschtOS/search) - Simple and fast static-page NixOS option search
 - [Xe/praise-me](https://github.com/Xe/praise-me) - Praise my GitHub profile!
 - [andersrodem/konsulent-karma](https://github.com/andersrodem/konsulent-karma) - Et register over konsulentselskaper som har kansellert internships og fulltidsstillinger
