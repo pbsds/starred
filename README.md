@@ -716,6 +716,7 @@
 
 ## Rust 
 
+- [Nukesor/pueue](https://github.com/Nukesor/pueue) - :stars: Manage your shell commands.
 - [nix-community/hydra-check](https://github.com/nix-community/hydra-check) - check hydra for the build status of a package [maintainer=@makefu,@Artturin,@bryango]
 - [aformatik/codchi](https://github.com/aformatik/codchi) - Codchi is a tool that manages your project's development environment in a reproducible and easy-to-use way. Setting up a development environment should be as easy as a `git clone`!
 - [tekumara/typos-lsp](https://github.com/tekumara/typos-lsp) - Source code spell checker for Visual Studio Code, Neovim and other LSP clients
