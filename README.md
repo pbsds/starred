@@ -33,6 +33,7 @@
 - [Nix](#nix)
 - [OCaml](#ocaml)
 - [Objective-C](#objective-c)
+- [OpenSCAD](#openscad)
 - [Others](#others)
 - [PHP](#php)
 - [POV-Ray SDL](#pov-ray-sdl)
@@ -507,6 +508,10 @@
 
 - [darlinghq/darling](https://github.com/darlinghq/darling) - Darwin/macOS emulation layer for Linux
 
+## OpenSCAD 
+
+- [jazwa/rackstack](https://github.com/jazwa/rackstack) - A modular 3d-printable mini rack system.
+
 ## Others 
 
 - [non-ai-licenses/non-ai-licenses](https://github.com/non-ai-licenses/non-ai-licenses) - This repository contains software licenses that restrict software from being used in AI training datasets or AI technologies.
@@ -561,6 +566,7 @@
 
 ## Python 
 
+- [rcmalli/lightning-maml](https://github.com/rcmalli/lightning-maml) - MAML Implementation using Pytorch-lightning
 - [facundoolano/software-papers](https://github.com/facundoolano/software-papers) - 📚 A curated list of papers for Software Engineers
 - [AugmentariumLab/continuous-lfn](https://github.com/AugmentariumLab/continuous-lfn) - Continuous Levels of Detail for Light Field Networks (BMVC 2023)
 - [kwea123/Coordinate-MLPs](https://github.com/kwea123/Coordinate-MLPs) - Experiments of coordinate MLPs
@@ -837,6 +843,7 @@
 
 ## Shell 
 
+- [msys2/MINGW-packages](https://github.com/msys2/MINGW-packages) - Package scripts for MinGW-w64 targets to build under MSYS2.
 - [Artturin/nix-difflog](https://github.com/Artturin/nix-difflog) - Diff nix build logs with less clutter
 - [QaidVoid/Complete-Single-GPU-Passthrough](https://github.com/QaidVoid/Complete-Single-GPU-Passthrough) - Single GPU VFIO Passthrough Guide
 - [SebastianMuskalla/ModelessVim](https://github.com/SebastianMuskalla/ModelessVim) - Configuration files to turn vim into a modeless editor.
