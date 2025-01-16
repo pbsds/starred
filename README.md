@@ -422,6 +422,7 @@
 
 ## Nix 
 
+- [kamadorueda/nixel](https://github.com/kamadorueda/nixel) - Parser for the Nix Expressions Language
 - [infinisil/treewide-nixpkgs-reformat-script](https://github.com/infinisil/treewide-nixpkgs-reformat-script) - Script to format nixpkgs treewide and verify the result
 - [NuschtOS/dn42.nix](https://github.com/NuschtOS/dn42.nix) - 
 - [0x5a4/nix-easyroam](https://github.com/0x5a4/nix-easyroam) - A NixOS Module for setting up easyroam
