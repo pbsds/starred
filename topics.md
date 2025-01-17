@@ -1020,6 +1020,7 @@
 
 ## others 
 
+- [kamadorueda/nixel](https://github.com/kamadorueda/nixel) - Parser for the Nix Expressions Language
 - [msys2/MINGW-packages](https://github.com/msys2/MINGW-packages) - Package scripts for MinGW-w64 targets to build under MSYS2.
 - [jazwa/rackstack](https://github.com/jazwa/rackstack) - A modular 3d-printable mini rack system.
 - [infinisil/treewide-nixpkgs-reformat-script](https://github.com/infinisil/treewide-nixpkgs-reformat-script) - Script to format nixpkgs treewide and verify the result
