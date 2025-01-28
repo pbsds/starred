@@ -330,6 +330,7 @@
 
 ## JavaScript 
 
+- [nralbrecht/pinned-tab-fix](https://github.com/nralbrecht/pinned-tab-fix) - This Firefox add-on moves new tabs opened from a pinned tab to the right end of the tab bar
 - [SVG-Edit/svgedit](https://github.com/SVG-Edit/svgedit) - Powerful SVG-Editor for your browser
 - [davidmerfield/Typeset](https://github.com/davidmerfield/Typeset) - An HTML pre-proces­sor for web ty­pog­ra­phy
 - [will-moss/erin](https://github.com/will-moss/erin) - Self-hostable TikTok feed for your clips. Make a TikTok feed with your own videos
