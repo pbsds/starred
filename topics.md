@@ -527,6 +527,7 @@
 
 ## firefox 
 
+- [nralbrecht/pinned-tab-fix](https://github.com/nralbrecht/pinned-tab-fix) - This Firefox add-on moves new tabs opened from a pinned tab to the right end of the tab bar
 - [DandelionSprout/adfilt](https://github.com/DandelionSprout/adfilt) - The place where I, DandelionSprout, store my web filter lists for countless topics, including my Nordic adblock list. As simple as that, really.
 - [SimonBrazell/privacy-redirect](https://github.com/SimonBrazell/privacy-redirect) - A simple web extension that redirects Twitter, YouTube, Instagram & Google Maps requests to privacy friendly alternatives.
 - [piroor/treestyletab](https://github.com/piroor/treestyletab) - Tree Style Tab, Show tabs like a tree.
