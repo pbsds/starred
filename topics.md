@@ -1022,6 +1022,8 @@
 
 ## others 
 
+- [prjunnamed/prjunnamed](https://github.com/prjunnamed/prjunnamed) - End-to-end synthesis and P&R toolchain
+- [Jovian-Experiments/Jovian-NixOS](https://github.com/Jovian-Experiments/Jovian-NixOS) - Discussions: https://matrix.to/#/#Jovian-Experiments:matrix.org
 - [jiffyclub/snakeviz](https://github.com/jiffyclub/snakeviz) - An in-browser Python profile viewer
 - [baverman/flameprof](https://github.com/baverman/flameprof) - Flamegraph generator for cProfile stats
 - [shader-slang/slang](https://github.com/shader-slang/slang) - Making it easier to work with shaders
