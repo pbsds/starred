@@ -68,6 +68,7 @@
 
 ## C 
 
+- [dex4er/fakechroot](https://github.com/dex4er/fakechroot) - gives a fake chroot environment
 - [Robotechnic/diagraph](https://github.com/Robotechnic/diagraph) - A typst wasm plugin to use graphviz directly inside documents
 - [sinanmohd/evanix](https://github.com/sinanmohd/evanix) - Nix build Scheduler
 - [NixOS/patchelf](https://github.com/NixOS/patchelf) - A small utility to modify the dynamic linker and RPATH of ELF executables
@@ -256,7 +257,7 @@
 - [dnr/styx](https://github.com/dnr/styx) - alternate nix substitution
 - [nix-community/nixos-facter](https://github.com/nix-community/nixos-facter) - Declarative hardware configuration for NixOS [maintainer=@brianmcgee,@Mic92]
 - [JoshuaDoes/autogo](https://github.com/JoshuaDoes/autogo) - An AutoIt interpreter and runtime package written in Go
-- [ktock/container2wasm](https://github.com/ktock/container2wasm) - Container to WASM converter
+- [container2wasm/container2wasm](https://github.com/container2wasm/container2wasm) - Container to WASM converter
 - [letsblockit/letsblockit](https://github.com/letsblockit/letsblockit) - Remove low-quality content and useless nags, focus on what matters. A community-maintained uBlock Origin filter set.
 - [google/git-appraise](https://github.com/google/git-appraise) - Distributed code review system for Git repos
 - [xataio/pgroll](https://github.com/xataio/pgroll) - PostgreSQL zero-downtime migrations made easy
