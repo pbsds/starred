@@ -253,6 +253,7 @@
 
 ## Go 
 
+- [aksiksi/compose2nix](https://github.com/aksiksi/compose2nix) - Generate a NixOS config from a Docker Compose project.
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
 - [dnr/styx](https://github.com/dnr/styx) - alternate nix substitution
 - [nix-community/nixos-facter](https://github.com/nix-community/nixos-facter) - Declarative hardware configuration for NixOS [maintainer=@brianmcgee,@Mic92]
@@ -579,6 +580,7 @@
 
 ## Python 
 
+- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.
 - [jiffyclub/snakeviz](https://github.com/jiffyclub/snakeviz) - An in-browser Python profile viewer
 - [baverman/flameprof](https://github.com/baverman/flameprof) - Flamegraph generator for cProfile stats
 - [rcmalli/lightning-maml](https://github.com/rcmalli/lightning-maml) - MAML Implementation using Pytorch-lightning
