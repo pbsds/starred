@@ -1027,6 +1027,7 @@
 
 ## others 
 
+- [FuriLabs/issue-tracker](https://github.com/FuriLabs/issue-tracker) - FuriOS issue tracker
 - [dex4er/fakechroot](https://github.com/dex4er/fakechroot) - gives a fake chroot environment
 - [massifrg/pundok-editor](https://github.com/massifrg/pundok-editor) - A visual editor for Pandoc AST documents.
 - [prjunnamed/prjunnamed](https://github.com/prjunnamed/prjunnamed) - End-to-end synthesis and P&R toolchain
@@ -1644,7 +1645,7 @@
 - [erg-lang/erg](https://github.com/erg-lang/erg) - A statically typed language compatible with Python
 - [kanidm/kanidm](https://github.com/kanidm/kanidm) - Kanidm: A simple, secure, and fast identity management platform
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
-- [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
+- [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [tangobattle/tango](https://github.com/tangobattle/tango) - Play Mega Man Battle Network online with rollback netcode!
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
@@ -1759,7 +1760,7 @@
 - [alexozer/flitter](https://github.com/alexozer/flitter) - A LiveSplit-inspired speedrunning split timer for Linux/macOS terminal. Supports global hotkeys.
 - [xyproto/orbiton](https://github.com/xyproto/orbiton) - Configuration-free text editor and IDE limited to VT100. Suitable for writing git commit messages, editing Markdown, config files, source code, man pages and for quick edit-format-compile cycles when 
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
-- [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
+- [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
 - [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
