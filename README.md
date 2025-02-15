@@ -434,6 +434,7 @@
 
 ## Nix 
 
+- [nix-community/nixdoc](https://github.com/nix-community/nixdoc) - Tool to generate documentation for Nix library functions [maintainer=@infinisil]
 - [Jovian-Experiments/Jovian-NixOS](https://github.com/Jovian-Experiments/Jovian-NixOS) - Discussions: https://matrix.to/#/#Jovian-Experiments:matrix.org
 - [feel-co/hjem](https://github.com/feel-co/hjem) - Streamlined, elegant $HOME management with Nix
 - [adisbladis/zephyr-nix](https://github.com/adisbladis/zephyr-nix) - Develop Zephyr projects using Nix
@@ -507,7 +508,7 @@
 - [NickCao/nixos-riscv](https://github.com/NickCao/nixos-riscv) - 
 - [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments
 - [timbertson/runix](https://github.com/timbertson/runix) - 
-- [nix-community/disko](https://github.com/nix-community/disko) - Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht]
+- [nix-community/disko](https://github.com/nix-community/disko) - Declarative disk partitioning and formatting using nix [maintainers=Lassulus Enzime iFreilicht Mic92 phaer]
 - [serokell/nix-npm-buildpackage](https://github.com/serokell/nix-npm-buildpackage) - Build nix packages that use npm/yarn
 - [zhaofengli/nixos-riscv64](https://github.com/zhaofengli/nixos-riscv64) - NixOS on the HiFive Unmatched
 - [colemickens/stable-diffusion-flake](https://github.com/colemickens/stable-diffusion-flake) - 
