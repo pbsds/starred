@@ -1119,7 +1119,7 @@
 - [Tsche/magic_codec](https://github.com/Tsche/magic_codec) - 
 - [Atemu/nix-fuck-up-assessment-form](https://github.com/Atemu/nix-fuck-up-assessment-form) - To be filled by anyone who fucks up using Nix.
 - [chipsalliance/chisel-nix](https://github.com/chipsalliance/chisel-nix) - Nix template for the chisel-based industrial designing flows.
-- [Programvareverkstedet/pvv-nixos-config](https://github.com/Programvareverkstedet/pvv-nixos-config) - Read-only mirror of https://git.pvv.ntnu.no/Projects/pvv-nixos-config
+- [Programvareverkstedet/pvv-nixos-config](https://github.com/Programvareverkstedet/pvv-nixos-config) - Read-only mirror of https://git.pvv.ntnu.no/Drift/pvv-nixos-config
 - [DioxusLabs/blitz](https://github.com/DioxusLabs/blitz) - A radically modular HTML/CSS rendering engine
 - [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users) - Check your ranking in GitHub! Don't forget to star ⭐ this repository.
 - [Xe/praise-me](https://github.com/Xe/praise-me) - Praise my GitHub profile!
