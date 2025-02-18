@@ -1300,7 +1300,7 @@
 - [Eeaeau/TDT4230-Project-space-swarm](https://github.com/Eeaeau/TDT4230-Project-space-swarm) - 
 - [Riphiphip/TDT4230-project](https://github.com/Riphiphip/TDT4230-project) - TDT4230 Graphics project: OpenGL Metaballs
 - [LarsAur/TDT4230-Final-Project](https://github.com/LarsAur/TDT4230-Final-Project) - 
-- [Embla-Flatlandsmo/openGL-playground](https://github.com/Embla-Flatlandsmo/openGL-playground) - 
+- [emflat/openGL-playground](https://github.com/emflat/openGL-playground) - 
 - [toberge/graphics-project](https://github.com/toberge/graphics-project) - Final project in TDT4230
 - [akberg/procedural_planets](https://github.com/akberg/procedural_planets) - 
 - [steffenhaug/plox](https://github.com/steffenhaug/plox) - 
