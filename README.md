@@ -190,7 +190,7 @@
 - [Eeaeau/TDT4230-Project-space-swarm](https://github.com/Eeaeau/TDT4230-Project-space-swarm) - 
 - [sutne-NTNU/TDT4230-Graphics-and-Visualization](https://github.com/sutne-NTNU/TDT4230-Graphics-and-Visualization) - 2022 Spring Semester. Assignments and Project in the course.
 - [LarsAur/TDT4230-Final-Project](https://github.com/LarsAur/TDT4230-Final-Project) - 
-- [Embla-Flatlandsmo/openGL-playground](https://github.com/Embla-Flatlandsmo/openGL-playground) - 
+- [emflat/openGL-playground](https://github.com/emflat/openGL-playground) - 
 - [sxyu/sdf](https://github.com/sxyu/sdf) - Parallelized triangle mesh --&gt; continuous signed distance field on CPU
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [facebookresearch/faiss](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors.
