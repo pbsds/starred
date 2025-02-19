@@ -865,6 +865,7 @@
 
 ## Shell 
 
+- [conda-forge/miniforge](https://github.com/conda-forge/miniforge) - A conda-forge distribution.
 - [samueldr/lix-gha-installer-action](https://github.com/samueldr/lix-gha-installer-action) - 
 - [msys2/MINGW-packages](https://github.com/msys2/MINGW-packages) - Package scripts for MinGW-w64 targets to build under MSYS2.
 - [Artturin/nix-difflog](https://github.com/Artturin/nix-difflog) - Diff nix build logs with less clutter
