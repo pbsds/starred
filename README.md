@@ -147,6 +147,7 @@
 
 ## C++ 
 
+- [CHIP-SPV/chipStar](https://github.com/CHIP-SPV/chipStar) - chipStar is a tool for compiling and running HIP/CUDA on SPIR-V via OpenCL or Level Zero APIs.
 - [nix-community/nixd](https://github.com/nix-community/nixd) - Nix language server, based on nix libraries [maintainer=@inclyc,@Aleksanaa]
 - [shader-slang/slang](https://github.com/shader-slang/slang) - Making it easier to work with shaders
 - [parisolab/mathmod](https://github.com/parisolab/mathmod) - Mathematical modelling software
@@ -254,6 +255,7 @@
 
 ## Go 
 
+- [numtide/nar-serve](https://github.com/numtide/nar-serve) - Unpack and serve NAR file content on the fly
 - [aksiksi/compose2nix](https://github.com/aksiksi/compose2nix) - Generate a NixOS config from a Docker Compose project.
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
 - [dnr/styx](https://github.com/dnr/styx) - alternate nix substitution
@@ -742,6 +744,7 @@
 
 ## Rust 
 
+- [Rust-GPU/Rust-CUDA](https://github.com/Rust-GPU/Rust-CUDA) - Ecosystem of libraries and tools for writing and executing fast GPU code fully in Rust.
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [oxalica/nil](https://github.com/oxalica/nil) - NIx Language server, an incremental analysis assistant for writing in Nix.
 - [prjunnamed/prjunnamed](https://github.com/prjunnamed/prjunnamed) - End-to-end synthesis and P&R toolchain
@@ -873,7 +876,7 @@
 - [SebastianMuskalla/ModelessVim](https://github.com/SebastianMuskalla/ModelessVim) - Configuration files to turn vim into a modeless editor.
 - [GuillaumeDesforges/fix-python](https://github.com/GuillaumeDesforges/fix-python) - A simple CLI tool to use Python venv "normally" on NixOS
 - [sylefeb/a5k](https://github.com/sylefeb/a5k) - Another World on a chip
-- [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - install nixos everywhere via ssh [maintainer=@numtide]
+- [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - Install NixOS everywhere via SSH [maintainers=Mic92, Lassulus, phaer, Enzime]
 - [robn/freebsd-vf2](https://github.com/robn/freebsd-vf2) - FreeBSD on StarFive VisionFive 2
 - [devkitPro/pacman-packages](https://github.com/devkitPro/pacman-packages) - 
 - [devkitPro/buildscripts](https://github.com/devkitPro/buildscripts) - Scripts for building devkitPro toolchains
