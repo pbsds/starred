@@ -585,7 +585,7 @@
 
 ## Python 
 
-- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.
+- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. All in a modern, AI-native editor.
 - [jiffyclub/snakeviz](https://github.com/jiffyclub/snakeviz) - An in-browser Python profile viewer
 - [baverman/flameprof](https://github.com/baverman/flameprof) - Flamegraph generator for cProfile stats
 - [rcmalli/lightning-maml](https://github.com/rcmalli/lightning-maml) - MAML Implementation using Pytorch-lightning
