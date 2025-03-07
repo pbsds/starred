@@ -211,7 +211,7 @@
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. All in a modern, AI-native editor.
 - [sepandhaghighi/pycm](https://github.com/sepandhaghighi/pycm) - Multi-class confusion matrix library in Python
 - [lucidrains/siren-pytorch](https://github.com/lucidrains/siren-pytorch) - Pytorch implementation of SIREN -  Implicit Neural Representations with Periodic Activation Function
-- [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
+- [bee-san/Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [joaomilho/Enterprise](https://github.com/joaomilho/Enterprise) - 🦄 The Enterprise™ programming language
 
 ## atom 
@@ -386,14 +386,14 @@
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos) - A BSD-based OS project that aims to provide source and binary compatibility with macOS® and a similar user experience.
 - [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
-- [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
+- [bee-san/Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [ssloy/tinyraytracer](https://github.com/ssloy/tinyraytracer) - A brief computer graphics / rendering course
 - [dolphin-emu/dolphin](https://github.com/dolphin-emu/dolphin) - Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.
 - [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) - PlayStation 3 emulator and debugger
 
 ## cryptography 
 
-- [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
+- [bee-san/Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 
 ## csharp 
 
@@ -656,7 +656,7 @@
 ## hacking 
 
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
-- [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
+- [bee-san/Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 
 ## hacktoberfest 
 
@@ -697,7 +697,7 @@
 - [tiny-pilot/tinypilot](https://github.com/tiny-pilot/tinypilot) - Use your Raspberry Pi as a browser-based KVM.
 - [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen.
 - [xemu-project/xemu](https://github.com/xemu-project/xemu) - Original Xbox Emulator for Windows, macOS, and Linux (Active Development)
-- [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
+- [bee-san/Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [danluu/post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems. Sorry for the delay in merging PRs!
 - [mapeditor/tiled](https://github.com/mapeditor/tiled) - Flexible level editor
 - [vanila-io/wireflow](https://github.com/vanila-io/wireflow) - Wireflow - user flow chart real-time collaborative tool
@@ -952,7 +952,7 @@
 
 ## natural-language-processing 
 
-- [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
+- [bee-san/Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 
 ## neural-network 
 
@@ -1161,7 +1161,7 @@
 - [h7x4/maunium-stickerpicker-nix](https://github.com/h7x4/maunium-stickerpicker-nix) - Nix wrapper for maunium/stickerpicker
 - [lilyinstarlight/bottom-nix](https://github.com/lilyinstarlight/bottom-nix) - An implementation of the Bottom encoding format in Nix
 - [JuliaHubOSS/llvm-cbe](https://github.com/JuliaHubOSS/llvm-cbe) - resurrected LLVM "C Backend", with improvements
-- [electric-sql/pglite](https://github.com/electric-sql/pglite) - Lightweight WASM Postgres with real-time, reactive bindings.
+- [electric-sql/pglite](https://github.com/electric-sql/pglite) - Embeddable Postgres with real-time, reactive bindings.
 - [nixos-bsd/nixbsd](https://github.com/nixos-bsd/nixbsd) - An unofficial NixOS fork with a FreeBSD kernel
 - [loqusion/typix](https://github.com/loqusion/typix) - Deterministic Typst compilation with Nix
 - [Tow-Boot/Tow-Boot](https://github.com/Tow-Boot/Tow-Boot) - An opinionated distribution of U-Boot. — https://matrix.to/#/#Tow-Boot:matrix.org?via=matrix.org
@@ -1463,7 +1463,7 @@
 
 ## pentesting 
 
-- [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
+- [bee-san/Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 
 ## php 
 
@@ -1550,7 +1550,7 @@
 - [boxed/mutmut](https://github.com/boxed/mutmut) - Mutation testing system
 - [pypa/setuptools-scm](https://github.com/pypa/setuptools-scm) - the blessed package to manage your versions by scm tags
 - [freepn/fpnd](https://github.com/freepn/fpnd) - Python package for freepn network daemon
-- [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
+- [bee-san/Ciphey](https://github.com/bee-san/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [pyos/dg](https://github.com/pyos/dg) - A programming language for the CPython VM.
 - [timothycrosley/portray](https://github.com/timothycrosley/portray) - Your Project with Great Documentation.
 - [hauntsaninja/pyp](https://github.com/hauntsaninja/pyp) - Easily run Python at the shell! Magical, but never mysterious.
