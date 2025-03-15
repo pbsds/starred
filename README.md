@@ -741,6 +741,7 @@
 
 ## Rust 
 
+- [cberner/redb](https://github.com/cberner/redb) - An embedded key-value database in pure Rust
 - [mufeedvh/pdfrip](https://github.com/mufeedvh/pdfrip) - A multi-threaded PDF password cracking utility equipped with commonly encountered password format builders and dictionary attacks.
 - [Rust-GPU/Rust-CUDA](https://github.com/Rust-GPU/Rust-CUDA) - Ecosystem of libraries and tools for writing and executing fast GPU code fully in Rust.
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
