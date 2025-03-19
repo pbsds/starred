@@ -1036,7 +1036,6 @@
 
 - [fpletz/nixos-nspawn](https://github.com/fpletz/nixos-nspawn) - Declarative NixOS nspawn containers
 - [numtide/nar-serve](https://github.com/numtide/nar-serve) - Unpack and serve NAR file content on the fly
-- [Rust-GPU/Rust-CUDA](https://github.com/Rust-GPU/Rust-CUDA) - Ecosystem of libraries and tools for writing and executing fast GPU code fully in Rust.
 - [CHIP-SPV/chipStar](https://github.com/CHIP-SPV/chipStar) - chipStar is a tool for compiling and running HIP/CUDA on SPIR-V via OpenCL or Level Zero APIs.
 - [conda-forge/miniforge](https://github.com/conda-forge/miniforge) - A conda-forge distribution.
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
@@ -1510,6 +1509,7 @@
 
 ## python 
 
+- [t184256/nixpkgs-python-importer](https://github.com/t184256/nixpkgs-python-importer) - Violate Nix philosophy, install Python packages mid-session with `from nixpkgs.scipy import scipy`.
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. All in a modern, AI-native editor.
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [omnilib/aioitertools](https://github.com/omnilib/aioitertools) - itertools and builtins for AsyncIO and mixed iterables
@@ -1629,6 +1629,7 @@
 
 - [cberner/redb](https://github.com/cberner/redb) - An embedded key-value database in pure Rust
 - [mufeedvh/pdfrip](https://github.com/mufeedvh/pdfrip) - A multi-threaded PDF password cracking utility equipped with commonly encountered password format builders and dictionary attacks.
+- [Rust-GPU/Rust-CUDA](https://github.com/Rust-GPU/Rust-CUDA) - Ecosystem of libraries and tools for writing and executing fast GPU code fully in Rust.
 - [nix-community/nixdoc](https://github.com/nix-community/nixdoc) - Tool to generate documentation for Nix library functions [maintainer=@infinisil]
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) - :stars: Manage your shell commands.
 - [ipetkov/crane](https://github.com/ipetkov/crane) - A Nix library for building cargo projects. Never build twice thanks to incremental artifact caching.
