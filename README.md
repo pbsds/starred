@@ -46,6 +46,7 @@
 - [SCSS](#scss)
 - [SWIG](#swig)
 - [Scala](#scala)
+- [Scheme](#scheme)
 - [Shell](#shell)
 - [Svelte](#svelte)
 - [SystemVerilog](#systemverilog)
@@ -865,6 +866,10 @@
 ## Scala 
 
 - [ucsc-vama/essent](https://github.com/ucsc-vama/essent) - high-performance RTL simulator
+
+## Scheme 
+
+- [rburmorrison/shell.zed](https://github.com/rburmorrison/shell.zed) - LSP support for Bash and POSIX shell scripts, highlighting for ZSH.
 
 ## Shell 
 
