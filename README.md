@@ -255,6 +255,7 @@
 
 ## Go 
 
+- [multivac61/fod-oracle](https://github.com/multivac61/fod-oracle) - 
 - [numtide/nar-serve](https://github.com/numtide/nar-serve) - Unpack and serve NAR file content on the fly
 - [aksiksi/compose2nix](https://github.com/aksiksi/compose2nix) - Generate a NixOS config from a Docker Compose project.
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
