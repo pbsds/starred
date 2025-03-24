@@ -1035,6 +1035,8 @@
 
 ## others 
 
+- [multivac61/fod-oracle](https://github.com/multivac61/fod-oracle) - 
+- [rburmorrison/shell.zed](https://github.com/rburmorrison/shell.zed) - LSP support for Bash and POSIX shell scripts, highlighting for ZSH.
 - [fpletz/nixos-nspawn](https://github.com/fpletz/nixos-nspawn) - Declarative NixOS nspawn containers
 - [numtide/nar-serve](https://github.com/numtide/nar-serve) - Unpack and serve NAR file content on the fly
 - [CHIP-SPV/chipStar](https://github.com/CHIP-SPV/chipStar) - chipStar is a tool for compiling and running HIP/CUDA on SPIR-V via OpenCL or Level Zero APIs.
