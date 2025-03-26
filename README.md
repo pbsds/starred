@@ -87,7 +87,7 @@
 - [yuq/gfx](https://github.com/yuq/gfx) - 
 - [folkertvanheusden/multitail](https://github.com/folkertvanheusden/multitail) - Tail on steroids
 - [nathanfarlow/stylehax](https://github.com/nathanfarlow/stylehax) - Nintendo DSi browser exploit
-- [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
+- [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
 - [moonlight-stream/moonlight-embedded](https://github.com/moonlight-stream/moonlight-embedded) - Gamestream client for embedded systems
 - [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 - [ImVexed/muon](https://github.com/ImVexed/muon) - GPU based Electron on a diet
