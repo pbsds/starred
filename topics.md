@@ -1035,6 +1035,7 @@
 
 ## others 
 
+- [azahar-emu/azahar](https://github.com/azahar-emu/azahar) - An open-source 3DS emulator project based on Citra.
 - [multivac61/fod-oracle](https://github.com/multivac61/fod-oracle) - 
 - [rburmorrison/shell.zed](https://github.com/rburmorrison/shell.zed) - LSP support for Bash and POSIX shell scripts, highlighting for ZSH.
 - [fpletz/nixos-nspawn](https://github.com/fpletz/nixos-nspawn) - Declarative NixOS nspawn containers
