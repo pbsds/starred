@@ -147,6 +147,7 @@
 
 ## C++ 
 
+- [azahar-emu/azahar](https://github.com/azahar-emu/azahar) - An open-source 3DS emulator project based on Citra.
 - [CHIP-SPV/chipStar](https://github.com/CHIP-SPV/chipStar) - chipStar is a tool for compiling and running HIP/CUDA on SPIR-V via OpenCL or Level Zero APIs.
 - [nix-community/nixd](https://github.com/nix-community/nixd) - Nix language server, based on nix libraries [maintainer=@inclyc,@Aleksanaa]
 - [shader-slang/slang](https://github.com/shader-slang/slang) - Making it easier to work with shaders
