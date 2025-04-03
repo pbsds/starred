@@ -173,7 +173,7 @@
 - [chipsalliance/verible](https://github.com/chipsalliance/verible) - Verible is a suite of SystemVerilog developer tools, including a parser, style-linter, formatter and language server
 - [C3RV1/UndertaleNDS](https://github.com/C3RV1/UndertaleNDS) - Undertale port for Nintendo DS (src only, no copyrighted material).
 - [clsid2/mpc-hc](https://github.com/clsid2/mpc-hc) - Media Player Classic
-- [jank-lang/jank](https://github.com/jank-lang/jank) - The native Clojure dialect hosted on LLVM
+- [jank-lang/jank](https://github.com/jank-lang/jank) - The native Clojure dialect hosted on LLVM with seamless C++ interop.
 - [patriciogonzalezvivo/glslViewer](https://github.com/patriciogonzalezvivo/glslViewer) - Console-based GLSL Sandbox for 2D/3D shaders
 - [fstl-app/fstl](https://github.com/fstl-app/fstl) - A fast STL file viewer
 - [curv3d/curv](https://github.com/curv3d/curv) - a language for making art using mathematics
