@@ -434,6 +434,7 @@
 
 ## Nix 
 
+- [pbar1/nix-mdbook](https://github.com/pbar1/nix-mdbook) - Nix library flake for building mdBook projects
 - [fpletz/nixos-nspawn](https://github.com/fpletz/nixos-nspawn) - Declarative NixOS nspawn containers
 - [nix-community/nixdoc](https://github.com/nix-community/nixdoc) - Tool to generate documentation for Nix library functions [maintainer=@infinisil]
 - [Jovian-Experiments/Jovian-NixOS](https://github.com/Jovian-Experiments/Jovian-NixOS) - Discussions: https://matrix.to/#/#Jovian-Experiments:matrix.org
