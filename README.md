@@ -885,7 +885,7 @@
 - [SebastianMuskalla/ModelessVim](https://github.com/SebastianMuskalla/ModelessVim) - Configuration files to turn vim into a modeless editor.
 - [GuillaumeDesforges/fix-python](https://github.com/GuillaumeDesforges/fix-python) - A simple CLI tool to use Python venv "normally" on NixOS
 - [sylefeb/a5k](https://github.com/sylefeb/a5k) - Another World on a chip
-- [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - Install NixOS everywhere via SSH [maintainers=Mic92, Lassulus, phaer, Enzime]
+- [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - Install NixOS everywhere via SSH [maintainers=@Mic92, @Lassulus, @phaer, @Enzime]
 - [robn/freebsd-vf2](https://github.com/robn/freebsd-vf2) - FreeBSD on StarFive VisionFive 2
 - [devkitPro/pacman-packages](https://github.com/devkitPro/pacman-packages) - 
 - [devkitPro/buildscripts](https://github.com/devkitPro/buildscripts) - Scripts for building devkitPro toolchains
