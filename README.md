@@ -712,7 +712,7 @@
 - [johannestaas/pire](https://github.com/johannestaas/pire) - Python Interactive Regular Expressions
 - [HackerPoet/PySpace](https://github.com/HackerPoet/PySpace) - GLSL Fractal Ray Marcher in Python
 - [alexmojaki/heartrate](https://github.com/alexmojaki/heartrate) - Simple real time visualisation of the execution of a Python program.
-- [Flipnote-Collective/ppm-parser](https://github.com/Flipnote-Collective/ppm-parser) - Example full-featured Python parser for Flipnote Studio's .ppm animation format
+- [Flipnote-Collective/ppm-parser](https://github.com/Flipnote-Collective/ppm-parser) - [DEPRECATED] Example full-featured Python parser for Flipnote Studio's .ppm animation format
 - [FKLC/AnyAPI](https://github.com/FKLC/AnyAPI) - AnyAPI is a library that helps you to write any API wrapper with ease and in pythonic way.
 - [munificent/vigil](https://github.com/munificent/vigil) - Vigil, the eternal morally vigilant programming language
 - [rlittlefield/pypaseto](https://github.com/rlittlefield/pypaseto) - PASETO for Python
