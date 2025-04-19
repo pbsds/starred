@@ -615,6 +615,7 @@
 
 ## git 
 
+- [rraval/git-nomad](https://github.com/rraval/git-nomad) - Synchronize work-in-progress git branches in a light weight fashion
 - [nix-community/nurl](https://github.com/nix-community/nurl) - Generate Nix fetcher calls from repository URLs [maintainer=@figsoda]
 - [tummychow/git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
