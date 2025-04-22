@@ -533,6 +533,7 @@
 
 ## Others 
 
+- [RinLovesYou/Flipnote-Encoder](https://github.com/RinLovesYou/Flipnote-Encoder) - The Cross-Platform Flipnote Encoder and Signer written in .NET! Available for Windows, Linux and OsX
 - [FuriLabs/issue-tracker](https://github.com/FuriLabs/issue-tracker) - FuriOS issue tracker
 - [non-ai-licenses/non-ai-licenses](https://github.com/non-ai-licenses/non-ai-licenses) - This repository contains software licenses that restrict software from being used in AI training datasets or AI technologies.
 - [valpackett/awesome-gtk](https://github.com/valpackett/awesome-gtk) - List of awesome GTK (3/4) applications
