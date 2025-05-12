@@ -223,7 +223,7 @@
 ## automation 
 
 - [cjolowicz/nox-poetry](https://github.com/cjolowicz/nox-poetry) - Use Poetry inside Nox sessions
-- [BastilleBSD/rocinante](https://github.com/BastilleBSD/rocinante) - Rosinante is lightweight configuration management software.
+- [BastilleBSD/rocinante](https://github.com/BastilleBSD/rocinante) - Rocinante is lightweight configuration management software.
 - [dimensionhq/electric](https://github.com/dimensionhq/electric) - A fast, futuristic package manager for Windows.
 
 ## awesome 
