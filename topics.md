@@ -1047,6 +1047,7 @@
 
 ## others 
 
+- [ubc-vision/nfd_code](https://github.com/ubc-vision/nfd_code) - 
 - [adisbladis/korora](https://github.com/adisbladis/korora) - A tiny & fast type system for Nix in Nix
 - [hmiladhia/lazyimports](https://github.com/hmiladhia/lazyimports) - A module to enable lazy imports using native python syntax
 - [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive, portable, and performant GPU programming in Python.
