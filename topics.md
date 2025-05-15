@@ -868,6 +868,7 @@
 
 ## linux 
 
+- [VHSgunzo/runimage](https://github.com/VHSgunzo/runimage) - Portable single-file linux container
 - [b3nj5m1n/xdg-ninja](https://github.com/b3nj5m1n/xdg-ninja) - A shell script which checks your $HOME for unwanted files and directories.
 - [pvolok/mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel
 - [QaidVoid/Complete-Single-GPU-Passthrough](https://github.com/QaidVoid/Complete-Single-GPU-Passthrough) - Single GPU VFIO Passthrough Guide
@@ -1033,6 +1034,7 @@
 
 ## opengl 
 
+- [moderngl/moderngl](https://github.com/moderngl/moderngl) - Modern OpenGL binding for Python
 - [ptitSeb/gl4es](https://github.com/ptitSeb/gl4es) - GL4ES is a OpenGL 2.1/1.5 to GL ES 2.0/1.1 translation library, with support for Pandora, ODroid, OrangePI, CHIP, Raspberry PI, Android, Emscripten and AmigaOS4.
 - [Almamu/linux-wallpaperengine](https://github.com/Almamu/linux-wallpaperengine) - Wallpaper Engine backgrounds for Linux!
 - [sutne-NTNU/TDT4230-Graphics-and-Visualization](https://github.com/sutne-NTNU/TDT4230-Graphics-and-Visualization) - 2022 Spring Semester. Assignments and Project in the course.
@@ -1047,6 +1049,7 @@
 
 ## others 
 
+- [karpathy/micrograd](https://github.com/karpathy/micrograd) - A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API
 - [ubc-vision/nfd_code](https://github.com/ubc-vision/nfd_code) - 
 - [adisbladis/korora](https://github.com/adisbladis/korora) - A tiny & fast type system for Nix in Nix
 - [hmiladhia/lazyimports](https://github.com/hmiladhia/lazyimports) - A module to enable lazy imports using native python syntax
@@ -1531,6 +1534,7 @@
 
 ## python 
 
+- [moderngl/moderngl](https://github.com/moderngl/moderngl) - Modern OpenGL binding for Python
 - [NVIDIA/warp](https://github.com/NVIDIA/warp) - A Python framework for accelerated simulation, data generation and spatial computing.
 - [t184256/nixpkgs-python-importer](https://github.com/t184256/nixpkgs-python-importer) - Violate Nix philosophy, install Python packages mid-session with `from nixpkgs.scipy import scipy`.
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. All in a modern, AI-native editor.
