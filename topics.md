@@ -1241,7 +1241,6 @@
 - [tomkwok/svgasm](https://github.com/tomkwok/svgasm) - SVG animation from multiple SVGs or single GIF using tracer
 - [CloudCannon/pagefind](https://github.com/CloudCannon/pagefind) - Static low-bandwidth search at scale
 - [ajalt/fuckitpy](https://github.com/ajalt/fuckitpy) - The Python error steamroller.
-- [taconi/plugin-channel](https://github.com/taconi/plugin-channel) - Fork of the official micro editor plugins channel
 - [zhaofengli/attic](https://github.com/zhaofengli/attic) - Multi-tenant Nix Binary Cache
 - [considerate/nixos-odroidhc4](https://github.com/considerate/nixos-odroidhc4) - NixOS configuration for the ODROID HC4 microcomputer
 - [nix-community/nix-vscode-extensions](https://github.com/nix-community/nix-vscode-extensions) - Nix expressions for VSCode and OpenVSX extensions [maintainers: @deemp, @AmeerTaweel]
