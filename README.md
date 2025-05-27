@@ -340,7 +340,7 @@
 
 ## JavaScript 
 
-- [0xpcut/wypst](https://github.com/0xpcut/wypst) - Typst math typesetting for the web.
+- [0xbolt/wypst](https://github.com/0xbolt/wypst) - Typst math typesetting for the web.
 - [nralbrecht/pinned-tab-fix](https://github.com/nralbrecht/pinned-tab-fix) - This Firefox add-on moves new tabs opened from a pinned tab to the right end of the tab bar
 - [SVG-Edit/svgedit](https://github.com/SVG-Edit/svgedit) - Powerful SVG-Editor for your browser
 - [davidmerfield/Typeset](https://github.com/davidmerfield/Typeset) - An HTML pre-proces­sor for web ty­pog­ra­phy
@@ -471,7 +471,7 @@
 - [polygon/nix-buildproxy](https://github.com/polygon/nix-buildproxy) - Providing reproducible HTTP/HTTPS responders to builds that just can not live without
 - [pololu/nixcrpkgs](https://github.com/pololu/nixcrpkgs) - Tools for cross-compiling standalone applications using Nix.
 - [nix-community/redoxpkgs](https://github.com/nix-community/redoxpkgs) - Cross-compile to Redox using Nix [maintainer=@aaronjanse]
-- [nix-community/fenix](https://github.com/nix-community/fenix) - Rust toolchains and rust-analyzer nightly for Nix [maintainer=@figsoda]
+- [nix-community/fenix](https://github.com/nix-community/fenix) - Rust toolchains and rust-analyzer nightly for Nix [maintainers=@figsoda, @winterqt, @zmitchell]
 - [nix-community/nix-index-database](https://github.com/nix-community/nix-index-database) - Weekly updated nix-index database [maintainer=@Mic92]
 - [Mic92/nixos-shell](https://github.com/Mic92/nixos-shell) - Spawns lightweight nixos vms in a shell
 - [musnix/musnix](https://github.com/musnix/musnix) - Real-time audio in NixOS
