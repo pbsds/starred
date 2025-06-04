@@ -681,7 +681,6 @@
 - [NuschtOS/search](https://github.com/NuschtOS/search) - Simple and fast static-page NixOS option search
 - [zlfn/rust-gb](https://github.com/zlfn/rust-gb) - Compile Rust code to GBZ80 (Gameboy Z80)
 - [alexozer/flitter](https://github.com/alexozer/flitter) - A LiveSplit-inspired speedrunning split timer for Linux/macOS terminal. Supports global hotkeys.
-- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 - [BrianHicks/tree-grepper](https://github.com/BrianHicks/tree-grepper) - Like grep, but uses tree-sitter grammars to search
 - [utdemir/nix-tree](https://github.com/utdemir/nix-tree) - Interactively browse dependency graphs of Nix derivations.
@@ -1242,7 +1241,7 @@
 - [verse-lang/verse](https://github.com/verse-lang/verse) - The Verse Programming Language
 - [ralismark/nix-appimage](https://github.com/ralismark/nix-appimage) - Convert a nixos derivation into a self-contained binary
 - [tomkwok/svgasm](https://github.com/tomkwok/svgasm) - SVG animation from multiple SVGs or single GIF using tracer
-- [CloudCannon/pagefind](https://github.com/CloudCannon/pagefind) - Static low-bandwidth search at scale
+- [Pagefind/pagefind](https://github.com/Pagefind/pagefind) - Static low-bandwidth search at scale
 - [ajalt/fuckitpy](https://github.com/ajalt/fuckitpy) - The Python error steamroller.
 - [zhaofengli/attic](https://github.com/zhaofengli/attic) - Multi-tenant Nix Binary Cache
 - [considerate/nixos-odroidhc4](https://github.com/considerate/nixos-odroidhc4) - NixOS configuration for the ODROID HC4 microcomputer
