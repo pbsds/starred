@@ -602,6 +602,7 @@
 
 ## gamedev 
 
+- [agbrs/agb](https://github.com/agbrs/agb) - Library for writing Game Boy Advance games in Rust
 - [elishacloud/dxwrapper](https://github.com/elishacloud/dxwrapper) - Fixes compatibility issues with older games running on Windows 10/11 by wrapping DirectX dlls.  Also allows loading custom libraries with the file extension .asi into game processes.
 - [gbdev/awesome-gbdev](https://github.com/gbdev/awesome-gbdev) - A curated list of Game Boy development resources such as tools, docs, emulators, related projects and open-source ROMs.
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
@@ -1655,6 +1656,7 @@
 
 ## rust 
 
+- [agbrs/agb](https://github.com/agbrs/agb) - Library for writing Game Boy Advance games in Rust
 - [0xbolt/wypst](https://github.com/0xbolt/wypst) - Typst math typesetting for the web.
 - [cberner/redb](https://github.com/cberner/redb) - An embedded key-value database in pure Rust
 - [mufeedvh/pdfrip](https://github.com/mufeedvh/pdfrip) - A multi-threaded PDF password cracking utility equipped with commonly encountered password format builders and dictionary attacks.
