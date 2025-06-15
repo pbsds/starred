@@ -1048,6 +1048,7 @@
 
 ## others 
 
+- [hackeriet/coldnorth.org](https://github.com/hackeriet/coldnorth.org) - 
 - [unmojang/drasl](https://github.com/unmojang/drasl) - Yggdrasil-compatible API server for Minecraft
 - [tgirlcloud/lix-diff](https://github.com/tgirlcloud/lix-diff) - 
 - [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) - Create a 130GB Nix ️store in GitHub runners ❄️ Multi-partition BTRFS RAID-0 for /nix 💪 Brutally purges unnecessary software 🪓 Dynamically grows the Nix store 📈
