@@ -763,6 +763,7 @@
 
 ## Rust 
 
+- [helsinki-systems/hydra-queue-runner](https://github.com/helsinki-systems/hydra-queue-runner) - Hydra queue runner rewrite
 - [agbrs/agb](https://github.com/agbrs/agb) - Library for writing Game Boy Advance games in Rust
 - [tgirlcloud/lix-diff](https://github.com/tgirlcloud/lix-diff) - 
 - [lf-/gridlock](https://github.com/lf-/gridlock) - Nix compatible lockfile manager, without Nix
