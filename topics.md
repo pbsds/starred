@@ -1051,6 +1051,7 @@
 
 ## others 
 
+- [helsinki-systems/hydra-queue-runner](https://github.com/helsinki-systems/hydra-queue-runner) - Hydra queue runner rewrite
 - [deskflow/deskflow](https://github.com/deskflow/deskflow) - Share a single keyboard and mouse between multiple computers.
 - [hackeriet/coldnorth.org](https://github.com/hackeriet/coldnorth.org) - 
 - [unmojang/drasl](https://github.com/unmojang/drasl) - Yggdrasil-compatible API server for Minecraft
@@ -1179,7 +1180,7 @@
 - [shell-pool/shpool](https://github.com/shell-pool/shpool) - Think tmux, then aim... lower
 - [Thefantasticbagle/vulkan-nonlinear-raytracing](https://github.com/Thefantasticbagle/vulkan-nonlinear-raytracing) - A non-linear ray tracing engine made with Vulkan
 - [celun/celun](https://github.com/celun/celun) - The customizable embedded Linux using Nix.
-- [Enter-tainer/typstyle](https://github.com/Enter-tainer/typstyle) - Beautiful and reliable typst code formatter
+- [typstyle-rs/typstyle](https://github.com/typstyle-rs/typstyle) - Beautiful and reliable typst code formatter
 - [samueldr/linux-3ds.nix](https://github.com/samueldr/linux-3ds.nix) - A Linux system for your 3DS, built with Nix
 - [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
 - [lix-project/lix](https://github.com/lix-project/lix) - [MIRROR, PRs ok! Issues: https://git.lix.systems/lix-project/lix/issues] A modern, delicious implementation of the Nix package manager, focused on correctness, usability, and growth — and committed to
