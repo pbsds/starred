@@ -1051,6 +1051,7 @@
 
 ## others 
 
+- [ading2210/linuxpdf](https://github.com/ading2210/linuxpdf) - Linux running inside a PDF file via a RISC-V emulator
 - [helsinki-systems/hydra-queue-runner](https://github.com/helsinki-systems/hydra-queue-runner) - Hydra queue runner rewrite
 - [deskflow/deskflow](https://github.com/deskflow/deskflow) - Share a single keyboard and mouse between multiple computers.
 - [hackeriet/coldnorth.org](https://github.com/hackeriet/coldnorth.org) - 
