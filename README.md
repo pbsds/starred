@@ -69,6 +69,7 @@
 
 ## C 
 
+- [ading2210/linuxpdf](https://github.com/ading2210/linuxpdf) - Linux running inside a PDF file via a RISC-V emulator
 - [dex4er/fakechroot](https://github.com/dex4er/fakechroot) - gives a fake chroot environment
 - [Robotechnic/diagraph](https://github.com/Robotechnic/diagraph) - A typst wasm plugin to use graphviz directly inside documents
 - [sinanmohd/evanix](https://github.com/sinanmohd/evanix) - Nix build Scheduler
