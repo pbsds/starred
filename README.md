@@ -69,6 +69,7 @@
 
 ## C 
 
+- [Wack0/entii-for-workcubes](https://github.com/Wack0/entii-for-workcubes) - PowerPC Windows NT ported to Nintendo GameCube/Wii/Wii U
 - [ading2210/linuxpdf](https://github.com/ading2210/linuxpdf) - Linux running inside a PDF file via a RISC-V emulator
 - [dex4er/fakechroot](https://github.com/dex4er/fakechroot) - gives a fake chroot environment
 - [Robotechnic/diagraph](https://github.com/Robotechnic/diagraph) - A typst wasm plugin to use graphviz directly inside documents
@@ -764,6 +765,7 @@
 
 ## Rust 
 
+- [Amanse/game-rs](https://github.com/Amanse/game-rs) - A cli game launcher for linux
 - [helsinki-systems/hydra-queue-runner](https://github.com/helsinki-systems/hydra-queue-runner) - Hydra queue runner rewrite
 - [agbrs/agb](https://github.com/agbrs/agb) - Library for writing Game Boy Advance games in Rust
 - [tgirlcloud/lix-diff](https://github.com/tgirlcloud/lix-diff) - 
