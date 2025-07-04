@@ -261,6 +261,7 @@
 
 ## Go 
 
+- [numtide/nix-auth](https://github.com/numtide/nix-auth) - Nix access-token management tool
 - [unmojang/drasl](https://github.com/unmojang/drasl) - Yggdrasil-compatible API server for Minecraft
 - [multivac61/fod-oracle](https://github.com/multivac61/fod-oracle) - 
 - [numtide/nar-serve](https://github.com/numtide/nar-serve) - Unpack and serve NAR file content on the fly
@@ -375,7 +376,6 @@
 - [cryptpad/cryptpad](https://github.com/cryptpad/cryptpad) - Collaborative office suite, end-to-end encrypted and open-source.
 - [audreyt/ethercalc](https://github.com/audreyt/ethercalc) - Node.js port of Multi-user SocialCalc
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
-- [tomayac/joy-con-webhid](https://github.com/tomayac/joy-con-webhid) - Use the Nintendo Switch Joy-Cons via the WebHID API
 - [varkor/quiver](https://github.com/varkor/quiver) - A modern commutative diagram editor for the web.
 - [gbevan/atom-drawio](https://github.com/gbevan/atom-drawio) - Atom package to allow creating and editting of draw.io diagrams
 - [vanila-io/wireflow](https://github.com/vanila-io/wireflow) - Wireflow - user flow chart real-time collaborative tool
@@ -972,6 +972,7 @@
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 A completely free and open interplanetary microblogging platform 🚀
 - [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) - Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
 - [gTile/gTile](https://github.com/gTile/gTile) - A window tiling extension for Gnome.
+- [tomayac/joy-con-webhid](https://github.com/tomayac/joy-con-webhid) - Use the Nintendo Switch Joy-Cons via the WebHID API
 - [mjswensen/themer](https://github.com/mjswensen/themer) - 🎨 themer takes a set of colors and outputs themes for your apps (editors, terminals, wallpapers, and more).
 - [akveo/eva-icons](https://github.com/akveo/eva-icons) - A pack of more than 480 beautifully crafted Open Source icons. SVG, Sketch, Web Font and Animations support.
 - [jaames/flipnote.js](https://github.com/jaames/flipnote.js) - JS library for decoding, converting, and in-browser playback of animations created with Nintendo's Flipnote Studio and Flipnote Studio 3D apps
