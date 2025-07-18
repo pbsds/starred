@@ -224,6 +224,7 @@
 
 ## automation 
 
+- [a-kenji/flake-edit](https://github.com/a-kenji/flake-edit) - Edit your flake inputs with ease.
 - [cjolowicz/nox-poetry](https://github.com/cjolowicz/nox-poetry) - Use Poetry inside Nox sessions
 - [BastilleBSD/rocinante](https://github.com/BastilleBSD/rocinante) - Rocinante is lightweight configuration management software.
 - [dimensionhq/electric](https://github.com/dimensionhq/electric) - A fast, futuristic package manager for Windows.
