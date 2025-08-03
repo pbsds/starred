@@ -1103,7 +1103,7 @@
 - [baverman/flameprof](https://github.com/baverman/flameprof) - Flamegraph generator for cProfile stats
 - [shader-slang/slang](https://github.com/shader-slang/slang) - Making it easier to work with shaders
 - [feel-co/hjem](https://github.com/feel-co/hjem) - Streamlined, elegant $HOME management with Nix
-- [adisbladis/zephyr-nix](https://github.com/adisbladis/zephyr-nix) - Develop Zephyr projects using Nix
+- [adisbladis/zephyr-nix](https://github.com/adisbladis/zephyr-nix) - Develop Zephyr projects using Nix [maintainer=@adisbladis]
 - [samueldr/lix-gha-installer-action](https://github.com/samueldr/lix-gha-installer-action) - 
 - [kamadorueda/nixel](https://github.com/kamadorueda/nixel) - Parser for the Nix Expressions Language
 - [msys2/MINGW-packages](https://github.com/msys2/MINGW-packages) - Package scripts for MinGW-w64 targets to build under MSYS2.
@@ -1187,7 +1187,7 @@
 - [Ferase/PPMTools](https://github.com/Ferase/PPMTools) - A PPM parser module for Python 3. This is a rewrite of the PPM parser from Hatenatools, which was made for Python 2 (https://github.com/pbsds/Hatenatools)
 - [yusefnapora/native-access-nix](https://github.com/yusefnapora/native-access-nix) - A nixy way to install Native Instruments plugins using wine
 - [cachix/git-hooks.nix](https://github.com/cachix/git-hooks.nix) - Seamless integration of https://pre-commit.com git hooks with Nix.
-- [ethersync/ethersync](https://github.com/ethersync/ethersync) - Editor-agnostic, real-time collaborative editing of local text files.
+- [ethersync/ethersync](https://github.com/ethersync/ethersync) - Peer-to-peer, editor-agnostic collaborative editing of local text files.
 - [red-prig/fpPS4](https://github.com/red-prig/fpPS4) - PS4 compatibility layer (emulator) on Free Pascal
 - [nix-community/nixos-facter](https://github.com/nix-community/nixos-facter) - Declarative hardware configuration for NixOS [maintainer=@brianmcgee,@Mic92]
 - [freuk/awesome-nix-hpc](https://github.com/freuk/awesome-nix-hpc) - high performance computing related nix resources
