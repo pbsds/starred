@@ -450,6 +450,7 @@
 
 ## Nix 
 
+- [cpick/nix-rosetta-builder](https://github.com/cpick/nix-rosetta-builder) - 
 - [adisbladis/korora](https://github.com/adisbladis/korora) - A tiny & fast type system for Nix in Nix
 - [pbar1/nix-mdbook](https://github.com/pbar1/nix-mdbook) - Nix library flake for building mdBook projects
 - [fpletz/nixos-nspawn](https://github.com/fpletz/nixos-nspawn) - Declarative NixOS nspawn containers
@@ -603,6 +604,7 @@
 
 ## Python 
 
+- [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
 - [moderngl/moderngl](https://github.com/moderngl/moderngl) - Modern OpenGL binding for Python
 - [ubc-vision/nfd_code](https://github.com/ubc-vision/nfd_code) - 
 - [hmiladhia/lazyimports](https://github.com/hmiladhia/lazyimports) - A module to enable lazy imports using native python syntax
