@@ -382,7 +382,7 @@
 - [varkor/quiver](https://github.com/varkor/quiver) - A modern commutative diagram editor for the web.
 - [gbevan/atom-drawio](https://github.com/gbevan/atom-drawio) - Atom package to allow creating and editting of draw.io diagrams
 - [vanila-io/wireflow](https://github.com/vanila-io/wireflow) - Wireflow - user flow chart real-time collaborative tool
-- [dream-num/Luckysheet](https://github.com/dream-num/Luckysheet) - Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.
+- [dream-num/Luckysheet](https://github.com/dream-num/Luckysheet) - Luckysheet upgraded to Univer
 - [DarkThemeHub/GithubDarkTheme](https://github.com/DarkThemeHub/GithubDarkTheme) - Dark Theme for Github
 - [flotwig/the-one-cert](https://github.com/flotwig/the-one-cert) - One cert to rule them all: SSL cert that is valid for any and all domains + all levels of subdomains
 - [slap-editor/slap](https://github.com/slap-editor/slap) - Sublime-like terminal-based text editor
@@ -524,7 +524,7 @@
 - [SomeoneSerge/nixpkgs-cuda-ci](https://github.com/SomeoneSerge/nixpkgs-cuda-ci) - Building and caching nixpkgs with cudaSupport=true. We push to https://cuda-maintainers.cachix.org/
 - [ralismark/nix-appimage](https://github.com/ralismark/nix-appimage) - Convert a nixos derivation into a self-contained binary
 - [considerate/nixos-odroidhc4](https://github.com/considerate/nixos-odroidhc4) - NixOS configuration for the ODROID HC4 microcomputer
-- [dali99/nixos-matrix-modules](https://github.com/dali99/nixos-matrix-modules) - NixOS modules for matrix related services
+- [D4ndellion/nixos-matrix-modules](https://github.com/D4ndellion/nixos-matrix-modules) - NixOS modules for matrix related services
 - [nixified-ai/flake](https://github.com/nixified-ai/flake) - A Nix flake for many AI projects
 - [gbtb/nix-stable-diffusion](https://github.com/gbtb/nix-stable-diffusion) - Flake for running SD on NixOS
 - [NickCao/nixos-riscv](https://github.com/NickCao/nixos-riscv) - 
@@ -965,6 +965,7 @@
 
 ## TypeScript 
 
+- [windingwind/zotero-better-notes](https://github.com/windingwind/zotero-better-notes) - Everything about note management. All in Zotero.
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [massifrg/pundok-editor](https://github.com/massifrg/pundok-editor) - A visual editor for Pandoc AST documents.
 - [tale/headplane](https://github.com/tale/headplane) - A feature-complete Web UI for Headscale
