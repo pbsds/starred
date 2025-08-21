@@ -57,6 +57,7 @@
 - [Typst](#typst)
 - [Vala](#vala)
 - [Verilog](#verilog)
+- [YAML](#yaml)
 - [Zig](#zig)
 
 ## Adblock Filter List 
@@ -117,6 +118,7 @@
 - [cage-kiosk/cage](https://github.com/cage-kiosk/cage) - A Wayland kiosk
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [skullchap/chadstr](https://github.com/skullchap/chadstr) - Chad Strings - The Chad way to handle strings in C.
+- [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
 - [leahneukirchen/nq](https://github.com/leahneukirchen/nq) - Unix command line queue utility
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
@@ -294,7 +296,6 @@
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
-- [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
 - [hashicorp/hcl](https://github.com/hashicorp/hcl) - HCL is the HashiCorp configuration language.
 - [tenox7/wrp](https://github.com/tenox7/wrp) - Web Rendering Proxy: Use vintage, historical, legacy browsers on modern web
@@ -611,7 +612,7 @@
 - [hmiladhia/lazyimports](https://github.com/hmiladhia/lazyimports) - A module to enable lazy imports using native python syntax
 - [NVIDIA/warp](https://github.com/NVIDIA/warp) - A Python framework for accelerated simulation, data generation and spatial computing.
 - [t184256/nixpkgs-python-importer](https://github.com/t184256/nixpkgs-python-importer) - Violate Nix philosophy, install Python packages mid-session with `from nixpkgs.scipy import scipy`.
-- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. All in a modern, AI-native editor.
+- [marimo-team/marimo](https://github.com/marimo-team/marimo) - Transform data, train models, and run SQL with marimo — feels like a next-gen reactive notebook, stored as Git-friendly Python. Deploy as scripts, pipelines, endpoints, and apps. All from an AI-native
 - [jiffyclub/snakeviz](https://github.com/jiffyclub/snakeviz) - An in-browser Python profile viewer
 - [baverman/flameprof](https://github.com/baverman/flameprof) - Flamegraph generator for cProfile stats
 - [rcmalli/lightning-maml](https://github.com/rcmalli/lightning-maml) - MAML Implementation using Pytorch-lightning
@@ -782,7 +783,6 @@
 - [cberner/redb](https://github.com/cberner/redb) - An embedded key-value database in pure Rust
 - [mufeedvh/pdfrip](https://github.com/mufeedvh/pdfrip) - A multi-threaded PDF password cracking utility equipped with commonly encountered password format builders and dictionary attacks.
 - [Rust-GPU/Rust-CUDA](https://github.com/Rust-GPU/Rust-CUDA) - Ecosystem of libraries and tools for writing and executing fast GPU code fully in Rust.
-- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [oxalica/nil](https://github.com/oxalica/nil) - NIx Language server, an incremental analysis assistant for writing in Nix.
 - [prjunnamed/prjunnamed](https://github.com/prjunnamed/prjunnamed) - End-to-end synthesis and P&R toolchain
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) - :stars: Manage your shell commands.
@@ -997,6 +997,10 @@
 
 - [smunaut/iCE40linux](https://github.com/smunaut/iCE40linux) - Gateware / Firmware / BuildRoot to run linux on iCE40 / iCEBreaker
 - [dan-rodrigues/icestation-32](https://github.com/dan-rodrigues/icestation-32) - Compact FPGA game console
+
+## YAML 
+
+- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 
 ## Zig 
 
