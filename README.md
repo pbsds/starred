@@ -57,7 +57,6 @@
 - [Typst](#typst)
 - [Vala](#vala)
 - [Verilog](#verilog)
-- [YAML](#yaml)
 - [Zig](#zig)
 
 ## Adblock Filter List 
@@ -783,6 +782,7 @@
 - [cberner/redb](https://github.com/cberner/redb) - An embedded key-value database in pure Rust
 - [mufeedvh/pdfrip](https://github.com/mufeedvh/pdfrip) - A multi-threaded PDF password cracking utility equipped with commonly encountered password format builders and dictionary attacks.
 - [Rust-GPU/Rust-CUDA](https://github.com/Rust-GPU/Rust-CUDA) - Ecosystem of libraries and tools for writing and executing fast GPU code fully in Rust.
+- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [oxalica/nil](https://github.com/oxalica/nil) - NIx Language server, an incremental analysis assistant for writing in Nix.
 - [prjunnamed/prjunnamed](https://github.com/prjunnamed/prjunnamed) - End-to-end synthesis and P&R toolchain
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) - :stars: Manage your shell commands.
@@ -997,10 +997,6 @@
 
 - [smunaut/iCE40linux](https://github.com/smunaut/iCE40linux) - Gateware / Firmware / BuildRoot to run linux on iCE40 / iCEBreaker
 - [dan-rodrigues/icestation-32](https://github.com/dan-rodrigues/icestation-32) - Compact FPGA game console
-
-## YAML 
-
-- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 
 ## Zig 
 
