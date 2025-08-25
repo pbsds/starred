@@ -770,6 +770,7 @@
 
 ## Rust 
 
+- [km-clay/nixos-wizard](https://github.com/km-clay/nixos-wizard) - A TUI installer for NixOS
 - [mrVanDalo/nixos-healthchecks](https://github.com/mrVanDalo/nixos-healthchecks) - Write health checks as NixOS options to quickly verify if your services are properly running.
 - [Amanse/game-rs](https://github.com/Amanse/game-rs) - A cli game launcher for linux
 - [helsinki-systems/hydra-queue-runner](https://github.com/helsinki-systems/hydra-queue-runner) - Hydra queue runner rewrite
