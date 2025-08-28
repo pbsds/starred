@@ -458,7 +458,7 @@
 - [nix-community/nixdoc](https://github.com/nix-community/nixdoc) - Tool to generate documentation for Nix library functions [maintainer=@infinisil]
 - [Jovian-Experiments/Jovian-NixOS](https://github.com/Jovian-Experiments/Jovian-NixOS) - Discussions: https://matrix.to/#/#Jovian-Experiments:matrix.org
 - [feel-co/hjem](https://github.com/feel-co/hjem) - Streamlined, elegant $HOME management with Nix
-- [adisbladis/zephyr-nix](https://github.com/adisbladis/zephyr-nix) - Develop Zephyr projects using Nix [maintainer=@adisbladis]
+- [nix-community/zephyr-nix](https://github.com/nix-community/zephyr-nix) - Develop Zephyr projects using Nix [maintainer=@adisbladis,@otavio]
 - [kamadorueda/nixel](https://github.com/kamadorueda/nixel) - Parser for the Nix Expressions Language
 - [infinisil/treewide-nixpkgs-reformat-script](https://github.com/infinisil/treewide-nixpkgs-reformat-script) - Script to format nixpkgs treewide and verify the result
 - [NuschtOS/dn42.nix](https://github.com/NuschtOS/dn42.nix) - 
