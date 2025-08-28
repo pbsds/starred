@@ -1112,7 +1112,7 @@
 - [baverman/flameprof](https://github.com/baverman/flameprof) - Flamegraph generator for cProfile stats
 - [shader-slang/slang](https://github.com/shader-slang/slang) - Making it easier to work with shaders
 - [feel-co/hjem](https://github.com/feel-co/hjem) - Streamlined, elegant $HOME management with Nix
-- [adisbladis/zephyr-nix](https://github.com/adisbladis/zephyr-nix) - Develop Zephyr projects using Nix [maintainer=@adisbladis]
+- [nix-community/zephyr-nix](https://github.com/nix-community/zephyr-nix) - Develop Zephyr projects using Nix [maintainer=@adisbladis,@otavio]
 - [samueldr/lix-gha-installer-action](https://github.com/samueldr/lix-gha-installer-action) - 
 - [kamadorueda/nixel](https://github.com/kamadorueda/nixel) - Parser for the Nix Expressions Language
 - [msys2/MINGW-packages](https://github.com/msys2/MINGW-packages) - Package scripts for MinGW-w64 targets to build under MSYS2.
@@ -1527,7 +1527,6 @@
 
 ## php 
 
-- [loophp/nix-php-composer-builder](https://github.com/loophp/nix-php-composer-builder) - A PHP builder for Composer based projects
 - [ssddanbrown/rss](https://github.com/ssddanbrown/rss) - PROJECT MIGRATED TO CODEBERG -- A simple twitter-feed-style RSS aggregator written in PHP, Laravel, Inertia.js, Tailwind and Vue.js
 - [comby-tools/comby](https://github.com/comby-tools/comby) - A code rewrite tool for structural search and replace that supports ~every language.
 - [afterlogic/webmail-lite-8](https://github.com/afterlogic/webmail-lite-8) - Open-source webmail script for existing IMAP server
