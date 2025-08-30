@@ -957,6 +957,7 @@
 
 ## TeX 
 
+- [pgf-tikz/pgf](https://github.com/pgf-tikz/pgf) - A Portable Graphic Format for TeX
 - [Atemu/nix-fuck-up-assessment-form](https://github.com/Atemu/nix-fuck-up-assessment-form) - To be filled by anyone who fucks up using Nix.
 - [j-jith/pandoc-elsevier-template](https://github.com/j-jith/pandoc-elsevier-template) - :page_with_curl: Pandoc template for papers in Elsevier journals
 - [vdumoulin/conv_arithmetic](https://github.com/vdumoulin/conv_arithmetic) - A technical report on convolution arithmetic in the context of deep learning
