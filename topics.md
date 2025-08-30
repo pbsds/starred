@@ -860,6 +860,7 @@
 
 ## latex 
 
+- [pgf-tikz/pgf](https://github.com/pgf-tikz/pgf) - A Portable Graphic Format for TeX
 - [mitex-rs/mitex](https://github.com/mitex-rs/mitex) - LaTeX support for Typst, powered by Rust and WASM. https://mitex-rs.github.io/mitex/
 - [Vindaar/LatexDSL](https://github.com/Vindaar/LatexDSL) - A mini DSL to generate LaTeX from Nim
 - [randombenj/modern-latex-theme](https://github.com/randombenj/modern-latex-theme) - A simple and modern LaTeX theme which can be used with pandoc
@@ -1219,7 +1220,6 @@
 - [nixcon/nixcon-proposals](https://github.com/nixcon/nixcon-proposals) - Anything that has to do with NixCon and proposals, e.g. venue proposals, sponsorship proposals, etc.
 - [bluskript/nix-inspect](https://github.com/bluskript/nix-inspect) - Interactive tui for inspecting nix configs
 - [tweag/genealogos](https://github.com/tweag/genealogos) - Genealogos, a Nix sbom generator
-- [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 - [tweag/python-nix](https://github.com/tweag/python-nix) - Python-Nix FFI library using the new C API
 - [OrionReed/dom3d](https://github.com/OrionReed/dom3d) - Browser extension to view and debug the DOM in 3D space.
 - [h7x4/maunium-stickerpicker-nix](https://github.com/h7x4/maunium-stickerpicker-nix) - Nix wrapper for maunium/stickerpicker
@@ -1656,6 +1656,7 @@
 
 ## qt 
 
+- [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 - [mapeditor/tiled](https://github.com/mapeditor/tiled) - Flexible level editor
 
 ## raspberry-pi 
