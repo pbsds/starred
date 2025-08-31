@@ -977,7 +977,7 @@
 - [GRA0007/crab.fit](https://github.com/GRA0007/crab.fit) - Enter your availability to find a time that works for everyone!
 - [qwell/bsky-exploits](https://github.com/qwell/bsky-exploits) - Bluesky / AT Protocol vulnerability disclosures and exploit framework
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
-- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 A completely free and open interplanetary microblogging platform 🚀
+- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 A completely free and open interplanetary-microblogging platform 🚀
 - [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) - Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
 - [gTile/gTile](https://github.com/gTile/gTile) - A window tiling extension for Gnome.
 - [tomayac/joy-con-webhid](https://github.com/tomayac/joy-con-webhid) - Use the Nintendo Switch Joy-Cons via the WebHID API
