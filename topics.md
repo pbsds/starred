@@ -174,6 +174,7 @@
 
 ## 3d 
 
+- [naver/roma](https://github.com/naver/roma) - RoMa: A lightweight library to deal with 3D rotations in PyTorch.
 - [nerfstudio-project/nerfstudio](https://github.com/nerfstudio-project/nerfstudio) - A collaboration friendly studio for NeRFs
 - [curv3d/curv](https://github.com/curv3d/curv) - a language for making art using mathematics
 - [matrix-org/thirdroom](https://github.com/matrix-org/thirdroom) - Open, decentralised, immersive worlds built on Matrix
@@ -1648,6 +1649,7 @@
 
 ## pytorch 
 
+- [naver/roma](https://github.com/naver/roma) - RoMa: A lightweight library to deal with 3D rotations in PyTorch.
 - [rcmalli/lightning-maml](https://github.com/rcmalli/lightning-maml) - MAML Implementation using Pytorch-lightning
 - [nerfstudio-project/nerfstudio](https://github.com/nerfstudio-project/nerfstudio) - A collaboration friendly studio for NeRFs
 - [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning and machine learning models
