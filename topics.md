@@ -50,6 +50,7 @@
 - [devops](#devops)
 - [docker](#docker)
 - [documentation](#documentation)
+- [dotfiles](#dotfiles)
 - [dotnet](#dotnet)
 - [education](#education)
 - [electron](#electron)
@@ -526,6 +527,10 @@
 - [mitmproxy/pdoc](https://github.com/mitmproxy/pdoc) - API Documentation for Python Projects
 - [timothycrosley/portray](https://github.com/timothycrosley/portray) - Your Project with Great Documentation.
 
+## dotfiles 
+
+- [snugnug/hjem-rum](https://github.com/snugnug/hjem-rum) - A module collection for Hjem. [Maintainers=@Lunarnovaa, @nezia1]
+
 ## dotnet 
 
 - [FractalFir/rustc_codegen_clr](https://github.com/FractalFir/rustc_codegen_clr) - A Rust compiler backend targeting CIL(.NET IR) and C.
@@ -882,6 +887,7 @@
 
 ## linux 
 
+- [snugnug/hjem-rum](https://github.com/snugnug/hjem-rum) - A module collection for Hjem. [Maintainers=@Lunarnovaa, @nezia1]
 - [VHSgunzo/runimage](https://github.com/VHSgunzo/runimage) - Portable single-file linux container
 - [b3nj5m1n/xdg-ninja](https://github.com/b3nj5m1n/xdg-ninja) - A shell script which checks your $HOME for unwanted files and directories.
 - [pvolok/mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel
@@ -1069,6 +1075,7 @@
 
 ## others 
 
+- [martinmullins/mesa-softpipe-emscripten](https://github.com/martinmullins/mesa-softpipe-emscripten) - Mesa softpipe build that runs in the web
 - [km-clay/nixos-wizard](https://github.com/km-clay/nixos-wizard) - A TUI installer for NixOS
 - [azahar-emu/ArticBaseServer](https://github.com/azahar-emu/ArticBaseServer) - 3DS Game Broadcaster
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
