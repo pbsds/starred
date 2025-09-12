@@ -321,6 +321,7 @@
 
 ## cli 
 
+- [hoh/nix-manipulator](https://github.com/hoh/nix-manipulator) - Parse, manipulate, and reconstruct Nix source code with high-level abstractions.
 - [pvolok/mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel
 - [a-kenji/flake-edit](https://github.com/a-kenji/flake-edit) - Edit your flake inputs with ease.
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
@@ -1082,6 +1083,7 @@
 
 ## others 
 
+- [oddlama/nix-fingerprint](https://github.com/oddlama/nix-fingerprint) - Fingerprints the underlying system by only using primitives available in pure evaluation mode
 - [aanderse/finix](https://github.com/aanderse/finix) - An experimental os, featuring finit as pid 1, to explore the NixOS design space
 - [TyberiusPrime/uv2nix_hammer_overrides](https://github.com/TyberiusPrime/uv2nix_hammer_overrides) - Override collection for uv2nix
 - [Mic92/nix-diff-rs](https://github.com/Mic92/nix-diff-rs) - A Rust port of nix-diff, a tool to explain why two Nix derivations differ.
@@ -1593,6 +1595,7 @@
 
 ## python 
 
+- [hoh/nix-manipulator](https://github.com/hoh/nix-manipulator) - Parse, manipulate, and reconstruct Nix source code with high-level abstractions.
 - [moderngl/moderngl](https://github.com/moderngl/moderngl) - Modern OpenGL binding for Python
 - [NVIDIA/warp](https://github.com/NVIDIA/warp) - A Python framework for accelerated simulation, data generation and spatial computing.
 - [t184256/nixpkgs-python-importer](https://github.com/t184256/nixpkgs-python-importer) - Violate Nix philosophy, install Python packages mid-session with `from nixpkgs.scipy import scipy`.
