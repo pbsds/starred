@@ -598,6 +598,7 @@
 
 ## game 
 
+- [nix-community/steam-fetcher](https://github.com/nix-community/steam-fetcher) - A Nix fetcher for Steam apps
 - [glumpy/glumpy](https://github.com/glumpy/glumpy) - Python+Numpy+OpenGL: fast, scalable and beautiful scientific visualization
 - [dan-rodrigues/icestation-32](https://github.com/dan-rodrigues/icestation-32) - Compact FPGA game console
 - [mapeditor/tiled](https://github.com/mapeditor/tiled) - Flexible level editor
