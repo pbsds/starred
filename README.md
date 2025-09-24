@@ -454,7 +454,7 @@
 
 - [nix-community/steam-fetcher](https://github.com/nix-community/steam-fetcher) - A Nix fetcher for Steam apps
 - [oddlama/nix-fingerprint](https://github.com/oddlama/nix-fingerprint) - Fingerprints the underlying system by only using primitives available in pure evaluation mode
-- [aanderse/finix](https://github.com/aanderse/finix) - An experimental os, featuring finit as pid 1, to explore the NixOS design space
+- [finix-community/finix](https://github.com/finix-community/finix) - An experimental os, featuring finit as pid 1, to explore the NixOS design space
 - [nix-community/nix-on-droid](https://github.com/nix-community/nix-on-droid) - Nix-enabled environment for your Android device. [maintainers=@t184256,@Gerschtli]
 - [TyberiusPrime/uv2nix_hammer_overrides](https://github.com/TyberiusPrime/uv2nix_hammer_overrides) - Override collection for uv2nix
 - [gmodena/nix-flatpak](https://github.com/gmodena/nix-flatpak) - Install flatpaks declaratively
