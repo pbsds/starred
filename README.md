@@ -393,7 +393,7 @@
 - [joaomilho/Enterprise](https://github.com/joaomilho/Enterprise) - 🦄 The Enterprise™ programming language
 - [jezen/is-thirteen](https://github.com/jezen/is-thirteen) - Check if a number is equal to 13.
 - [kovidgoyal/rapydscript-ng](https://github.com/kovidgoyal/rapydscript-ng) - A transpiler for a Python like language to JavaScript
-- [jaames/flipnote-player](https://github.com/jaames/flipnote-player) - 🎬 Web player and video converter for animations made with Flipnote Studio; an animation app for the Nintendo DSi and 3DS
+- [jaames/flipnote-player](https://github.com/jaames/flipnote-player) - 🎬 Web-based player and video converter for animation files created with Nintendo's Flipnote Studio and Flipnote Studio 3D apps
 - [aemkei/jsfuck](https://github.com/aemkei/jsfuck) - Write any JavaScript with 6 Characters: []()!+
 - [lindell/DISCO](https://github.com/lindell/DISCO) - The most annoying website?
 - [jornane/node-snip](https://github.com/jornane/node-snip) - SNI Proxy implemented in Node.JS
@@ -995,7 +995,7 @@
 - [tomayac/joy-con-webhid](https://github.com/tomayac/joy-con-webhid) - Use the Nintendo Switch Joy-Cons via the WebHID API
 - [mjswensen/themer](https://github.com/mjswensen/themer) - 🎨 themer takes a set of colors and outputs themes for your apps (editors, terminals, wallpapers, and more).
 - [akveo/eva-icons](https://github.com/akveo/eva-icons) - A pack of more than 480 beautifully crafted Open Source icons. SVG, Sketch, Web Font and Animations support.
-- [jaames/flipnote.js](https://github.com/jaames/flipnote.js) - JS library for decoding, converting, and in-browser playback of animations created with Nintendo's Flipnote Studio and Flipnote Studio 3D apps
+- [jaames/flipnote.js](https://github.com/jaames/flipnote.js) - JavaScript library for decoding, converting, and in-browser playback of animations created with Nintendo's Flipnote Studio and Flipnote Studio 3D apps
 
 ## Typst 
 
