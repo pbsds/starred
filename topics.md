@@ -1510,13 +1510,13 @@
 - [munificent/vigil](https://github.com/munificent/vigil) - Vigil, the eternal morally vigilant programming language
 - [tmate-io/tmate](https://github.com/tmate-io/tmate) - Instant Terminal Sharing
 - [floooh/sokol](https://github.com/floooh/sokol) - minimal cross-platform standalone C headers
-- [jaames/flipnote.js](https://github.com/jaames/flipnote.js) - JS library for decoding, converting, and in-browser playback of animations created with Nintendo's Flipnote Studio and Flipnote Studio 3D apps
+- [jaames/flipnote.js](https://github.com/jaames/flipnote.js) - JavaScript library for decoding, converting, and in-browser playback of animations created with Nintendo's Flipnote Studio and Flipnote Studio 3D apps
 - [rlittlefield/pypaseto](https://github.com/rlittlefield/pypaseto) - PASETO for Python
 - [shinh/elvm](https://github.com/shinh/elvm) - EsoLangVM Compiler Infrastructure
 - [tbarnetlamb/hyphen](https://github.com/tbarnetlamb/hyphen) - hyphen - access Haskell modules from Python
 - [noahc3/SDSetup](https://github.com/noahc3/SDSetup) - The Ninite for your Nintendo Switch.
 - [jezen/is-thirteen](https://github.com/jezen/is-thirteen) - Check if a number is equal to 13.
-- [jaames/flipnote-player](https://github.com/jaames/flipnote-player) - 🎬 Web player and video converter for animations made with Flipnote Studio; an animation app for the Nintendo DSi and 3DS
+- [jaames/flipnote-player](https://github.com/jaames/flipnote-player) - 🎬 Web-based player and video converter for animation files created with Nintendo's Flipnote Studio and Flipnote Studio 3D apps
 - [EGG-electric-unicycle/documentation](https://github.com/EGG-electric-unicycle/documentation) - 
 - [fyrkat/ssp-theme](https://github.com/fyrkat/ssp-theme) - fyrkat theme for SimpleSamlPhp
 - [tbenthompson/cppimport](https://github.com/tbenthompson/cppimport) - Import C++ files directly from Python!
@@ -1751,7 +1751,7 @@
 - [ipetkov/crane](https://github.com/ipetkov/crane) - A Nix library for building cargo projects. Never build twice thanks to incremental artifact caching.
 - [squidowl/halloy](https://github.com/squidowl/halloy) - IRC application written in Rust
 - [nix-community/lanzaboote](https://github.com/nix-community/lanzaboote) - Secure Boot for NixOS [maintainers=@blitz @raitobezarius @nikstur]
-- [nix-community/fenix](https://github.com/nix-community/fenix) - Rust toolchains and rust-analyzer nightly for Nix [maintainers=@figsoda, @winterqt]
+- [nix-community/fenix](https://github.com/nix-community/fenix) - Rust toolchains and rust-analyzer nightly for Nix [maintainers=@figsoda, @winterqt, @eureka-cpu]
 - [nix-community/rnix-parser](https://github.com/nix-community/rnix-parser) - A Nix parser written in Rust [maintainer=@oberblastmeister]
 - [zlfn/rust-gb](https://github.com/zlfn/rust-gb) - Compile Rust code to GBZ80 (Gameboy Z80)
 - [pvolok/mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel
