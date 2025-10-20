@@ -1103,6 +1103,7 @@
 
 ## others 
 
+- [nix-community/nixpkgs-swh](https://github.com/nix-community/nixpkgs-swh) - Send nixpkgs tarballs to Software Heritage [maintainer=@nlewo]
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
 - [josefbacik/systing](https://github.com/josefbacik/systing) - A libbpf based tracer to help figure out what an application is doing.
 - [clan-lol/nix-select](https://github.com/clan-lol/nix-select) - 
