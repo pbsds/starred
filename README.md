@@ -452,6 +452,7 @@
 
 ## Nix 
 
+- [nix-community/nixpkgs-swh](https://github.com/nix-community/nixpkgs-swh) - Send nixpkgs tarballs to Software Heritage [maintainer=@nlewo]
 - [clan-lol/nix-select](https://github.com/clan-lol/nix-select) - 
 - [nix-community/steam-fetcher](https://github.com/nix-community/steam-fetcher) - A Nix fetcher for Steam apps
 - [oddlama/nix-fingerprint](https://github.com/oddlama/nix-fingerprint) - Fingerprints the underlying system by only using primitives available in pure evaluation mode
