@@ -66,6 +66,7 @@
 - [game-development](#game-development)
 - [game-engine](#game-engine)
 - [gamedev](#gamedev)
+- [gamemaker](#gamemaker)
 - [games](#games)
 - [gaming](#gaming)
 - [git](#git)
@@ -572,6 +573,7 @@
 
 ## emulator 
 
+- [OpenGMK/OpenGMK](https://github.com/OpenGMK/OpenGMK) - A rewrite of the GameMaker Classic engine runners with additional tooling
 - [ptitSeb/box64](https://github.com/ptitSeb/box64) - Box64 - Linux Userspace x86_64 Emulator with a twist, targeted at ARM64, RV64 and LoongArch Linux devices
 - [cemu-project/Cemu](https://github.com/cemu-project/Cemu) - Cemu - Wii U emulator
 - [oldweb-today/oldweb-today](https://github.com/oldweb-today/oldweb-today) - Browse emulated browsers connected to old web sites in your browser!
@@ -630,6 +632,7 @@
 
 ## game-engine 
 
+- [OpenGMK/OpenGMK](https://github.com/OpenGMK/OpenGMK) - A rewrite of the GameMaker Classic engine runners with additional tooling
 - [GValiente/butano](https://github.com/GValiente/butano) - Modern C++ high level GBA engine
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
@@ -645,6 +648,10 @@
 - [mxgmn/WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) - Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics
 - [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen.
 - [game-icons/icons](https://github.com/game-icons/icons) - All SVG icons available on https://game-icons.net
+
+## gamemaker 
+
+- [OpenGMK/OpenGMK](https://github.com/OpenGMK/OpenGMK) - A rewrite of the GameMaker Classic engine runners with additional tooling
 
 ## games 
 
@@ -1173,7 +1180,7 @@
 - [kwea123/Coordinate-MLPs](https://github.com/kwea123/Coordinate-MLPs) - Experiments of coordinate MLPs
 - [non-ai-licenses/non-ai-licenses](https://github.com/non-ai-licenses/non-ai-licenses) - This repository contains software licenses that restrict software from being used in AI training datasets or AI technologies.
 - [NuschtOS/dn42.nix](https://github.com/NuschtOS/dn42.nix) - 
-- [0x5a4/nix-easyroam](https://github.com/0x5a4/nix-easyroam) - A NixOS Module for setting up easyroam
+- [einetuer/nix-easyroam](https://github.com/einetuer/nix-easyroam) - A NixOS Module for setting up easyroam
 - [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal.
 - [mrjones2014/opnix](https://github.com/mrjones2014/opnix) - ❄️ Native secret management for NixOS using 1Password.
 - [tekumara/typos-lsp](https://github.com/tekumara/typos-lsp) - Source code spell checker for Visual Studio Code, Neovim and other LSP clients
