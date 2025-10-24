@@ -1110,6 +1110,7 @@
 
 ## others 
 
+- [joouha/modshim](https://github.com/joouha/modshim) - Override and customize Python packages without touching their code
 - [nix-community/nixpkgs-swh](https://github.com/nix-community/nixpkgs-swh) - Send nixpkgs tarballs to Software Heritage [maintainer=@nlewo]
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
 - [josefbacik/systing](https://github.com/josefbacik/systing) - A libbpf based tracer to help figure out what an application is doing.
