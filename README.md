@@ -155,6 +155,7 @@
 
 ## C++ 
 
+- [shader-slang/slang-torch](https://github.com/shader-slang/slang-torch) - A Python package for calling Slang modules from PyTorch.
 - [hudson-trading/slang-server](https://github.com/hudson-trading/slang-server) - A SystemVerilog language server based on the Slang library.
 - [deskflow/deskflow](https://github.com/deskflow/deskflow) - Share a single keyboard and mouse between multiple computers.
 - [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive, portable, and performant GPU programming in Python.
@@ -614,6 +615,7 @@
 
 ## Python 
 
+- [alexmojaki/pure_eval](https://github.com/alexmojaki/pure_eval) - Safely evaluate AST nodes without side effects
 - [joouha/modshim](https://github.com/joouha/modshim) - Override and customize Python packages without touching their code
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
 - [hoh/nix-manipulator](https://github.com/hoh/nix-manipulator) - Parse, manipulate, and reconstruct Nix source code with high-level abstractions.
