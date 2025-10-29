@@ -1110,6 +1110,10 @@
 
 ## others 
 
+- [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) - NixOS on WSL [maintainer=@nzbr]
+- [oliverbyte/beamcommander](https://github.com/oliverbyte/beamcommander) - Create stunning lasershows - 3D preview / control via MIDI / OSC
+- [shader-slang/slang-torch](https://github.com/shader-slang/slang-torch) - A Python package for calling Slang modules from PyTorch.
+- [alexmojaki/pure_eval](https://github.com/alexmojaki/pure_eval) - Safely evaluate AST nodes without side effects
 - [joouha/modshim](https://github.com/joouha/modshim) - Override and customize Python packages without touching their code
 - [nix-community/nixpkgs-swh](https://github.com/nix-community/nixpkgs-swh) - Send nixpkgs tarballs to Software Heritage [maintainer=@nlewo]
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
