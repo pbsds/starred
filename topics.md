@@ -1256,7 +1256,7 @@
 - [Ferase/PPMTools](https://github.com/Ferase/PPMTools) - A PPM parser module for Python 3. This is a rewrite of the PPM parser from Hatenatools, which was made for Python 2 (https://github.com/pbsds/Hatenatools)
 - [yusefnapora/native-access-nix](https://github.com/yusefnapora/native-access-nix) - A nixy way to install Native Instruments plugins using wine
 - [cachix/git-hooks.nix](https://github.com/cachix/git-hooks.nix) - Seamless integration of https://pre-commit.com git hooks with Nix.
-- [ethersync/ethersync](https://github.com/ethersync/ethersync) - Peer-to-peer, editor-agnostic collaborative editing of local text files.
+- [teamtype/teamtype](https://github.com/teamtype/teamtype) - Peer-to-peer, editor-agnostic collaborative editing of local text files.
 - [red-prig/fpPS4](https://github.com/red-prig/fpPS4) - PS4 compatibility layer (emulator) on Free Pascal
 - [nix-community/nixos-facter](https://github.com/nix-community/nixos-facter) - Declarative hardware configuration for NixOS [maintainer=@brianmcgee,@Mic92]
 - [freuk/awesome-nix-hpc](https://github.com/freuk/awesome-nix-hpc) - high performance computing related nix resources
