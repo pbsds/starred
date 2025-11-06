@@ -183,6 +183,7 @@
 
 ## 3d 
 
+- [fraunhoferhhi/Self-Organizing-Gaussians](https://github.com/fraunhoferhhi/Self-Organizing-Gaussians) - [ECCV '24] Compressing 3D Gaussian Splats by placing their parameters into a 2D grid with local smoothness
 - [naver/roma](https://github.com/naver/roma) - RoMa: A lightweight library to deal with 3D rotations in PyTorch.
 - [nerfstudio-project/nerfstudio](https://github.com/nerfstudio-project/nerfstudio) - A collaboration friendly studio for NeRFs
 - [curv3d/curv](https://github.com/curv3d/curv) - a language for making art using mathematics
@@ -1110,6 +1111,8 @@
 
 ## others 
 
+- [garnix-io/yensid](https://github.com/garnix-io/yensid) - A proxy for better Nix remote builds
+- [sparkjsdev/spark](https://github.com/sparkjsdev/spark) - :sparkles:  An advanced 3D Gaussian Splatting renderer for THREE.js
 - [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) - NixOS on WSL [maintainer=@nzbr]
 - [oliverbyte/beamcommander](https://github.com/oliverbyte/beamcommander) - Create stunning lasershows - 3D preview / control via MIDI / OSC
 - [shader-slang/slang-torch](https://github.com/shader-slang/slang-torch) - A Python package for calling Slang modules from PyTorch.
@@ -1762,6 +1765,7 @@
 
 ## rust 
 
+- [KillingSpark/rustysd](https://github.com/KillingSpark/rustysd) - A service manager that is able to run "traditional" systemd services, written in rust
 - [agbrs/agb](https://github.com/agbrs/agb) - Library for writing Game Boy Advance games in Rust
 - [0xbolt/wypst](https://github.com/0xbolt/wypst) - Typst math typesetting for the web.
 - [cberner/redb](https://github.com/cberner/redb) - An embedded key-value database in pure Rust
