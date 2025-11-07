@@ -568,7 +568,6 @@
 - [RinLovesYou/Flipnote-Encoder](https://github.com/RinLovesYou/Flipnote-Encoder) - The Cross-Platform Flipnote Encoder and Signer written in .NET! Available for Windows, Linux and OsX
 - [FuriLabs/issue-tracker](https://github.com/FuriLabs/issue-tracker) - FuriOS issue tracker
 - [non-ai-licenses/non-ai-licenses](https://github.com/non-ai-licenses/non-ai-licenses) - This repository contains software licenses that restrict software from being used in AI training datasets or AI technologies.
-- [valpackett/awesome-gtk](https://github.com/valpackett/awesome-gtk) - List of awesome GTK (3/4) applications
 - [ldo/dbussy](https://github.com/ldo/dbussy) - Python binding for D-Bus using asyncio
 - [robtaylor/amaranth-awesome](https://github.com/robtaylor/amaranth-awesome) - Awesome projects using the Amaranth HDL
 - [KenneyNL/Adobe-Alternatives](https://github.com/KenneyNL/Adobe-Alternatives) - A list of alternatives for Adobe software
@@ -642,6 +641,7 @@
 - [nix-community/buildbot-nix](https://github.com/nix-community/buildbot-nix) - A nixos module to make buildbot a proper Nix-CI [maintainer=@Mic92,@MagicRB]
 - [omnilib/aioitertools](https://github.com/omnilib/aioitertools) - itertools and builtins for AsyncIO and mixed iterables
 - [NixOS/nix-security-tracker](https://github.com/NixOS/nix-security-tracker) - Web service for managing information on vulnerabilities in software distributed through Nixpkgs
+- [valpackett/awesome-gtk](https://github.com/valpackett/awesome-gtk) - List of awesome GTK (3/4) applications
 - [SatyrDiamond/DawVert](https://github.com/SatyrDiamond/DawVert) - DawVert - The DAW ConVERTer
 - [nbQA-dev/nbQA](https://github.com/nbQA-dev/nbQA) - Run ruff, isort, pyupgrade, mypy, pylint, flake8, and more on Jupyter Notebooks
 - [nix-community/vulnix](https://github.com/nix-community/vulnix) - Vulnerability (CVE) scanner for Nix/NixOS [maintainer=@henrirosten]
