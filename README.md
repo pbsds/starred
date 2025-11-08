@@ -454,6 +454,7 @@
 
 ## Nix 
 
+- [nix-community/queued-build-hook](https://github.com/nix-community/queued-build-hook) - Queue and retry Nix post-build-hook [maintainer=@jfroche]
 - [garnix-io/yensid](https://github.com/garnix-io/yensid) - A proxy for better Nix remote builds
 - [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) - NixOS on WSL [maintainer=@nzbr]
 - [nix-community/nixpkgs-swh](https://github.com/nix-community/nixpkgs-swh) - Send nixpkgs tarballs to Software Heritage [maintainer=@nlewo]
