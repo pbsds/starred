@@ -837,7 +837,7 @@
 
 ## javascript 
 
-- [arnog/mathlive](https://github.com/arnog/mathlive) - A web component for easy math input
+- [arnog/mathlive](https://github.com/arnog/mathlive) - Web components for math display and input
 - [SVG-Edit/svgedit](https://github.com/SVG-Edit/svgedit) - Powerful SVG-Editor for your browser
 - [pulsar-edit/pulsar](https://github.com/pulsar-edit/pulsar) - A Community-led Hyper-Hackable Text Editor
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
@@ -1954,7 +1954,7 @@
 
 ## typescript 
 
-- [arnog/mathlive](https://github.com/arnog/mathlive) - A web component for easy math input
+- [arnog/mathlive](https://github.com/arnog/mathlive) - Web components for math display and input
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [matrix-org/thirdroom](https://github.com/matrix-org/thirdroom) - Open, decentralised, immersive worlds built on Matrix
 - [comby-tools/comby](https://github.com/comby-tools/comby) - A code rewrite tool for structural search and replace that supports ~every language.
