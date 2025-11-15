@@ -154,6 +154,7 @@
 
 ## C++ 
 
+- [fwilliams/point-cloud-utils](https://github.com/fwilliams/point-cloud-utils) - An easy-to-use Python library for processing and manipulating 3D point clouds and meshes.
 - [oliverbyte/beamcommander](https://github.com/oliverbyte/beamcommander) - Create stunning lasershows - 3D preview / control via MIDI / OSC
 - [shader-slang/slang-torch](https://github.com/shader-slang/slang-torch) - A Python package for calling Slang modules from PyTorch.
 - [hudson-trading/slang-server](https://github.com/hudson-trading/slang-server) - A SystemVerilog language server based on the Slang library.
