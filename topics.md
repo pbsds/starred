@@ -179,6 +179,7 @@
 - [xcode](#xcode)
 - [xml](#xml)
 - [youtube](#youtube)
+- [zig](#zig)
 - [zsh](#zsh)
 
 ## 3d 
@@ -1061,6 +1062,7 @@
 
 ## numpy 
 
+- [fwilliams/point-cloud-utils](https://github.com/fwilliams/point-cloud-utils) - An easy-to-use Python library for processing and manipulating 3D point clouds and meshes.
 - [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning and machine learning models
 - [rougier/scientific-visualization-book](https://github.com/rougier/scientific-visualization-book) - An open access book on scientific visualization using python and matplotlib
 - [glumpy/glumpy](https://github.com/glumpy/glumpy) - Python+Numpy+OpenGL: fast, scalable and beautiful scientific visualization
@@ -1643,6 +1645,7 @@
 
 ## python 
 
+- [fwilliams/point-cloud-utils](https://github.com/fwilliams/point-cloud-utils) - An easy-to-use Python library for processing and manipulating 3D point clouds and meshes.
 - [hoh/nix-manipulator](https://github.com/hoh/nix-manipulator) - Parse, manipulate, and reconstruct Nix source code with high-level abstractions.
 - [moderngl/moderngl](https://github.com/moderngl/moderngl) - Modern OpenGL binding for Python
 - [NVIDIA/warp](https://github.com/NVIDIA/warp) - A Python framework for accelerated simulation, data generation and spatial computing.
@@ -2055,6 +2058,10 @@
 ## youtube 
 
 - [SimonBrazell/privacy-redirect](https://github.com/SimonBrazell/privacy-redirect) - A simple web extension that redirects Twitter, YouTube, Instagram & Google Maps requests to privacy friendly alternatives.
+
+## zig 
+
+- [xyproto/orbiton](https://github.com/xyproto/orbiton) - Snappy and configuration-free little text editor/IDE for the terminal. Suitable for writing git commit messages, editing Markdown, config files, source code, man pages and for quick edit-format-compil
 
 ## zsh 
 
