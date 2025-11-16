@@ -2006,7 +2006,7 @@
 
 ## vpn 
 
-- [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) - The Media Server Nixos Module
+- [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) - The Media Server NixOS Module
 - [freepn/fpnd](https://github.com/freepn/fpnd) - Python package for freepn network daemon
 
 ## vuejs 
