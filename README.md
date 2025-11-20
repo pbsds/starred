@@ -69,6 +69,7 @@
 
 ## C 
 
+- [pocketpy/pocketpy](https://github.com/pocketpy/pocketpy) - Portable Python 3.x Interpreter in Modern C for Game Scripting
 - [azahar-emu/ArticBaseServer](https://github.com/azahar-emu/ArticBaseServer) - 3DS Game Broadcaster
 - [pogocache/pogocache](https://github.com/pogocache/pogocache) - Fast caching software with a focus on low latency and cpu efficiency.
 - [RsyncProject/rsync](https://github.com/RsyncProject/rsync) - An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases.
@@ -566,6 +567,8 @@
 
 ## Others 
 
+- [sebanc/brunch](https://github.com/sebanc/brunch) - Boot ChromeOS on x86_64 PC - Supports Intel CPU/GPU from 8th gen or AMD Ryzen
+- [supechicken/waydroid-androidtv-build](https://github.com/supechicken/waydroid-androidtv-build) - Waydroid Android TV 13 build with built-in VA-API/GApps/Widevine L3 support
 - [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) - Create a 130GB Nix ️store in GitHub runners ❄️ Multi-partition BTRFS RAID-0 for /nix 💪 Brutally purges unnecessary software 🪓 Dynamically grows the Nix store 📈
 - [RinLovesYou/Flipnote-Encoder](https://github.com/RinLovesYou/Flipnote-Encoder) - The Cross-Platform Flipnote Encoder and Signer written in .NET! Available for Windows, Linux and OsX
 - [FuriLabs/issue-tracker](https://github.com/FuriLabs/issue-tracker) - FuriOS issue tracker
@@ -619,6 +622,7 @@
 
 ## Python 
 
+- [casualsnek/waydroid_script](https://github.com/casualsnek/waydroid_script) - Python Script to  add OpenGapps, Magisk, libhoudini translation library and libndk translation library to waydroid !
 - [fraunhoferhhi/Self-Organizing-Gaussians](https://github.com/fraunhoferhhi/Self-Organizing-Gaussians) - [ECCV '24] Compressing 3D Gaussian Splats by placing their parameters into a 2D grid with local smoothness
 - [alexmojaki/pure_eval](https://github.com/alexmojaki/pure_eval) - Safely evaluate AST nodes without side effects
 - [joouha/modshim](https://github.com/joouha/modshim) - Override and customize Python packages without touching their code
@@ -958,7 +962,7 @@
 - [joehillen/sysz](https://github.com/joehillen/sysz) - An fzf  terminal UI for systemctl
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [neagix/wii-linux-ngx](https://github.com/neagix/wii-linux-ngx) - Modern Linux for Wii/GameCube
-- [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
+- [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script ACME client for SSL / TLS certificate automation
 - [marcan/takeover.sh](https://github.com/marcan/takeover.sh) - Wipe and reinstall a running Linux system via SSH, without rebooting. You know you want to.
 - [aurora/rmate](https://github.com/aurora/rmate) - Remote TextMate 2 implemented as shell script
 - [afterlogic/webmail-lite-8](https://github.com/afterlogic/webmail-lite-8) - Open-source webmail script for existing IMAP server
