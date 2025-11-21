@@ -869,7 +869,7 @@
 - [zhaofengli/attic](https://github.com/zhaofengli/attic) - Multi-tenant Nix Binary Cache
 - [DeterminateSystems/magic-nix-cache](https://github.com/DeterminateSystems/magic-nix-cache) - Save 30-50%+ of CI time without any effort or cost. Use Magic Nix Cache, a totally free and zero-configuration binary cache for Nix on GitHub Actions.
 - [szabodanika/microbin](https://github.com/szabodanika/microbin) - A secure, configurable file-sharing and URL shortening web app written in Rust.
-- [rerun-io/rerun](https://github.com/rerun-io/rerun) - Visualize streams of multimodal data. Free, fast, easy to use, and simple to integrate. Built in Rust.
+- [rerun-io/rerun](https://github.com/rerun-io/rerun) - An open source SDK for logging, storing, querying, and visualizing multimodal and multi-rate data
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
@@ -921,6 +921,7 @@
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [Wilfred/bfc](https://github.com/Wilfred/bfc) - An industrial-grade brainfuck compiler
 - [redox-os/tfs](https://github.com/redox-os/tfs) - Mirror of https://gitlab.redox-os.org/redox-os/tfs
+- [redox-os/redox](https://github.com/redox-os/redox) - Mirror of https://gitlab.redox-os.org/redox-os/redox
 
 ## SCSS 
 
@@ -966,7 +967,6 @@
 - [marcan/takeover.sh](https://github.com/marcan/takeover.sh) - Wipe and reinstall a running Linux system via SSH, without rebooting. You know you want to.
 - [aurora/rmate](https://github.com/aurora/rmate) - Remote TextMate 2 implemented as shell script
 - [afterlogic/webmail-lite-8](https://github.com/afterlogic/webmail-lite-8) - Open-source webmail script for existing IMAP server
-- [redox-os/redox](https://github.com/redox-os/redox) - Mirror of https://gitlab.redox-os.org/redox-os/redox
 - [game-icons/icons](https://github.com/game-icons/icons) - All SVG icons available on https://game-icons.net
 - [fyrkat/zfsroot](https://github.com/fyrkat/zfsroot) - 
 - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
