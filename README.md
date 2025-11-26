@@ -155,6 +155,7 @@
 
 ## C++ 
 
+- [OpenStickCommunity/GP2040-CE](https://github.com/OpenStickCommunity/GP2040-CE) - Multi-Platform Gamepad Firmware for Raspberry Pi Pico and other RP2040 boards
 - [adamritter/fastgron](https://github.com/adamritter/fastgron) - High-performance JSON to GRON (greppable, flattened JSON) converter
 - [fwilliams/point-cloud-utils](https://github.com/fwilliams/point-cloud-utils) - An easy-to-use Python library for processing and manipulating 3D point clouds and meshes.
 - [oliverbyte/beamcommander](https://github.com/oliverbyte/beamcommander) - Create stunning lasershows - 3D preview / control via MIDI / OSC
