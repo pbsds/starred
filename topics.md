@@ -27,6 +27,7 @@
 - [cli](#cli)
 - [clojure](#clojure)
 - [cloud](#cloud)
+- [command-line](#command-line)
 - [compiler](#compiler)
 - [computer-science](#computer-science)
 - [computer-vision](#computer-vision)
@@ -369,6 +370,29 @@
 
 - [basings/selfhosted-music-overview](https://github.com/basings/selfhosted-music-overview) - A table listing software network services which can be hosted on your own servers
 - [joaomilho/Enterprise](https://github.com/joaomilho/Enterprise) - 🦄 The Enterprise™ programming language
+
+## command-line 
+
+- [Nukesor/pueue](https://github.com/Nukesor/pueue) - :stars: Manage your shell commands.
+- [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
+- [alexozer/flitter](https://github.com/alexozer/flitter) - A LiveSplit-inspired speedrunning split timer for Linux/macOS terminal. Supports global hotkeys.
+- [xyproto/orbiton](https://github.com/xyproto/orbiton) - Snappy and configuration-free little text editor/IDE for the terminal. Suitable for writing git commit messages, editing Markdown, config files, source code, man pages and for quick edit-format-compil
+- [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
+- [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
+- [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+- [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
+- [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
+- [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+- [sharkdp/hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
+- [berenm/steam-cli](https://github.com/berenm/steam-cli) - Command-line interface to install and execute Steam games
+- [timothycrosley/portray](https://github.com/timothycrosley/portray) - Your Project with Great Documentation.
+- [Titor8115/mandown](https://github.com/Titor8115/mandown) - man-page inspired Markdown viewer
+- [hauntsaninja/pyp](https://github.com/hauntsaninja/pyp) - Easily run Python at the shell! Magical, but never mysterious.
+- [sharkdp/pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors
+- [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
+- [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
+- [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
+- [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
 
 ## compiler 
 
@@ -1134,6 +1158,7 @@
 
 ## others 
 
+- [LNH-team/dspico-hardware](https://github.com/LNH-team/dspico-hardware) - DSpico Hardware (PCB, shell, sticker, boxart)
 - [OpenStickCommunity/GP2040-CE](https://github.com/OpenStickCommunity/GP2040-CE) - Multi-Platform Gamepad Firmware for Raspberry Pi Pico and other RP2040 boards
 - [sebanc/brunch](https://github.com/sebanc/brunch) - Boot ChromeOS on x86_64 PC - Supports Intel CPU/GPU from 8th gen or AMD Ryzen
 - [nix-community/queued-build-hook](https://github.com/nix-community/queued-build-hook) - Queue and retry Nix post-build-hook [maintainer=@jfroche]
