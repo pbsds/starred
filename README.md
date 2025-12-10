@@ -156,6 +156,7 @@
 
 ## C++ 
 
+- [lisanna-dettwyler/nix-scheduler-hook](https://github.com/lisanna-dettwyler/nix-scheduler-hook) - Nix build hook that forwards remote builds to job schedulers.
 - [OpenStickCommunity/GP2040-CE](https://github.com/OpenStickCommunity/GP2040-CE) - Multi-Platform Gamepad Firmware for Raspberry Pi Pico and other RP2040 boards
 - [adamritter/fastgron](https://github.com/adamritter/fastgron) - High-performance JSON to GRON (greppable, flattened JSON) converter
 - [fwilliams/point-cloud-utils](https://github.com/fwilliams/point-cloud-utils) - An easy-to-use Python library for processing and manipulating 3D point clouds and meshes.
@@ -175,7 +176,6 @@
 - [GValiente/butano](https://github.com/GValiente/butano) - Modern C++ high level GBA engine
 - [lix-project/lix](https://github.com/lix-project/lix) - [MIRROR, PRs ok! Issues: https://git.lix.systems/lix-project/lix/issues] A modern, delicious implementation of the Nix package manager, focused on correctness, usability, and growth — and committed to
 - [DacoTaco/priiloader](https://github.com/DacoTaco/priiloader) - A Wii homebrew application that can prevent and fix some user level bricks
-- [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 - [JuliaHubOSS/llvm-cbe](https://github.com/JuliaHubOSS/llvm-cbe) - resurrected LLVM "C Backend", with improvements
 - [jpcy/xatlas](https://github.com/jpcy/xatlas) - Mesh parameterization / UV unwrapping library
 - [EduApps-CDG/OpenDX](https://github.com/EduApps-CDG/OpenDX) - Bring DirectX to Linux! This is a Open Source DirectX implementation for Linux, providing native support for DirectX-based applications and games, without relying on Wine's Windows compatibility layer
@@ -313,6 +313,7 @@
 ## HTML 
 
 - [hackeriet/coldnorth.org](https://github.com/hackeriet/coldnorth.org) - 
+- [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 - [meichthys/foss_photo_libraries](https://github.com/meichthys/foss_photo_libraries) - Free and Open Source Photo Libraries
 - [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic
 - [Fueredoriku/FractalWorldExplorer](https://github.com/Fueredoriku/FractalWorldExplorer) - A TDT4230 project application where one can explore self-defined fractals. This project uses openGL to implement a raymarcher in C++.
