@@ -1824,6 +1824,7 @@
 
 ## rust 
 
+- [oiwn/tarts](https://github.com/oiwn/tarts) - Screen savers and visual effects for your terminal!
 - [KillingSpark/rustysd](https://github.com/KillingSpark/rustysd) - A service manager that is able to run "traditional" systemd services, written in rust
 - [agbrs/agb](https://github.com/agbrs/agb) - Library for writing Game Boy Advance games in Rust
 - [0xbolt/wypst](https://github.com/0xbolt/wypst) - Typst math typesetting for the web.
@@ -2049,6 +2050,7 @@
 
 ## visualization 
 
+- [oiwn/tarts](https://github.com/oiwn/tarts) - Screen savers and visual effects for your terminal!
 - [pgf-tikz/pgf](https://github.com/pgf-tikz/pgf) - A Portable Graphic Format for TeX
 - [nerfstudio-project/viser](https://github.com/nerfstudio-project/viser) - Web-based 3D visualization + Python
 - [rerun-io/rerun](https://github.com/rerun-io/rerun) - An open source SDK for logging, storing, querying, and visualizing multimodal and multi-rate data
