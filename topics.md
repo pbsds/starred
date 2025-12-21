@@ -1811,6 +1811,7 @@
 
 ## reverse-engineering 
 
+- [teodly/inferno](https://github.com/teodly/inferno) - [MIRROR] unofficial implementation of Dante protocol (Audio over IP)
 - [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [8051Enthusiast/biodiff](https://github.com/8051Enthusiast/biodiff) - Hex diff viewer using alignment algorithms from biology
