@@ -304,6 +304,7 @@
 - [cube2222/octosql](https://github.com/cube2222/octosql) - OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Your Personal Streaming Service
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
+- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
 - [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML, INI, HCL and CSV files with a single tool. Also available as a go mod.
@@ -809,13 +810,13 @@
 
 ## Rust 
 
+- [Mic92/nix-diff-rs](https://github.com/Mic92/nix-diff-rs) - A Rust port of nix-diff, a tool to explain why two Nix derivations differ.
 - [teodly/inferno](https://github.com/teodly/inferno) - [MIRROR] unofficial implementation of Dante protocol (Audio over IP)
 - [oiwn/tarts](https://github.com/oiwn/tarts) - Screen savers and visual effects for your terminal!
 - [yshavit/mdq](https://github.com/yshavit/mdq) - like jq but for Markdown: find specific elements in a md doc
 - [KillingSpark/rustysd](https://github.com/KillingSpark/rustysd) - A service manager that is able to run "traditional" systemd services, written in rust
 - [OpenGMK/OpenGMK](https://github.com/OpenGMK/OpenGMK) - A rewrite of the GameMaker Classic engine runners with additional tooling
 - [josefbacik/systing](https://github.com/josefbacik/systing) - A libbpf based tracer to help figure out what an application is doing.
-- [Mic92/nix-diff-rs](https://github.com/Mic92/nix-diff-rs) - A Rust port of nix-diff, a tool to explain why two Nix derivations differ.
 - [km-clay/nixos-wizard](https://github.com/km-clay/nixos-wizard) - A TUI installer for NixOS
 - [mrVanDalo/nixos-healthchecks](https://github.com/mrVanDalo/nixos-healthchecks) - Write health checks as NixOS options to quickly verify if your services are properly running.
 - [Amanse/game-rs](https://github.com/Amanse/game-rs) - A cli game launcher for linux
@@ -1030,7 +1031,6 @@
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 A completely free and open interplanetary-microblogging platform 🚀
 - [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) - Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
 - [gTile/gTile](https://github.com/gTile/gTile) - A window tiling extension for Gnome.
-- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 - [tomayac/joy-con-webhid](https://github.com/tomayac/joy-con-webhid) - Use the Nintendo Switch Joy-Cons via the WebHID API
 - [mjswensen/themer](https://github.com/mjswensen/themer) - 🎨 themer takes a set of colors and outputs themes for your apps (editors, terminals, wallpapers, and more).
 - [akveo/eva-icons](https://github.com/akveo/eva-icons) - A pack of more than 480 beautifully crafted Open Source icons. SVG, Sketch, Web Font and Animations support.
