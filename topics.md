@@ -216,7 +216,7 @@
 ## android 
 
 - [casualsnek/waydroid_script](https://github.com/casualsnek/waydroid_script) - Python Script to  add OpenGapps, Magisk, libhoudini translation library and libndk translation library to waydroid !
-- [supechicken/waydroid-androidtv-build](https://github.com/supechicken/waydroid-androidtv-build) - Waydroid Android TV 13 build with built-in VA-API/GApps/Widevine L3 support
+- [supechicken/waydroid-androidtv-builds](https://github.com/supechicken/waydroid-androidtv-builds) - Waydroid Android TV builds with built-in VA-API/GApps/Widevine L3 support
 - [nix-community/nix-on-droid](https://github.com/nix-community/nix-on-droid) - Nix-enabled environment for your Android device. [maintainers=@t184256,@Gerschtli]
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [mickstar/Zoo-For-Zotero](https://github.com/mickstar/Zoo-For-Zotero) - This is an Android app for viewing Zotero libraries.
@@ -1163,6 +1163,7 @@
 
 ## others 
 
+- [numtide/disko-zfs](https://github.com/numtide/disko-zfs) - 
 - [AndreRH/hangover](https://github.com/AndreRH/hangover) - Hangover runs Win64 and Win32 applications on arm64 Linux
 - [Mic92/nix-diff-rs](https://github.com/Mic92/nix-diff-rs) - A Rust port of nix-diff, a tool to explain why two Nix derivations differ.
 - [Mic92/wrap-buddy](https://github.com/Mic92/wrap-buddy) - Patch ELF binaries with stub loader for NixOS compatibility
