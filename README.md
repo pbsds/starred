@@ -584,7 +584,7 @@
 
 - [LNH-team/dspico-hardware](https://github.com/LNH-team/dspico-hardware) - DSpico Hardware (PCB, shell, sticker, boxart)
 - [sebanc/brunch](https://github.com/sebanc/brunch) - Boot ChromeOS on x86_64 PC - Supports Intel CPU/GPU from 8th gen or AMD Ryzen
-- [supechicken/waydroid-androidtv-build](https://github.com/supechicken/waydroid-androidtv-build) - Waydroid Android TV 13 build with built-in VA-API/GApps/Widevine L3 support
+- [supechicken/waydroid-androidtv-builds](https://github.com/supechicken/waydroid-androidtv-builds) - Waydroid Android TV builds with built-in VA-API/GApps/Widevine L3 support
 - [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) - Create a 130GB Nix ️store in GitHub runners ❄️ Multi-partition BTRFS RAID-0 for /nix 💪 Brutally purges unnecessary software 🪓 Dynamically grows the Nix store 📈
 - [RinLovesYou/Flipnote-Encoder](https://github.com/RinLovesYou/Flipnote-Encoder) - The Cross-Platform Flipnote Encoder and Signer written in .NET! Available for Windows, Linux and OsX
 - [FuriLabs/issue-tracker](https://github.com/FuriLabs/issue-tracker) - FuriOS issue tracker
@@ -811,6 +811,7 @@
 
 ## Rust 
 
+- [numtide/disko-zfs](https://github.com/numtide/disko-zfs) - 
 - [Mic92/nix-diff-rs](https://github.com/Mic92/nix-diff-rs) - A Rust port of nix-diff, a tool to explain why two Nix derivations differ.
 - [teodly/inferno](https://github.com/teodly/inferno) - [MIRROR] unofficial implementation of Dante protocol (Audio over IP)
 - [oiwn/tarts](https://github.com/oiwn/tarts) - Screen savers and visual effects for your terminal!
