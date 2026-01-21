@@ -301,7 +301,6 @@
 - [joehillen/sysz](https://github.com/joehillen/sysz) - An fzf  terminal UI for systemctl
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script ACME client for SSL / TLS certificate automation
 - [aurora/rmate](https://github.com/aurora/rmate) - Remote TextMate 2 implemented as shell script
-- [berenm/steam-cli](https://github.com/berenm/steam-cli) - Command-line interface to install and execute Steam games
 - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
 
 ## c 
@@ -388,7 +387,6 @@
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [sharkdp/hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
-- [berenm/steam-cli](https://github.com/berenm/steam-cli) - Command-line interface to install and execute Steam games
 - [timothycrosley/portray](https://github.com/timothycrosley/portray) - Your Project with Great Documentation.
 - [Titor8115/mandown](https://github.com/Titor8115/mandown) - man-page inspired Markdown viewer
 - [hauntsaninja/pyp](https://github.com/hauntsaninja/pyp) - Easily run Python at the shell! Magical, but never mysterious.
@@ -1002,7 +1000,6 @@
 - [anbox/anbox](https://github.com/anbox/anbox) - Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system
 - [GTFOBins/GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) - GTFOBins is a curated list of Unix-like executables that can be used to bypass local security restrictions in misconfigured systems.
 - [Merrit/nyrna](https://github.com/Merrit/nyrna) - Suspend games and applications.
-- [berenm/steam-cli](https://github.com/berenm/steam-cli) - Command-line interface to install and execute Steam games
 - [Titor8115/mandown](https://github.com/Titor8115/mandown) - man-page inspired Markdown viewer
 - [Taiko2k/Tauon](https://github.com/Taiko2k/Tauon) - The music player of today! :city_sunrise:
 - [akiraux/Akira](https://github.com/akiraux/Akira) - Native Linux App for UI and UX Design built in Vala and GTK
@@ -1544,7 +1541,7 @@
 - [marcan/takeover.sh](https://github.com/marcan/takeover.sh) - Wipe and reinstall a running Linux system via SSH, without rebooting. You know you want to.
 - [tomayac/joy-con-webhid](https://github.com/tomayac/joy-con-webhid) - Use the Nintendo Switch Joy-Cons via the WebHID API
 - [vsitzmann/siren](https://github.com/vsitzmann/siren) - Official implementation of "Implicit Neural Representations with Periodic Activation Functions"
-- [ReimuNotMoe/ydotool](https://github.com/ReimuNotMoe/ydotool) - Generic command-line automation tool (no X!)
+- [ReimuNotMoe/ydotool](https://github.com/ReimuNotMoe/ydotool) - Generic command-line automation tool
 - [gatecat/prjoxide](https://github.com/gatecat/prjoxide) - Documenting Lattice's 28nm FPGA parts
 - [YosysHQ/yosys](https://github.com/YosysHQ/yosys) - Yosys Open SYnthesis Suite
 - [amaranth-lang/amaranth](https://github.com/amaranth-lang/amaranth) - A modern hardware definition language and toolchain based on Python
