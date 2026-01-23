@@ -502,7 +502,7 @@
 - [langston-barrett/nixpkgs-blight](https://github.com/langston-barrett/nixpkgs-blight) - Instrument the builds of tens of thousands of open-source packages
 - [PapenfussLab/bionix](https://github.com/PapenfussLab/bionix) - Functional highly reproducible bioinformatics pipelines
 - [ipetkov/crane](https://github.com/ipetkov/crane) - A Nix library for building cargo projects. Never build twice thanks to incremental artifact caching.
-- [rasmus-kirk/nixarr](https://github.com/rasmus-kirk/nixarr) - The Media Server NixOS Module
+- [nix-media-server/nixarr](https://github.com/nix-media-server/nixarr) - The Media Server NixOS Module
 - [infinisil/nixus](https://github.com/infinisil/nixus) - Experimental deployment tool supporting multi-host abstractions
 - [NixOS/nixos-hardware](https://github.com/NixOS/nixos-hardware) - A collection of NixOS modules covering hardware quirks.
 - [cdepillabout/evil-nix](https://github.com/cdepillabout/evil-nix) - A Nix library to download files from the internet without requiring a hash
@@ -758,7 +758,7 @@
 - [whitequark/prjbureau](https://github.com/whitequark/prjbureau) - Documenting the Microchip (Atmel) ATF15xx CPLD fuse maps and programming algorithms
 - [remote-cli/remote](https://github.com/remote-cli/remote) - Work with remote hosts seamlessly. Code local, build / execute commands remotely
 - [jfremstad/matematisk_ordliste](https://github.com/jfremstad/matematisk_ordliste) - Matematisk ordliste
-- [RobertBaruch/n6800](https://github.com/RobertBaruch/n6800) - A 6800 CPU written in nMigen
+- [XekriRedmane/n6800](https://github.com/XekriRedmane/n6800) - A 6800 CPU written in nMigen
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [wireviz/WireViz](https://github.com/wireviz/WireViz) - Easily document cables and wiring harnesses.
 - [pyos/dg](https://github.com/pyos/dg) - A programming language for the CPython VM.
