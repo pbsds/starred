@@ -1160,7 +1160,7 @@
 
 ## others 
 
-- [numtide/disko-zfs](https://github.com/numtide/disko-zfs) - 
+- [numtide/disko-zfs](https://github.com/numtide/disko-zfs) - Manage your ZFS datasets declaratively
 - [AndreRH/hangover](https://github.com/AndreRH/hangover) - Hangover runs Win64 and Win32 applications on arm64 Linux
 - [Mic92/nix-diff-rs](https://github.com/Mic92/nix-diff-rs) - A Rust port of nix-diff, a tool to explain why two Nix derivations differ.
 - [Mic92/wrap-buddy](https://github.com/Mic92/wrap-buddy) - Patch ELF binaries with stub loader for NixOS compatibility
