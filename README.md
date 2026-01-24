@@ -810,7 +810,7 @@
 
 ## Rust 
 
-- [numtide/disko-zfs](https://github.com/numtide/disko-zfs) - 
+- [numtide/disko-zfs](https://github.com/numtide/disko-zfs) - Manage your ZFS datasets declaratively
 - [Mic92/nix-diff-rs](https://github.com/Mic92/nix-diff-rs) - A Rust port of nix-diff, a tool to explain why two Nix derivations differ.
 - [teodly/inferno](https://github.com/teodly/inferno) - [MIRROR] unofficial implementation of Dante protocol (Audio over IP)
 - [oiwn/tarts](https://github.com/oiwn/tarts) - Screen savers and visual effects for your terminal!
