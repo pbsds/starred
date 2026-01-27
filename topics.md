@@ -1307,7 +1307,7 @@
 - [supermariofps/hatsune-miku-windows-linux-cursors](https://github.com/supermariofps/hatsune-miku-windows-linux-cursors) - Hatsune Miku Cursors for Windows/Linux!
 - [czq142857/NDC](https://github.com/czq142857/NDC) - PyTorch implementation of Neural Dual Contouring.
 - [noamraph/nixsa](https://github.com/noamraph/nixsa) - Nixsa - A Nix Standalone Environment
-- [tweag/topiary](https://github.com/tweag/topiary) - 
+- [topiary/topiary](https://github.com/topiary/topiary) - 
 - [Tsche/magic_codec](https://github.com/Tsche/magic_codec) - 
 - [Atemu/nix-fuck-up-assessment-form](https://github.com/Atemu/nix-fuck-up-assessment-form) - To be filled by anyone who fucks up using Nix.
 - [chipsalliance/chisel-nix](https://github.com/chipsalliance/chisel-nix) - Nix template for the chisel-based industrial designing flows.
