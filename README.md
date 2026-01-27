@@ -860,7 +860,7 @@
 - [NixOS/nixpkgs-vet](https://github.com/NixOS/nixpkgs-vet) - Tool to vet (check) Nixpkgs, including its pkgs/by-name directory
 - [papigers/rutty](https://github.com/papigers/rutty) - RuTTY - Rust TTY Server
 - [noamraph/nixsa](https://github.com/noamraph/nixsa) - Nixsa - A Nix Standalone Environment
-- [tweag/topiary](https://github.com/tweag/topiary) - 
+- [topiary/topiary](https://github.com/topiary/topiary) - 
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [versotile-org/verso](https://github.com/versotile-org/verso) - Mirror of https://gitlab.com/verso-browser/verso
 - [DioxusLabs/blitz](https://github.com/DioxusLabs/blitz) - A radically modular HTML/CSS rendering engine
