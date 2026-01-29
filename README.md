@@ -320,7 +320,6 @@
 
 - [hackeriet/coldnorth.org](https://github.com/hackeriet/coldnorth.org) - 
 - [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
-- [meichthys/foss_photo_libraries](https://github.com/meichthys/foss_photo_libraries) - Free and Open Source Photo Libraries
 - [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic
 - [Fueredoriku/FractalWorldExplorer](https://github.com/Fueredoriku/FractalWorldExplorer) - A TDT4230 project application where one can explore self-defined fractals. This project uses openGL to implement a raymarcher in C++.
 - [googlefonts/atkinson-hyperlegible](https://github.com/googlefonts/atkinson-hyperlegible) - 
@@ -682,6 +681,7 @@
 - [nerfstudio-project/viser](https://github.com/nerfstudio-project/viser) - Web-based 3D visualization + Python
 - [delroth/nixpkgs-vendored-vulns-scan](https://github.com/delroth/nixpkgs-vendored-vulns-scan) - Infrastructure to scan for vulnerabilities in nixpkgs packages that vendor their dependencies, e.g. Rust / NPM / Go / Java / .NET
 - [abathur/resholve](https://github.com/abathur/resholve) - a shell resolver? :) (find and resolve shell script dependencies)
+- [meichthys/foss_photo_libraries](https://github.com/meichthys/foss_photo_libraries) - Free and Open Source Photo Libraries
 - [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) - Faster Whisper transcription with CTranslate2
 - [jtojnar/nonemast](https://github.com/jtojnar/nonemast) - Tool for reviewing GNOME update Nixpkgs PRs
 - [Mic92/nix-fast-build](https://github.com/Mic92/nix-fast-build) - Combine the power of nix-eval-jobs with nix-output-monitor to speed-up your evaluation and building process.
