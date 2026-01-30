@@ -1403,7 +1403,7 @@
 - [considerate/nixos-odroidhc4](https://github.com/considerate/nixos-odroidhc4) - NixOS configuration for the ODROID HC4 microcomputer
 - [nix-community/nix-vscode-extensions](https://github.com/nix-community/nix-vscode-extensions) - Nix expressions for VS Code Marketplace and Open VSX extensions [maintainers=@deemp, @ameertaweel]
 - [arturs-berzins/boundary_sensitivity](https://github.com/arturs-berzins/boundary_sensitivity) - Interactive demo of semantic editing of 3D shapes.
-- [HigherOrderCO/HVM](https://github.com/HigherOrderCO/HVM) - A massively parallel, optimal functional runtime in Rust
+- [HigherOrderCO/HVM2](https://github.com/HigherOrderCO/HVM2) - A massively parallel, optimal functional runtime in Rust
 - [bjorne/git-pa-svenska](https://github.com/bjorne/git-pa-svenska) - Git på svenska
 - [VITA-Group/GNT](https://github.com/VITA-Group/GNT) - [ICLR 2023] "Is Attention All NeRF Needs?" by Mukund Varma T*, Peihao Wang* , Xuxi Chen, Tianlong Chen, Subhashini Venugopalan, Zhangyang Wang
 - [openai/shap-e](https://github.com/openai/shap-e) - Generate 3D objects conditioned on text or images
