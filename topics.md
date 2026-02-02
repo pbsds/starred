@@ -1160,6 +1160,7 @@
 
 ## others 
 
+- [FOSDEM/video-fazantix](https://github.com/FOSDEM/video-fazantix) - Fazant fazant fazant videomixer
 - [numtide/disko-zfs](https://github.com/numtide/disko-zfs) - Manage your ZFS datasets declaratively
 - [AndreRH/hangover](https://github.com/AndreRH/hangover) - Hangover runs Win64 and Win32 applications on arm64 Linux
 - [Mic92/nix-diff-rs](https://github.com/Mic92/nix-diff-rs) - A Rust port of nix-diff, a tool to explain why two Nix derivations differ.
