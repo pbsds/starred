@@ -90,7 +90,7 @@
 - [elishacloud/dxwrapper](https://github.com/elishacloud/dxwrapper) - Fixes compatibility issues with older games running on Windows 10/11 by wrapping DirectX dlls.  Also allows loading custom libraries with the file extension .asi into game processes.
 - [martinmarinov/TempestSDR](https://github.com/martinmarinov/TempestSDR) - Remote video eavesdropping using a software-defined radio platform
 - [wiiuse/wiiuse](https://github.com/wiiuse/wiiuse) - WiiUse "feature complete"  cross-platform Wii Remote access library
-- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
+- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTMP, RTMPS, 
 - [illustris/nixfs](https://github.com/illustris/nixfs) - 
 - [FOSDEM/video](https://github.com/FOSDEM/video) - 
 - [containers/bubblewrap](https://github.com/containers/bubblewrap) - Low-level unprivileged sandboxing tool used by Flatpak and similar projects
