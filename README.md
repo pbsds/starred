@@ -157,9 +157,10 @@
 
 ## C++ 
 
+- [google/filament](https://github.com/google/filament) - Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2
 - [Mic92/wrap-buddy](https://github.com/Mic92/wrap-buddy) - Patch ELF binaries with stub loader for NixOS compatibility
 - [DISTRHO/Cardinal](https://github.com/DISTRHO/Cardinal) - Virtual modular synthesizer plugin
-- [lisanna-dettwyler/nix-scheduler-hook](https://github.com/lisanna-dettwyler/nix-scheduler-hook) - Nix build hook that forwards remote builds to job schedulers.
+- [lisanna-dettwyler/nix-scheduler-hook](https://github.com/lisanna-dettwyler/nix-scheduler-hook) - Nix build hook that forwards builds to job schedulers.
 - [OpenStickCommunity/GP2040-CE](https://github.com/OpenStickCommunity/GP2040-CE) - Multi-Platform Gamepad Firmware for Raspberry Pi Pico and other RP2040 boards
 - [adamritter/fastgron](https://github.com/adamritter/fastgron) - High-performance JSON to GRON (greppable, flattened JSON) converter
 - [fwilliams/point-cloud-utils](https://github.com/fwilliams/point-cloud-utils) - An easy-to-use Python library for processing and manipulating 3D point clouds and meshes.
