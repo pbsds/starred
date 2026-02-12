@@ -74,7 +74,6 @@
 
 - [lmarzen/esp32-weather-epd](https://github.com/lmarzen/esp32-weather-epd) - A low-power E-Paper weather display powered by an ESP32 microcontroller. Utilizes the OpenWeatherMap API.
 - [pocketpy/pocketpy](https://github.com/pocketpy/pocketpy) - Portable Python 3.x Interpreter in Modern C for Game Scripting
-- [josefbacik/systing](https://github.com/josefbacik/systing) - A libbpf based tracer to help figure out what an application is doing.
 - [azahar-emu/ArticBaseServer](https://github.com/azahar-emu/ArticBaseServer) - 3DS Game Broadcaster
 - [tidwall/pogocache](https://github.com/tidwall/pogocache) - Fast caching software with a focus on low latency and cpu efficiency.
 - [RsyncProject/rsync](https://github.com/RsyncProject/rsync) - An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases.
@@ -687,7 +686,7 @@
 - [morpho-matters/morpholib](https://github.com/morpho-matters/morpholib) - A general-purpose programmatic animation tool
 - [tweag/python-nix](https://github.com/tweag/python-nix) - Python-Nix FFI library using the new C API
 - [tiiuae/sbomnix](https://github.com/tiiuae/sbomnix) - A suite of utilities to help with software supply chain challenges on nix targets
-- [nerfstudio-project/viser](https://github.com/nerfstudio-project/viser) - Web-based 3D visualization + Python
+- [viser-project/viser](https://github.com/viser-project/viser) - Web-based 3D visualization + Python
 - [delroth/nixpkgs-vendored-vulns-scan](https://github.com/delroth/nixpkgs-vendored-vulns-scan) - Infrastructure to scan for vulnerabilities in nixpkgs packages that vendor their dependencies, e.g. Rust / NPM / Go / Java / .NET
 - [abathur/resholve](https://github.com/abathur/resholve) - a shell resolver? :) (find and resolve shell script dependencies)
 - [meichthys/foss_photo_libraries](https://github.com/meichthys/foss_photo_libraries) - Free and Open Source Photo Libraries
@@ -826,6 +825,7 @@
 - [yshavit/mdq](https://github.com/yshavit/mdq) - like jq but for Markdown: find specific elements in a md doc
 - [KillingSpark/rustysd](https://github.com/KillingSpark/rustysd) - A service manager that is able to run "traditional" systemd services, written in rust
 - [OpenGMK/OpenGMK](https://github.com/OpenGMK/OpenGMK) - A rewrite of the GameMaker Classic engine runners with additional tooling
+- [josefbacik/systing](https://github.com/josefbacik/systing) - A libbpf based tracer to help figure out what an application is doing.
 - [km-clay/nixos-wizard](https://github.com/km-clay/nixos-wizard) - A TUI installer for NixOS
 - [mrVanDalo/nixos-healthchecks](https://github.com/mrVanDalo/nixos-healthchecks) - Write health checks as NixOS options to quickly verify if your services are properly running.
 - [Amanse/game-rs](https://github.com/Amanse/game-rs) - A cli game launcher for linux
