@@ -747,7 +747,6 @@
 - [RocketRace/easy_z3](https://github.com/RocketRace/easy_z3) - Using z3's never been easier (maybe)
 - [icebreaker-fpga/icebreaker-litex-examples](https://github.com/icebreaker-fpga/icebreaker-litex-examples) - Example litex Risc-V SOC and some example code projects in multiple languages.
 - [martinResearch/DEODR](https://github.com/martinResearch/DEODR) - A differentiable 3D renderer with Pytorch, Tensorflow and Matlab interfaces
-- [lucidrains/siren-pytorch](https://github.com/lucidrains/siren-pytorch) - Pytorch implementation of SIREN -  Implicit Neural Representations with Periodic Activation Function
 - [glumpy/glumpy](https://github.com/glumpy/glumpy) - Python+Numpy+OpenGL: fast, scalable and beautiful scientific visualization
 - [mikedh/trimesh](https://github.com/mikedh/trimesh) - Python library for loading and using triangular meshes.
 - [minerva-cpu/minerva](https://github.com/minerva-cpu/minerva) - A 32-bit RISC-V soft processor
@@ -924,7 +923,6 @@
 - [toberge/graphics-project](https://github.com/toberge/graphics-project) - Final project in TDT4230
 - [akberg/procedural_planets](https://github.com/akberg/procedural_planets) - 
 - [steffenhaug/plox](https://github.com/steffenhaug/plox) - 
-- [Fuwn/para](https://github.com/Fuwn/para) - 🗃 Flipnote Studios .ppm Animation Format Decoder & Utility
 - [PRQL/prql](https://github.com/PRQL/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
