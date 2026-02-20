@@ -375,7 +375,7 @@
 ## JavaScript 
 
 - [martinmullins/mesa-softpipe-emscripten](https://github.com/martinmullins/mesa-softpipe-emscripten) - Mesa softpipe build that runs in the web
-- [0xbolt/wypst](https://github.com/0xbolt/wypst) - Typst math typesetting for the web.
+- [andredalbosco/wypst](https://github.com/andredalbosco/wypst) - Typst math typesetting for the web.
 - [nralbrecht/pinned-tab-fix](https://github.com/nralbrecht/pinned-tab-fix) - This Firefox add-on moves new tabs opened from a pinned tab to the right end of the tab bar
 - [SVG-Edit/svgedit](https://github.com/SVG-Edit/svgedit) - Powerful SVG-Editor for your browser
 - [davidmerfield/Typeset](https://github.com/davidmerfield/Typeset) - An HTML pre-proces­sor for web ty­pog­ra­phy
@@ -686,7 +686,7 @@
 - [morpho-matters/morpholib](https://github.com/morpho-matters/morpholib) - A general-purpose programmatic animation tool
 - [tweag/python-nix](https://github.com/tweag/python-nix) - Python-Nix FFI library using the new C API
 - [tiiuae/sbomnix](https://github.com/tiiuae/sbomnix) - A suite of utilities to help with software supply chain challenges on nix targets
-- [viser-project/viser](https://github.com/viser-project/viser) - Web-based 3D visualization + Python
+- [viser-project/viser](https://github.com/viser-project/viser) - Web-based 3D visualization in Python
 - [delroth/nixpkgs-vendored-vulns-scan](https://github.com/delroth/nixpkgs-vendored-vulns-scan) - Infrastructure to scan for vulnerabilities in nixpkgs packages that vendor their dependencies, e.g. Rust / NPM / Go / Java / .NET
 - [abathur/resholve](https://github.com/abathur/resholve) - a shell resolver? :) (find and resolve shell script dependencies)
 - [meichthys/foss_photo_libraries](https://github.com/meichthys/foss_photo_libraries) - Free and Open Source Photo Libraries
