@@ -923,6 +923,7 @@
 - [toberge/graphics-project](https://github.com/toberge/graphics-project) - Final project in TDT4230
 - [akberg/procedural_planets](https://github.com/akberg/procedural_planets) - 
 - [steffenhaug/plox](https://github.com/steffenhaug/plox) - 
+- [Fuwn/para](https://github.com/Fuwn/para) - 🗃 Flipnote Studios .ppm Animation Format Decoder & Utility
 - [PRQL/prql](https://github.com/PRQL/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
