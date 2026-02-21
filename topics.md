@@ -774,7 +774,6 @@
 - [omnilib/aioitertools](https://github.com/omnilib/aioitertools) - itertools and builtins for AsyncIO and mixed iterables
 - [NuschtOS/search](https://github.com/NuschtOS/search) - Simple and fast static-page NixOS option search
 - [zlfn/rust-gb](https://github.com/zlfn/rust-gb) - Compile Rust code to GBZ80 (Gameboy Z80)
-- [alexozer/flitter](https://github.com/alexozer/flitter) - A LiveSplit-inspired speedrunning split timer for Linux/macOS terminal. Supports global hotkeys.
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 - [BrianHicks/tree-grepper](https://github.com/BrianHicks/tree-grepper) - Like grep, but uses tree-sitter grammars to search
 - [utdemir/nix-tree](https://github.com/utdemir/nix-tree) - Interactively browse dependency graphs of Nix derivations.
@@ -1501,6 +1500,7 @@
 - [FlyingGiraffe/vnn](https://github.com/FlyingGiraffe/vnn) - Vector Neurons: A General Framework for SO(3)-Equivariant Networks
 - [allanjude/zxfer](https://github.com/allanjude/zxfer) - A continuation of development on zxfer, a popular script for managing ZFS snapshot replication
 - [hukkelas/sharpened_cosine_similarity_torch](https://github.com/hukkelas/sharpened_cosine_similarity_torch) - A Sharpened Cosine Similarity layer for PyTorch
+- [Fuwn/para](https://github.com/Fuwn/para) - 🗃 Flipnote Studios .ppm Animation Format Decoder & Utility
 - [iaddis/metalnes](https://github.com/iaddis/metalnes) - Transistor level NES simulation
 - [eternalphane/pytorch-pypi](https://github.com/eternalphane/pytorch-pypi) - Simple repository (PEP 503) for pytorch
 - [ahrm/sioyek](https://github.com/ahrm/sioyek) - Sioyek is a PDF viewer with a focus on textbooks and research papers
