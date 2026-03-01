@@ -159,6 +159,7 @@
 
 ## C++ 
 
+- [WeiPhil/nbvh](https://github.com/WeiPhil/nbvh) - Source Code for "N-BVH: Neural ray queries with bounding volume hierarchies" (SIGGRAPH 2024)
 - [google/filament](https://github.com/google/filament) - Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2
 - [Mic92/wrap-buddy](https://github.com/Mic92/wrap-buddy) - Patch ELF binaries with stub loader for NixOS compatibility
 - [DISTRHO/Cardinal](https://github.com/DISTRHO/Cardinal) - Virtual modular synthesizer plugin
