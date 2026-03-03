@@ -58,6 +58,7 @@
 - [electron](#electron)
 - [embedded](#embedded)
 - [emulator](#emulator)
+- [fastapi](#fastapi)
 - [firefox](#firefox)
 - [flutter](#flutter)
 - [flutter-apps](#flutter-apps)
@@ -615,6 +616,10 @@
 - [melonDS-emu/melonDS](https://github.com/melonDS-emu/melonDS) - DS emulator, sorta
 - [dolphin-emu/dolphin](https://github.com/dolphin-emu/dolphin) - Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.
 - [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) - PlayStation 3 emulator and debugger
+
+## fastapi 
+
+- [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
 
 ## firefox 
 
