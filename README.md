@@ -159,6 +159,7 @@
 
 ## C++ 
 
+- [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 - [WeiPhil/nbvh](https://github.com/WeiPhil/nbvh) - Source Code for "N-BVH: Neural ray queries with bounding volume hierarchies" (SIGGRAPH 2024)
 - [google/filament](https://github.com/google/filament) - Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2
 - [Mic92/wrap-buddy](https://github.com/Mic92/wrap-buddy) - Patch ELF binaries with stub loader for NixOS compatibility
@@ -302,7 +303,7 @@
 - [letsblockit/letsblockit](https://github.com/letsblockit/letsblockit) - Remove low-quality content and useless nags, focus on what matters. A community-maintained uBlock Origin filter set.
 - [google/git-appraise](https://github.com/google/git-appraise) - Distributed code review system for Git repos
 - [xataio/pgroll](https://github.com/xataio/pgroll) - PostgreSQL zero-downtime migrations made easy
-- [xyproto/orbiton](https://github.com/xyproto/orbiton) - Snappy and configuration-free little text editor/IDE for the terminal. Suitable for writing git commit messages, editing Markdown, config files, source code, man pages and for quick edit-format-compil
+- [xyproto/orbiton](https://github.com/xyproto/orbiton) - Snappy and configuration-free text editor/IDE for the terminal. Suitable for writing git commit messages, editing Markdown, config files, source code, man pages and for quick edit-format-compile cycle
 - [pdtpartners/nix-snapshotter](https://github.com/pdtpartners/nix-snapshotter) - Brings native understanding of Nix packages to containerd
 - [rystaf/mlmym](https://github.com/rystaf/mlmym) - a familiar desktop experience for lemmy
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
