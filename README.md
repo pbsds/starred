@@ -649,6 +649,7 @@
 
 ## Python 
 
+- [gi0baro/tonio](https://github.com/gi0baro/tonio) - A multi-threaded async runtime for Python
 - [casualsnek/waydroid_script](https://github.com/casualsnek/waydroid_script) - Python Script to  add OpenGapps, Magisk, libhoudini translation library and libndk translation library to waydroid !
 - [fraunhoferhhi/Self-Organizing-Gaussians](https://github.com/fraunhoferhhi/Self-Organizing-Gaussians) - [ECCV '24] Compressing 3D Gaussian Splats by placing their parameters into a 2D grid with local smoothness
 - [alexmojaki/pure_eval](https://github.com/alexmojaki/pure_eval) - Safely evaluate AST nodes without side effects
@@ -821,6 +822,7 @@
 
 ## Rust 
 
+- [nikstur/userborn](https://github.com/nikstur/userborn) - Declaratively bear (manage) Linux users and groups
 - [numtide/disko-zfs](https://github.com/numtide/disko-zfs) - Manage your ZFS datasets declaratively
 - [Mic92/nix-diff-rs](https://github.com/Mic92/nix-diff-rs) - A Rust port of nix-diff, a tool to explain why two Nix derivations differ.
 - [teodly/inferno](https://github.com/teodly/inferno) - [MIRROR] unofficial implementation of Dante protocol (Audio over IP)
