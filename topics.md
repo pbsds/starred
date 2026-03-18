@@ -1072,7 +1072,7 @@
 - [SatyrDiamond/DawVert](https://github.com/SatyrDiamond/DawVert) - DawVert - The DAW ConVERTer
 - [polygon/audio.nix](https://github.com/polygon/audio.nix) - Assorted audio packages for Nix(OS)/Linux.
 - [stakira/OpenUtau](https://github.com/stakira/OpenUtau) - Open singing synthesis platform / Open source UTAU successor
-- [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Your Personal Streaming Service
+- [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧 Your Personal Streaming Service
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
 - [Taiko2k/Tauon](https://github.com/Taiko2k/Tauon) - The music player of today! :city_sunrise:
 
@@ -1176,6 +1176,7 @@
 
 ## others 
 
+- [DataTreehouse/maplib](https://github.com/DataTreehouse/maplib) - 
 - [gi0baro/tonio](https://github.com/gi0baro/tonio) - A multi-threaded async runtime for Python
 - [WeiPhil/nbvh](https://github.com/WeiPhil/nbvh) - Source Code for "N-BVH: Neural ray queries with bounding volume hierarchies" (SIGGRAPH 2024)
 - [figsoda/drowse](https://github.com/figsoda/drowse) - Nix dynamic derivations made easy
@@ -1816,7 +1817,7 @@
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
 - [patriciogonzalezvivo/glslViewer](https://github.com/patriciogonzalezvivo/glslViewer) - Console-based GLSL Sandbox for 2D/3D shaders
-- [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Your Personal Streaming Service
+- [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧 Your Personal Streaming Service
 - [tiny-pilot/tinypilot](https://github.com/tiny-pilot/tinypilot) - Use your Raspberry Pi as a browser-based KVM.
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 
@@ -1933,7 +1934,7 @@
 - [meichthys/foss_photo_libraries](https://github.com/meichthys/foss_photo_libraries) - Free and Open Source Photo Libraries
 - [ibizaman/selfhostblocks](https://github.com/ibizaman/selfhostblocks) - Modular server management based on NixOS modules and focused on best practices.
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
-- [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Your Personal Streaming Service
+- [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧 Your Personal Streaming Service
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming + chat out of the box.
 
 ## server 
@@ -2050,6 +2051,7 @@
 
 ## typescript 
 
+- [ryanrasti/typenix](https://github.com/ryanrasti/typenix) - Full typing for Nix based on TypeScript
 - [arnog/mathlive](https://github.com/arnog/mathlive) - Web components for math display and input
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [matrix-org/thirdroom](https://github.com/matrix-org/thirdroom) - Open, decentralised, immersive worlds built on Matrix
