@@ -750,7 +750,7 @@
 - [python-pendulum/pendulum](https://github.com/python-pendulum/pendulum) - Python datetimes made easy
 - [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
 - [suptejas/electric](https://github.com/suptejas/electric) - A fast, futuristic package manager for Windows.
-- [RocketRace/easy_z3](https://github.com/RocketRace/easy_z3) - Using z3's never been easier (maybe)
+- [pulustelu/easy_z3](https://github.com/pulustelu/easy_z3) - Using z3's never been easier (maybe)
 - [icebreaker-fpga/icebreaker-litex-examples](https://github.com/icebreaker-fpga/icebreaker-litex-examples) - Example litex Risc-V SOC and some example code projects in multiple languages.
 - [martinResearch/DEODR](https://github.com/martinResearch/DEODR) - A differentiable 3D renderer with Pytorch, Tensorflow and Matlab interfaces
 - [lucidrains/siren-pytorch](https://github.com/lucidrains/siren-pytorch) - Pytorch implementation of SIREN -  Implicit Neural Representations with Periodic Activation Function
