@@ -1765,7 +1765,7 @@
 - [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps) - Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely
 - [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
 - [suptejas/electric](https://github.com/suptejas/electric) - A fast, futuristic package manager for Windows.
-- [RocketRace/easy_z3](https://github.com/RocketRace/easy_z3) - Using z3's never been easier (maybe)
+- [pulustelu/easy_z3](https://github.com/pulustelu/easy_z3) - Using z3's never been easier (maybe)
 - [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
 - [glumpy/glumpy](https://github.com/glumpy/glumpy) - Python+Numpy+OpenGL: fast, scalable and beautiful scientific visualization
 - [mikedh/trimesh](https://github.com/mikedh/trimesh) - Python library for loading and using triangular meshes.
