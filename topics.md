@@ -220,7 +220,7 @@
 - [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 - [google/filament](https://github.com/google/filament) - Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2
 - [casualsnek/waydroid_script](https://github.com/casualsnek/waydroid_script) - Python Script to  add OpenGapps, Magisk, libhoudini translation library and libndk translation library to waydroid !
-- [supechicken/waydroid-androidtv-builds](https://github.com/supechicken/waydroid-androidtv-builds) - Waydroid Android TV builds with built-in VA-API/GApps/Widevine L3 support
+- [WayDroid-ATV/waydroid-androidtv-builds](https://github.com/WayDroid-ATV/waydroid-androidtv-builds) - Waydroid Android TV builds with built-in VA-API/GApps/Widevine L3 support
 - [nix-community/nix-on-droid](https://github.com/nix-community/nix-on-droid) - Nix-enabled environment for your Android device. [maintainers=@t184256,@Gerschtli]
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [mickstar/Zoo-For-Zotero](https://github.com/mickstar/Zoo-For-Zotero) - This is an Android app for viewing Zotero libraries.
@@ -1210,7 +1210,7 @@
 - [tyx-editor/TyX](https://github.com/tyx-editor/TyX) - A LyX-like experience rewritten for Typst and the modern era
 - [hudson-trading/slang-server](https://github.com/hudson-trading/slang-server) - A SystemVerilog language server based on the Slang library.
 - [oddlama/nix-fingerprint](https://github.com/oddlama/nix-fingerprint) - Fingerprints the underlying system by only using primitives available in pure evaluation mode
-- [finix-community/finix](https://github.com/finix-community/finix) - An experimental os, featuring finit as pid 1, to explore the NixOS design space
+- [finix-community/finix](https://github.com/finix-community/finix) - A daily-drivable experimental os, featuring finit as pid 1, to explore the NixOS design space
 - [TyberiusPrime/uv2nix_hammer_overrides](https://github.com/TyberiusPrime/uv2nix_hammer_overrides) - Override collection for uv2nix
 - [gmodena/nix-flatpak](https://github.com/gmodena/nix-flatpak) - Install flatpaks declaratively
 - [martinmullins/mesa-softpipe-emscripten](https://github.com/martinmullins/mesa-softpipe-emscripten) - Mesa softpipe build that runs in the web
@@ -1358,7 +1358,7 @@
 - [samueldr/linux-3ds.nix](https://github.com/samueldr/linux-3ds.nix) - A Linux system for your 3DS, built with Nix
 - [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
 - [lix-project/lix](https://github.com/lix-project/lix) - [MIRROR, PRs ok! Issues: https://git.lix.systems/lix-project/lix/issues] A modern, delicious implementation of the Nix package manager, focused on correctness, usability, and growth — and committed to
-- [juspay/services-flake](https://github.com/juspay/services-flake) - NixOS-like services for Nix flakes
+- [juspay/services-flake](https://github.com/juspay/services-flake) - NixOS-like services for Nix flakes [maintainer=@shivaraj-bh]
 - [DacoTaco/priiloader](https://github.com/DacoTaco/priiloader) - A Wii homebrew application that can prevent and fix some user level bricks
 - [andersrodem/konsulent-karma](https://github.com/andersrodem/konsulent-karma) - Et register over konsulentselskaper som har kansellert internships og fulltidsstillinger
 - [Alhadis/OSC8-Adoption](https://github.com/Alhadis/OSC8-Adoption) - List of terminal emulators that support hyperlinks (OSC 8 escape sequences).
