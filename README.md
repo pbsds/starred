@@ -868,7 +868,7 @@
 - [DeterminateSystems/nix-netboot-serve](https://github.com/DeterminateSystems/nix-netboot-serve) - Make any NixOS system netbootable with 10s cycle times.
 - [andir/npins](https://github.com/andir/npins) - Nix dependency pinning. Very similar to Niv but has a few features that I personally wanted.
 - [tvlfyi/tvix](https://github.com/tvlfyi/tvix) - Tvix - A Rust implementation of Nix. Read-only mirror of https://code.tvl.fyi/tree/tvix
-- [nix-community/lanzaboote](https://github.com/nix-community/lanzaboote) - Secure Boot for NixOS [maintainers=@blitz @raitobezarius @nikstur]
+- [nix-community/lanzaboote](https://github.com/nix-community/lanzaboote) - Secure Boot & Measured Boot for NixOS [maintainers=@blitz @raitobezarius @nikstur]
 - [nix-community/nix-index](https://github.com/nix-community/nix-index) - Quickly locate nix packages with specific files [maintainers=@bennofs @figsoda @raitobezarius]
 - [nix-community/nixpkgs-lint](https://github.com/nix-community/nixpkgs-lint) - A fast semantic linter for Nix using tree-sitter 🌳 + ❄️. [maintainers=@Artturin,@siraben]
 - [zlfn/rust-gb](https://github.com/zlfn/rust-gb) - Compile Rust code to GBZ80 (Gameboy Z80)
