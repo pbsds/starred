@@ -725,7 +725,7 @@
 - [rraval/git-nomad](https://github.com/rraval/git-nomad) - Synchronize work-in-progress git branches in a light weight fashion
 - [nix-community/nurl](https://github.com/nix-community/nurl) - Generate Nix fetcher calls from URLs [maintainer=@figsoda]
 - [tummychow/git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic
-- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
@@ -1188,6 +1188,7 @@
 
 ## others 
 
+- [adisbladis/deltanar](https://github.com/adisbladis/deltanar) - Delta based deployment tool for Nix
 - [YS-L/flamelens](https://github.com/YS-L/flamelens) - Flamegraph viewer in the terminal
 - [DataTreehouse/maplib](https://github.com/DataTreehouse/maplib) - 
 - [gi0baro/tonio](https://github.com/gi0baro/tonio) - A multi-threaded async runtime for Python
@@ -1909,7 +1910,7 @@
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
-- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [sharkdp/hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
 - [comby-tools/comby](https://github.com/comby-tools/comby) - A code rewrite tool for structural search and replace that supports ~every language.
