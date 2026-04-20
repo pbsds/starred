@@ -408,7 +408,6 @@
 - [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning and machine learning models
 - [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
 - [cryptpad/cryptpad](https://github.com/cryptpad/cryptpad) - Collaborative office suite, end-to-end encrypted and open-source.
-- [audreyt/ethercalc](https://github.com/audreyt/ethercalc) - Node.js port of Multi-user SocialCalc
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [varkor/quiver](https://github.com/varkor/quiver) - A modern commutative diagram editor for the web.
 - [gbevan/atom-drawio](https://github.com/gbevan/atom-drawio) - Atom package to allow creating and editting of draw.io diagrams
@@ -1050,6 +1049,7 @@
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 A completely free and open interplanetary-microblogging platform 🚀
 - [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) - Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
 - [gTile/gTile](https://github.com/gTile/gTile) - A window tiling extension for Gnome.
+- [audreyt/ethercalc](https://github.com/audreyt/ethercalc) - Node.js port of Multi-user SocialCalc
 - [tomayac/joy-con-webhid](https://github.com/tomayac/joy-con-webhid) - Use the Nintendo Switch Joy-Cons via the WebHID API
 - [mjswensen/themer](https://github.com/mjswensen/themer) - 🎨 themer takes a set of colors and outputs themes for your apps (editors, terminals, wallpapers, and more).
 - [akveo/eva-icons](https://github.com/akveo/eva-icons) - A pack of more than 480 beautifully crafted Open Source icons. SVG, Sketch, Web Font and Animations support.
