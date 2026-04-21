@@ -841,7 +841,7 @@
 - [Amanse/game-rs](https://github.com/Amanse/game-rs) - A cli game launcher for linux
 - [helsinki-systems/hydra-queue-runner](https://github.com/helsinki-systems/hydra-queue-runner) - Hydra queue runner rewrite
 - [agbrs/agb](https://github.com/agbrs/agb) - Library for writing Game Boy Advance games in Rust
-- [tgirlcloud/lix-diff](https://github.com/tgirlcloud/lix-diff) - 
+- [isabelroses/lix-diff](https://github.com/isabelroses/lix-diff) - 
 - [lf-/gridlock](https://github.com/lf-/gridlock) - Nix compatible lockfile manager, without Nix
 - [rraval/git-nomad](https://github.com/rraval/git-nomad) - Synchronize work-in-progress git branches in a light weight fashion
 - [FractalFir/rustc_codegen_clr](https://github.com/FractalFir/rustc_codegen_clr) - A Rust compiler backend targeting CIL(.NET IR) and C.
