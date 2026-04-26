@@ -14,6 +14,7 @@
 - [CSS](#css)
 - [Clojure](#clojure)
 - [Cuda](#cuda)
+- [Cython](#cython)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [Elm](#elm)
@@ -264,6 +265,10 @@
 - [HigherOrderCO/HVM2](https://github.com/HigherOrderCO/HVM2) - A massively parallel, optimal functional runtime in Rust
 - [bartvbl/libShapeDescriptor](https://github.com/bartvbl/libShapeDescriptor) - A library containing GPU implementations of a number of 3D shape descriptors, along with some useful utilities.
 - [NVlabs/instant-ngp](https://github.com/NVlabs/instant-ngp) - Instant neural graphics primitives: lightning fast NeRF and more
+
+## Cython 
+
+- [trimesh/embreex](https://github.com/trimesh/embreex) - Python Wrapper for Embree
 
 ## Dart 
 
