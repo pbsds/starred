@@ -1194,6 +1194,7 @@
 
 ## others 
 
+- [trimesh/embreex](https://github.com/trimesh/embreex) - Python Wrapper for Embree
 - [adisbladis/deltanar](https://github.com/adisbladis/deltanar) - Delta based deployment tool for Nix
 - [YS-L/flamelens](https://github.com/YS-L/flamelens) - Flamegraph viewer in the terminal
 - [DataTreehouse/maplib](https://github.com/DataTreehouse/maplib) - 
