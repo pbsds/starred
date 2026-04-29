@@ -23,6 +23,7 @@
 - [bash](#bash)
 - [c](#c)
 - [c-plus-plus](#c-plus-plus)
+- [c-sharp](#c-sharp)
 - [chrome](#chrome)
 - [cli](#cli)
 - [clojure](#clojure)
@@ -338,6 +339,10 @@
 - [xmake-io/xmake](https://github.com/xmake-io/xmake) - 🔥 A cross-platform build utility based on Lua
 - [mapeditor/tiled](https://github.com/mapeditor/tiled) - Flexible level editor
 - [ssloy/tinyraytracer](https://github.com/ssloy/tinyraytracer) - A brief computer graphics / rendering course
+
+## c-sharp 
+
+- [HouraiTeahouse/FantasyCrescendo](https://github.com/HouraiTeahouse/FantasyCrescendo) - A 2.5D Touhou Platform Fighter, By the fans, for the fans.
 
 ## chrome 
 
@@ -1654,7 +1659,6 @@
 - [jornane/node-snip](https://github.com/jornane/node-snip) - SNI Proxy implemented in Node.JS
 - [nedwill/HackPrinceton2013](https://github.com/nedwill/HackPrinceton2013) - 
 - [fail0verflow/hbc](https://github.com/fail0verflow/hbc) - The Homebrew Channel - open source edition
-- [HouraiTeahouse/FantasyCrescendo](https://github.com/HouraiTeahouse/FantasyCrescendo) - A 2.5D Touhou Platform Fighter, By the fans, for the fans.
 - [p-e-w/maybe](https://github.com/p-e-w/maybe) - :open_file_folder: :rabbit2: :tophat: See what a program does before deciding whether you really want it to happen (NO LONGER MAINTAINED)
 - [stlukey/i3](https://github.com/stlukey/i3) - Unofficial i3 Mirror. Includes a gaps branch for gaps between windows.
 - [PaulSec/twittor](https://github.com/PaulSec/twittor) - A fully featured backdoor that uses Twitter as a C&C server
