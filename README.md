@@ -656,6 +656,7 @@
 
 ## Python 
 
+- [sshuttle/sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
 - [gi0baro/tonio](https://github.com/gi0baro/tonio) - A multi-threaded async runtime for Python
 - [casualsnek/waydroid_script](https://github.com/casualsnek/waydroid_script) - Python Script to  add OpenGapps, Magisk, libhoudini translation library and libndk translation library to waydroid !
 - [fraunhoferhhi/Self-Organizing-Gaussians](https://github.com/fraunhoferhhi/Self-Organizing-Gaussians) - [ECCV '24] Compressing 3D Gaussian Splats by placing their parameters into a 2D grid with local smoothness
@@ -829,6 +830,7 @@
 
 ## Rust 
 
+- [dramforever/nix-log-check](https://github.com/dramforever/nix-log-check) - Check binary cache for possibly failing build logs
 - [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue) - A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
 - [YS-L/flamelens](https://github.com/YS-L/flamelens) - Flamegraph viewer in the terminal
 - [DataTreehouse/maplib](https://github.com/DataTreehouse/maplib) - 
