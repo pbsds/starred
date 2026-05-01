@@ -1204,6 +1204,8 @@
 
 ## others 
 
+- [dramforever/nix-log-check](https://github.com/dramforever/nix-log-check) - Check binary cache for possibly failing build logs
+- [sshuttle/sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
 - [trimesh/embreex](https://github.com/trimesh/embreex) - Python Wrapper for Embree
 - [adisbladis/deltanar](https://github.com/adisbladis/deltanar) - Delta based deployment tool for Nix
 - [YS-L/flamelens](https://github.com/YS-L/flamelens) - Flamegraph viewer in the terminal
