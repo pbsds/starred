@@ -329,6 +329,7 @@
 - [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML, INI, HCL and CSV files with a single tool. Also available as a go mod.
 - [hashicorp/hcl](https://github.com/hashicorp/hcl) - HCL is the HashiCorp configuration language.
+- [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [tenox7/wrp](https://github.com/tenox7/wrp) - Web Rendering Proxy: Use vintage, historical, legacy browsers on modern web
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
@@ -779,7 +780,6 @@
 - [remote-cli/remote](https://github.com/remote-cli/remote) - Work with remote hosts seamlessly. Code local, build / execute commands remotely
 - [jfremstad/matematisk_ordliste](https://github.com/jfremstad/matematisk_ordliste) - Matematisk ordliste
 - [XekriRedmane/n6800](https://github.com/XekriRedmane/n6800) - A 6800 CPU written in nMigen
-- [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [wireviz/WireViz](https://github.com/wireviz/WireViz) - Easily document cables and wiring harnesses.
 - [pyos/dg](https://github.com/pyos/dg) - A programming language for the CPython VM.
 - [timothycrosley/portray](https://github.com/timothycrosley/portray) - Your Project with Great Documentation.
