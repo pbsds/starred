@@ -439,7 +439,7 @@
 
 - [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 - [SomeoneSerge/nixpkgs-cuda-ci](https://github.com/SomeoneSerge/nixpkgs-cuda-ci) - Building and caching nixpkgs with cudaSupport=true. We push to https://cuda-maintainers.cachix.org/
-- [rerun-io/rerun](https://github.com/rerun-io/rerun) - An open source SDK for logging, storing, querying, and visualizing multimodal and multi-rate data
+- [rerun-io/rerun](https://github.com/rerun-io/rerun) - An open source SDK for logging, storing, querying, viewing and training on multimodal and multi-rate data
 - [zubair-irshad/Awesome-Implicit-NeRF-Robotics](https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics) - A comprehensive list of Implicit Representations and NeRF papers relating to Robotics/RL domain, including papers, codes, and related websites
 - [nerfstudio-project/nerfstudio](https://github.com/nerfstudio-project/nerfstudio) - A collaboration friendly studio for NeRFs
 - [NVlabs/instant-ngp](https://github.com/NVlabs/instant-ngp) - Instant neural graphics primitives: lightning fast NeRF and more
@@ -458,7 +458,7 @@
 
 - [syoyo/tinygltf](https://github.com/syoyo/tinygltf) - Header only C++11 tiny glTF 2.0 library
 - [EduApps-CDG/OpenDX](https://github.com/EduApps-CDG/OpenDX) - Bring DirectX to Linux! This is a Open Source DirectX implementation for Linux, providing native support for DirectX-based applications and games, without relying on Wine's Windows compatibility layer
-- [rerun-io/rerun](https://github.com/rerun-io/rerun) - An open source SDK for logging, storing, querying, and visualizing multimodal and multi-rate data
+- [rerun-io/rerun](https://github.com/rerun-io/rerun) - An open source SDK for logging, storing, querying, viewing and training on multimodal and multi-rate data
 - [jank-lang/jank](https://github.com/jank-lang/jank) - The native Clojure dialect hosted on LLVM with seamless C++ interop.
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [cemu-project/Cemu](https://github.com/cemu-project/Cemu) - Cemu - Wii U emulator
@@ -1772,7 +1772,7 @@
 - [tiiuae/sbomnix](https://github.com/tiiuae/sbomnix) - A suite of utilities to help with software supply chain challenges on nix targets
 - [viser-project/viser](https://github.com/viser-project/viser) - Web-based 3D visualization in Python
 - [nix-community/nix-init](https://github.com/nix-community/nix-init) - Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more [maintainer=@figsoda]
-- [rerun-io/rerun](https://github.com/rerun-io/rerun) - An open source SDK for logging, storing, querying, and visualizing multimodal and multi-rate data
+- [rerun-io/rerun](https://github.com/rerun-io/rerun) - An open source SDK for logging, storing, querying, viewing and training on multimodal and multi-rate data
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
 - [pikasTech/PikaPython](https://github.com/pikasTech/PikaPython) - An ultra-lightweight Python interpreter that runs with only 4KB of RAM, zero dependencies. It is ready to use out of the box without any configuration required and easy to extend with C. Similar proje
 - [pudo/dataset](https://github.com/pudo/dataset) - Easy-to-use data handling for SQL data stores with support for implicit table creation, bulk loading, and transactions.
@@ -1874,7 +1874,7 @@
 
 ## robotics 
 
-- [rerun-io/rerun](https://github.com/rerun-io/rerun) - An open source SDK for logging, storing, querying, and visualizing multimodal and multi-rate data
+- [rerun-io/rerun](https://github.com/rerun-io/rerun) - An open source SDK for logging, storing, querying, viewing and training on multimodal and multi-rate data
 - [zubair-irshad/Awesome-Implicit-NeRF-Robotics](https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics) - A comprehensive list of Implicit Representations and NeRF papers relating to Robotics/RL domain, including papers, codes, and related websites
 - [mithi/hexapod-robot-simulator](https://github.com/mithi/hexapod-robot-simulator) - A hexapod robot simulator built from first principles
 
@@ -1910,7 +1910,7 @@
 - [GRA0007/crab.fit](https://github.com/GRA0007/crab.fit) - Enter your availability to find a time that works for everyone!
 - [oxalica/rust-overlay](https://github.com/oxalica/rust-overlay) - Pure and reproducible nix overlay of binary distributed rust toolchains
 - [szabodanika/microbin](https://github.com/szabodanika/microbin) - A secure, configurable file-sharing and URL shortening web app written in Rust.
-- [rerun-io/rerun](https://github.com/rerun-io/rerun) - An open source SDK for logging, storing, querying, and visualizing multimodal and multi-rate data
+- [rerun-io/rerun](https://github.com/rerun-io/rerun) - An open source SDK for logging, storing, querying, viewing and training on multimodal and multi-rate data
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
@@ -2143,7 +2143,7 @@
 - [oiwn/tarts](https://github.com/oiwn/tarts) - Screen savers and visual effects for your terminal!
 - [pgf-tikz/pgf](https://github.com/pgf-tikz/pgf) - A Portable Graphic Format for TeX
 - [viser-project/viser](https://github.com/viser-project/viser) - Web-based 3D visualization in Python
-- [rerun-io/rerun](https://github.com/rerun-io/rerun) - An open source SDK for logging, storing, querying, and visualizing multimodal and multi-rate data
+- [rerun-io/rerun](https://github.com/rerun-io/rerun) - An open source SDK for logging, storing, querying, viewing and training on multimodal and multi-rate data
 - [piebro/factorio-blueprint-visualizer](https://github.com/piebro/factorio-blueprint-visualizer) - A python library to artfully visualize Factorio Blueprints and an interactive web demo for using it.
 - [sutne-NTNU/TDT4230-Graphics-and-Visualization](https://github.com/sutne-NTNU/TDT4230-Graphics-and-Visualization) - 2022 Spring Semester. Assignments and Project in the course.
 - [asmuth/clip](https://github.com/asmuth/clip) - Create charts from the command line
