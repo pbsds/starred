@@ -12,6 +12,7 @@
 - [C++](#c++)
 - [CMake](#cmake)
 - [CSS](#css)
+- [CSV](#csv)
 - [Clojure](#clojure)
 - [Cuda](#cuda)
 - [Cython](#cython)
@@ -255,6 +256,10 @@
 - [nswarr/flipnote-server](https://github.com/nswarr/flipnote-server) - The original reverse engineered Flipnote Hatena server
 - [dohliam/dropin-minimal-css](https://github.com/dohliam/dropin-minimal-css) - Drop-in switcher for previewing minimal CSS frameworks
 - [noahc3/SDSetup](https://github.com/noahc3/SDSetup) - The Ninite for your Nintendo Switch.
+
+## CSV 
+
+- [jfremstad/matematisk_ordliste](https://github.com/jfremstad/matematisk_ordliste) - Matematisk ordliste
 
 ## Clojure 
 
@@ -778,7 +783,6 @@
 - [hertogp/imagine](https://github.com/hertogp/imagine) - A pandoc-filter for images
 - [whitequark/prjbureau](https://github.com/whitequark/prjbureau) - Documenting the Microchip (Atmel) ATF15xx CPLD fuse maps and programming algorithms
 - [remote-cli/remote](https://github.com/remote-cli/remote) - Work with remote hosts seamlessly. Code local, build / execute commands remotely
-- [jfremstad/matematisk_ordliste](https://github.com/jfremstad/matematisk_ordliste) - Matematisk ordliste
 - [XekriRedmane/n6800](https://github.com/XekriRedmane/n6800) - A 6800 CPU written in nMigen
 - [wireviz/WireViz](https://github.com/wireviz/WireViz) - Easily document cables and wiring harnesses.
 - [pyos/dg](https://github.com/pyos/dg) - A programming language for the CPython VM.
