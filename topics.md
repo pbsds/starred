@@ -1573,7 +1573,7 @@
 - [hydromatic/morel](https://github.com/hydromatic/morel) - A functional query language
 - [Ravenslofty/yosys-cookbook](https://github.com/Ravenslofty/yosys-cookbook) - User-friendly explanation of Yosys options
 - [Ravenslofty/mistral](https://github.com/Ravenslofty/mistral) - Cyclone V bitstream reverse-engineering project
-- [andrewchambers/minias](https://github.com/andrewchambers/minias) - A mini x86-64 assembler for fun and learning.
+- [andrewchambers/minias](https://github.com/andrewchambers/minias) - A mini x86-64 assembler.
 - [smunaut/iCE40linux](https://github.com/smunaut/iCE40linux) - Gateware / Firmware / BuildRoot to run linux on iCE40 / iCEBreaker
 - [pulp-platform/common_cells](https://github.com/pulp-platform/common_cells) - Common SystemVerilog components
 - [bgreenlee/pygtail](https://github.com/bgreenlee/pygtail) - Pygtail reads log file lines that have not been read. It will even handle log files that have been rotated. Based on logcheck's logtail2 (http://logcheck.org)
