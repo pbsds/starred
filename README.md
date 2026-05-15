@@ -119,7 +119,7 @@
 - [openzfs/zfs](https://github.com/openzfs/zfs) - OpenZFS on Linux and FreeBSD
 - [vstakhov/libucl](https://github.com/vstakhov/libucl) - Universal configuration library parser
 - [lvgl/lvgl](https://github.com/lvgl/lvgl) - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.
-- [andrewchambers/minias](https://github.com/andrewchambers/minias) - A mini x86-64 assembler for fun and learning.
+- [andrewchambers/minias](https://github.com/andrewchambers/minias) - A mini x86-64 assembler.
 - [winfsp/sshfs-win](https://github.com/winfsp/sshfs-win) - SSHFS For Windows
 - [cage-kiosk/cage](https://github.com/cage-kiosk/cage) - A Wayland kiosk
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
