@@ -74,7 +74,7 @@
 
 ## C 
 
-- [Zaneham/BarraCUDA](https://github.com/Zaneham/BarraCUDA) - Open-source CUDA compiler targeting multiple GPU architectures. Compiles .cu to AMD and Tenstorrent GPU's
+- [Zaneham/BarraCUDA](https://github.com/Zaneham/BarraCUDA) - Open-source CUDA and HIP compiler targeting multiple GPU architectures. Compiles .cu to AMD and Tenstorrent GPU's
 - [lmarzen/esp32-weather-epd](https://github.com/lmarzen/esp32-weather-epd) - A low-power E-Paper weather display powered by an ESP32 microcontroller. Utilizes the OpenWeatherMap API.
 - [pocketpy/pocketpy](https://github.com/pocketpy/pocketpy) - Portable Python 3.x Interpreter in Modern C for Game Scripting
 - [azahar-emu/ArticBaseServer](https://github.com/azahar-emu/ArticBaseServer) - 3DS Game Broadcaster
@@ -834,6 +834,7 @@
 
 ## Rust 
 
+- [feel-co/ndg](https://github.com/feel-co/ndg) - NDG: Not a Docs Generator
 - [Mic92/fast-nix-gc](https://github.com/Mic92/fast-nix-gc) - A faster nix-collect-garbage.
 - [lovesegfault/rio-build](https://github.com/lovesegfault/rio-build) - Distributed builds for Nix
 - [dramforever/nix-log-check](https://github.com/dramforever/nix-log-check) - Check binary cache for possibly failing build logs
