@@ -74,7 +74,7 @@
 
 ## C 
 
-- [Zaneham/BarraCUDA](https://github.com/Zaneham/BarraCUDA) - Open-source CUDA and HIP compiler targeting multiple GPU architectures. Compiles .cu to AMD and Tenstorrent GPU's
+- [Zaneham/BarraCUDA](https://github.com/Zaneham/BarraCUDA) - Open-source CUDA, Triton and HIP compiler targeting multiple GPU architectures.
 - [lmarzen/esp32-weather-epd](https://github.com/lmarzen/esp32-weather-epd) - A low-power E-Paper weather display powered by an ESP32 microcontroller. Utilizes the OpenWeatherMap API.
 - [pocketpy/pocketpy](https://github.com/pocketpy/pocketpy) - Portable Python 3.x Interpreter in Modern C for Game Scripting
 - [azahar-emu/ArticBaseServer](https://github.com/azahar-emu/ArticBaseServer) - 3DS Game Broadcaster
