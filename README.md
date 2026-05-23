@@ -296,6 +296,7 @@
 
 ## Go 
 
+- [adisbladis/nix-cache-beacon](https://github.com/adisbladis/nix-cache-beacon) - mDNS discovery for Nix binary caches
 - [adisbladis/deltanar](https://github.com/adisbladis/deltanar) - Delta based deployment tool for Nix
 - [ryanrasti/typenix](https://github.com/ryanrasti/typenix) - Full typing for Nix based on TypeScript
 - [FOSDEM/video-fazantix](https://github.com/FOSDEM/video-fazantix) - Fazant fazant fazant videomixer
@@ -353,6 +354,7 @@
 
 ## Haskell 
 
+- [lierdakil/pandoc-crossref](https://github.com/lierdakil/pandoc-crossref) - Pandoc filter for cross-references
 - [b3nj5m1n/xdg-ninja](https://github.com/b3nj5m1n/xdg-ninja) - A shell script which checks your $HOME for unwanted files and directories.
 - [aristanetworks/nix-serve-ng](https://github.com/aristanetworks/nix-serve-ng) - A drop-in replacement for nix-serve that is faster and more reliable
 - [NixOS/nixfmt](https://github.com/NixOS/nixfmt) - The official formatter for Nix code
