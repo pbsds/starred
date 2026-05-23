@@ -857,6 +857,7 @@
 
 ## haskell 
 
+- [lierdakil/pandoc-crossref](https://github.com/lierdakil/pandoc-crossref) - Pandoc filter for cross-references
 - [NixOS/nixfmt](https://github.com/NixOS/nixfmt) - The official formatter for Nix code
 - [Platonic-Systems/process-compose-flake](https://github.com/Platonic-Systems/process-compose-flake) - A `flake-parts` module to spin up processes for development by leveraging `process-compose`
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
@@ -1205,6 +1206,7 @@
 
 ## others 
 
+- [adisbladis/nix-cache-beacon](https://github.com/adisbladis/nix-cache-beacon) - mDNS discovery for Nix binary caches
 - [Mic92/fast-nix-gc](https://github.com/Mic92/fast-nix-gc) - A faster nix-collect-garbage.
 - [lovesegfault/rio-build](https://github.com/lovesegfault/rio-build) - Distributed builds for Nix
 - [dramforever/nix-log-check](https://github.com/dramforever/nix-log-check) - Check binary cache for possibly failing build logs
