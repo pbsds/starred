@@ -993,6 +993,7 @@
 
 ## Shell 
 
+- [jonhermansen/darnix](https://github.com/jonhermansen/darnix) - Darwin system built with Nix
 - [VHSgunzo/runimage](https://github.com/VHSgunzo/runimage) - Portable single-file linux container
 - [conda-forge/miniforge](https://github.com/conda-forge/miniforge) - A conda-forge distribution.
 - [samueldr/lix-gha-installer-action](https://github.com/samueldr/lix-gha-installer-action) - 
