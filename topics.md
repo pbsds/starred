@@ -1206,6 +1206,7 @@
 
 ## others 
 
+- [jonhermansen/darnix](https://github.com/jonhermansen/darnix) - Darwin system built with Nix
 - [adisbladis/nix-cache-beacon](https://github.com/adisbladis/nix-cache-beacon) - mDNS discovery for Nix binary caches
 - [Mic92/fast-nix-gc](https://github.com/Mic92/fast-nix-gc) - A faster nix-collect-garbage.
 - [lovesegfault/rio-build](https://github.com/lovesegfault/rio-build) - Distributed builds for Nix
