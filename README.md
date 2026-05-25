@@ -161,6 +161,7 @@
 
 ## C++ 
 
+- [openXC7/nextpnr-xilinx](https://github.com/openXC7/nextpnr-xilinx) - Experimental flows using nextpnr for Xilinx devices
 - [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 - [WeiPhil/nbvh](https://github.com/WeiPhil/nbvh) - Source Code for "N-BVH: Neural ray queries with bounding volume hierarchies" (SIGGRAPH 2024)
 - [google/filament](https://github.com/google/filament) - Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2
