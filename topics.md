@@ -1205,6 +1205,7 @@
 
 ## others 
 
+- [nix-community/lila](https://github.com/nix-community/lila) - Nix hash collection software, to aggregate build reports from several builders  [maintainer=@JulienMalka, @raboof]
 - [openXC7/nextpnr-xilinx](https://github.com/openXC7/nextpnr-xilinx) - Experimental flows using nextpnr for Xilinx devices
 - [jonhermansen/darnix](https://github.com/jonhermansen/darnix) - Darwin system built with Nix
 - [adisbladis/nix-cache-beacon](https://github.com/adisbladis/nix-cache-beacon) - mDNS discovery for Nix binary caches
