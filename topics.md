@@ -1205,6 +1205,7 @@
 
 ## others 
 
+- [giulioz/mmo-chip](https://github.com/giulioz/mmo-chip) - Multiplayer CMOS Standard Cell Chips Reverse Engineering Tool
 - [Hydr8gon/3Beans](https://github.com/Hydr8gon/3Beans) - A low-level 3DS emulator
 - [nix-community/lila](https://github.com/nix-community/lila) - Nix hash collection software, to aggregate build reports from several builders  [maintainer=@JulienMalka, @raboof]
 - [openXC7/nextpnr-xilinx](https://github.com/openXC7/nextpnr-xilinx) - Experimental flows using nextpnr for Xilinx devices
