@@ -1205,6 +1205,8 @@
 
 ## others 
 
+- [LordGrimmauld/run0-sudo-shim](https://github.com/LordGrimmauld/run0-sudo-shim) - An imitation of sudo, using run0 internally
+- [trofi/nix-olde](https://github.com/trofi/nix-olde) - Show details about outdated packages in your NixOS system.
 - [giulioz/mmo-chip](https://github.com/giulioz/mmo-chip) - Multiplayer CMOS Standard Cell Chips Reverse Engineering Tool
 - [Hydr8gon/3Beans](https://github.com/Hydr8gon/3Beans) - A low-level 3DS emulator
 - [nix-community/lila](https://github.com/nix-community/lila) - Nix hash collection software, to aggregate build reports from several builders  [maintainer=@JulienMalka, @raboof]
