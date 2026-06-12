@@ -825,7 +825,6 @@
 - [mickstar/Zoo-For-Zotero](https://github.com/mickstar/Zoo-For-Zotero) - This is an Android app for viewing Zotero libraries.
 - [nim-lang/Nim](https://github.com/nim-lang/Nim) - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, an
 - [Vindaar/LatexDSL](https://github.com/Vindaar/LatexDSL) - A mini DSL to generate LaTeX from Nim
-- [Mic92/nix-update](https://github.com/Mic92/nix-update) - Swiss-knife for updating nix packages.
 - [maralorn/nix-output-monitor](https://github.com/maralorn/nix-output-monitor) - Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building.
 - [ImVexed/muon](https://github.com/ImVexed/muon) - GPU based Electron on a diet
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
@@ -1509,6 +1508,7 @@
 - [def-/nimes](https://github.com/def-/nimes) - NimES: NES Emulator in Nim
 - [OpenDroneMap/ODM](https://github.com/OpenDroneMap/ODM) - A command line toolkit to generate maps, point clouds, 3D models and DEMs from drone, balloon or kite images. 📷
 - [c-blake/cligen](https://github.com/c-blake/cligen) - Nim library to infer/generate command-line-interfaces / option / argument parsing; Docs at
+- [Mic92/nix-update](https://github.com/Mic92/nix-update) - Swiss-knife for updating nix packages.
 - [fstl-app/fstl](https://github.com/fstl-app/fstl) - A fast STL file viewer
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 A completely free and open interplanetary-microblogging platform 🚀
 - [yglukhov/nimpy](https://github.com/yglukhov/nimpy) - Nim - Python bridge
