@@ -149,6 +149,7 @@
 - [qt](#qt)
 - [raspberry-pi](#raspberry-pi)
 - [react](#react)
+- [redteam](#redteam)
 - [redux](#redux)
 - [reverse-engineering](#reverse-engineering)
 - [robotics](#robotics)
@@ -1868,6 +1869,10 @@
 
 - [tale/headplane](https://github.com/tale/headplane) - A feature-complete Web UI for Headscale
 - [halworsen/emnestigen](https://github.com/halworsen/emnestigen) - Graph course dependencies for courses at NTNU/NUST
+
+## redteam 
+
+- [GTFOBins/GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) - GTFOBins is a curated list of Unix-like executables that can be used to bypass local security restrictions in misconfigured systems.
 
 ## redux 
 
