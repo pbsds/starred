@@ -1442,7 +1442,7 @@
 - [jtojnar/nonemast](https://github.com/jtojnar/nonemast) - Tool for reviewing GNOME update Nixpkgs PRs
 - [Mic92/nix-fast-build](https://github.com/Mic92/nix-fast-build) - Combine the power of nix-eval-jobs with nix-output-monitor to speed-up your evaluation and building process.
 - [martinmarinov/TempestSDR](https://github.com/martinmarinov/TempestSDR) - Remote video eavesdropping using a software-defined radio platform
-- [ngi-nix/ngipkgs](https://github.com/ngi-nix/ngipkgs) - Nix packages and services for projects supported through the NGI program
+- [ngi-nix/ngipkgs](https://github.com/ngi-nix/ngipkgs) - [Deprecated] Nix packages and services for projects supported through the NGI program
 - [mitsuba-renderer/mitsuba3](https://github.com/mitsuba-renderer/mitsuba3) - Mitsuba 3: A Retargetable Forward and Inverse Renderer
 - [wiiuse/wiiuse](https://github.com/wiiuse/wiiuse) - WiiUse "feature complete"  cross-platform Wii Remote access library
 - [sashs/Ropper](https://github.com/sashs/Ropper) - Display information about files in different file formats and find gadgets to build rop chains for different architectures (x86/x86_64, ARM/ARM64, MIPS, PowerPC, SPARC64). For disassembly ropper uses 
