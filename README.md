@@ -497,6 +497,7 @@
 
 ## Nix 
 
+- [fzakaria/guixpkgs](https://github.com/fzakaria/guixpkgs) - Guix Packages collection built via Nix
 - [figsoda/drowse](https://github.com/figsoda/drowse) - Nix dynamic derivations made easy
 - [nix-community/queued-build-hook](https://github.com/nix-community/queued-build-hook) - Queue and retry Nix post-build-hook [maintainer=@jfroche]
 - [garnix-io/yensid](https://github.com/garnix-io/yensid) - A proxy for better Nix remote builds
