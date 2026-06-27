@@ -1205,6 +1205,7 @@
 
 ## others 
 
+- [fzakaria/guixpkgs](https://github.com/fzakaria/guixpkgs) - Guix Packages collection built via Nix
 - [asayers/kdl2html](https://github.com/asayers/kdl2html) - Write your HTML in KDL, with markdown, variable interpolation, and includes
 - [LordGrimmauld/run0-sudo-shim](https://github.com/LordGrimmauld/run0-sudo-shim) - An imitation of sudo, using run0 internally
 - [trofi/nix-olde](https://github.com/trofi/nix-olde) - Show details about outdated packages in your NixOS system.
