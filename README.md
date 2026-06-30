@@ -261,7 +261,7 @@
 
 ## CSV 
 
-- [jfremstad/matematisk_ordliste](https://github.com/jfremstad/matematisk_ordliste) - Matematisk ordliste
+- [matematisk-ordliste/matematisk-ordliste](https://github.com/matematisk-ordliste/matematisk-ordliste) - Matematisk ordliste
 
 ## Clojure 
 
