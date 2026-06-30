@@ -1617,7 +1617,7 @@
 - [whitequark/prjbureau](https://github.com/whitequark/prjbureau) - Documenting the Microchip (Atmel) ATF15xx CPLD fuse maps and programming algorithms
 - [BespokeSynth/BespokeSynth](https://github.com/BespokeSynth/BespokeSynth) - Software modular synth
 - [remote-cli/remote](https://github.com/remote-cli/remote) - Work with remote hosts seamlessly. Code local, build / execute commands remotely
-- [jfremstad/matematisk_ordliste](https://github.com/jfremstad/matematisk_ordliste) - Matematisk ordliste
+- [matematisk-ordliste/matematisk-ordliste](https://github.com/matematisk-ordliste/matematisk-ordliste) - Matematisk ordliste
 - [libvips/nip2](https://github.com/libvips/nip2) - A spreadsheet-like GUI for libvips.
 - [larsbrinkhoff/awesome-cpus](https://github.com/larsbrinkhoff/awesome-cpus) - All CPU and MCU documentation in one place
 - [XekriRedmane/n6800](https://github.com/XekriRedmane/n6800) - A 6800 CPU written in nMigen
