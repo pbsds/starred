@@ -12,7 +12,6 @@
 - [C++](#c++)
 - [CMake](#cmake)
 - [CSS](#css)
-- [CSV](#csv)
 - [Clojure](#clojure)
 - [Cuda](#cuda)
 - [Cython](#cython)
@@ -259,10 +258,6 @@
 - [nswarr/flipnote-server](https://github.com/nswarr/flipnote-server) - The original reverse engineered Flipnote Hatena server
 - [dohliam/dropin-minimal-css](https://github.com/dohliam/dropin-minimal-css) - Drop-in switcher for previewing minimal CSS frameworks
 - [noahc3/SDSetup](https://github.com/noahc3/SDSetup) - The Ninite for your Nintendo Switch.
-
-## CSV 
-
-- [matematisk-ordliste/matematisk-ordliste](https://github.com/matematisk-ordliste/matematisk-ordliste) - Matematisk ordliste
 
 ## Clojure 
 
@@ -1098,6 +1093,7 @@
 ## YAML 
 
 - [GTFOBins/GTFOBins.github.io](https://github.com/GTFOBins/GTFOBins.github.io) - GTFOBins is a curated list of Unix-like executables that can be used to bypass local security restrictions in misconfigured systems.
+- [matematisk-ordliste/matematisk-ordliste](https://github.com/matematisk-ordliste/matematisk-ordliste) - Matematisk ordliste
 
 ## Zig 
 
