@@ -511,7 +511,6 @@
 - [adisbladis/korora](https://github.com/adisbladis/korora) - A tiny & fast type system for Nix in Nix
 - [pbar1/nix-mdbook](https://github.com/pbar1/nix-mdbook) - Nix library flake for building mdBook projects
 - [fpletz/nixos-nspawn](https://github.com/fpletz/nixos-nspawn) - Declarative NixOS nspawn containers
-- [nix-community/nixdoc](https://github.com/nix-community/nixdoc) - Tool to generate documentation for Nix library functions [maintainer=@hsjobeki]
 - [Jovian-Experiments/Jovian-NixOS](https://github.com/Jovian-Experiments/Jovian-NixOS) - Discussions: https://matrix.to/#/#Jovian-Experiments:matrix.org
 - [feel-co/hjem](https://github.com/feel-co/hjem) - Streamlined, elegant $HOME management with Nix
 - [nix-community/zephyr-nix](https://github.com/nix-community/zephyr-nix) - Develop Zephyr projects using Nix [maintainer=@adisbladis,@otavio]
@@ -869,6 +868,7 @@
 - [cberner/redb](https://github.com/cberner/redb) - An embedded key-value database in pure Rust
 - [mufeedvh/pdfrip](https://github.com/mufeedvh/pdfrip) - A multi-threaded PDF password cracking utility equipped with commonly encountered password format builders and dictionary attacks.
 - [Rust-GPU/rust-cuda](https://github.com/Rust-GPU/rust-cuda) - Ecosystem of libraries and tools for writing and executing fast GPU code fully in Rust.
+- [nix-community/nixdoc](https://github.com/nix-community/nixdoc) - Tool to generate documentation for Nix library functions [maintainer=@hsjobeki]
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [oxalica/nil](https://github.com/oxalica/nil) - NIx Language server, an incremental analysis assistant for writing in Nix.
 - [prjunnamed/prjunnamed](https://github.com/prjunnamed/prjunnamed) - [MIGRATED to https://codeberg.org/prjunnamed/prjunnamed] End-to-end synthesis and P&R toolchain
