@@ -141,6 +141,7 @@
 - [tmate-io/tmate](https://github.com/tmate-io/tmate) - Instant Terminal Sharing
 - [floooh/sokol](https://github.com/floooh/sokol) - minimal cross-platform standalone C headers
 - [shinh/elvm](https://github.com/shinh/elvm) - EsoLangVM Compiler Infrastructure
+- [kovidgoyal/rapydscript-ng](https://github.com/kovidgoyal/rapydscript-ng) - A transpiler for a Python like language to JavaScript
 - [EGG-electric-unicycle/documentation](https://github.com/EGG-electric-unicycle/documentation) - 
 - [fail0verflow/hbc](https://github.com/fail0verflow/hbc) - The Homebrew Channel - open source edition
 - [stlukey/i3](https://github.com/stlukey/i3) - Unofficial i3 Mirror. Includes a gaps branch for gaps between windows.
@@ -432,7 +433,6 @@
 - [mozilla/nunjucks](https://github.com/mozilla/nunjucks) - A powerful templating engine with inheritance, asynchronous control, and more (jinja2 inspired)
 - [joaomilho/Enterprise](https://github.com/joaomilho/Enterprise) - 🦄 The Enterprise™ programming language
 - [jezen/is-thirteen](https://github.com/jezen/is-thirteen) - Check if a number is equal to 13.
-- [kovidgoyal/rapydscript-ng](https://github.com/kovidgoyal/rapydscript-ng) - A transpiler for a Python like language to JavaScript
 - [jaames/flipnote-player](https://github.com/jaames/flipnote-player) - 🎬 Web-based player and video converter for animation files created with Nintendo's Flipnote Studio and Flipnote Studio 3D apps
 - [aemkei/jsfuck](https://github.com/aemkei/jsfuck) - Write any JavaScript with 6 Characters: []()!+
 - [lindell/DISCO](https://github.com/lindell/DISCO) - The most annoying website?
