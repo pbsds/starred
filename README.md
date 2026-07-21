@@ -162,6 +162,7 @@
 
 ## C++ 
 
+- [TwilitRealm/dusklight](https://github.com/TwilitRealm/dusklight) - Dusklight brings a classic adventure to PC and mobile platforms with a variety of fixes and improvements.
 - [Hydr8gon/3Beans](https://github.com/Hydr8gon/3Beans) - A low-level 3DS emulator
 - [openXC7/nextpnr-xilinx](https://github.com/openXC7/nextpnr-xilinx) - Experimental flows using nextpnr for Xilinx devices
 - [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
