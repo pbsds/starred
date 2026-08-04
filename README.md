@@ -493,6 +493,7 @@
 
 ## Nix 
 
+- [psyclyx/nixboy](https://github.com/psyclyx/nixboy) - Game Boy emulator in nix
 - [fzakaria/guixpkgs](https://github.com/fzakaria/guixpkgs) - Guix Packages collection built via Nix
 - [figsoda/drowse](https://github.com/figsoda/drowse) - Nix dynamic derivations made easy
 - [nix-community/queued-build-hook](https://github.com/nix-community/queued-build-hook) - Queue and retry Nix post-build-hook [maintainer=@jfroche]
@@ -1100,6 +1101,7 @@
 
 ## Zig 
 
+- [psyclyx/fix](https://github.com/psyclyx/fix) - Fast nIX language evaluator
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 - [roc-lang/roc](https://github.com/roc-lang/roc) - A fast, friendly, functional language.
 
