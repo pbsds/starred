@@ -1216,6 +1216,7 @@
 
 ## others 
 
+- [psyclyx/nixboy](https://github.com/psyclyx/nixboy) - Game Boy emulator in nix
 - [manic-systems/evix](https://github.com/manic-systems/evix) - Library-first async Nix evaluation engine for fast cached eval distribution
 - [TwilitRealm/dusklight](https://github.com/TwilitRealm/dusklight) - Dusklight brings a classic adventure to PC and mobile platforms with a variety of fixes and improvements.
 - [nasa/spacewasm](https://github.com/nasa/spacewasm) - A flight-compliant WebAssembly interpreter.
@@ -2245,6 +2246,7 @@
 
 ## zig 
 
+- [psyclyx/fix](https://github.com/psyclyx/fix) - Fast nIX language evaluator
 - [xyproto/orbiton](https://github.com/xyproto/orbiton) - Snappy and configuration-free text editor/IDE for the terminal. Suitable for writing git commit messages, editing Markdown, config files, source code, man pages and for quick edit-format-compile cycle
 
 ## zsh 
