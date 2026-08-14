@@ -52,6 +52,7 @@
 - [design](#design)
 - [developer-tools](#developer-tools)
 - [devops](#devops)
+- [discord](#discord)
 - [docker](#docker)
 - [documentation](#documentation)
 - [dotfiles](#dotfiles)
@@ -59,6 +60,7 @@
 - [education](#education)
 - [electron](#electron)
 - [embedded](#embedded)
+- [emoji](#emoji)
 - [emulator](#emulator)
 - [esp32](#esp32)
 - [fastapi](#fastapi)
@@ -359,6 +361,7 @@
 
 ## cli 
 
+- [sgreben/yeetgif](https://github.com/sgreben/yeetgif) - gif effects CLI. single binary, no dependencies. linux, osx, windows. #1 workplace productivity booster. #yeetgif #eggplant #golang
 - [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue) - A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
 - [hoh/nix-manipulator](https://github.com/hoh/nix-manipulator) - Parse, manipulate, and reconstruct Nix source code with high-level abstractions.
 - [pvolok/dekit](https://github.com/pvolok/dekit) - Run multiple commands in parallel
@@ -585,6 +588,10 @@
 - [mbucc/shmig](https://github.com/mbucc/shmig) - Database migration tool written in BASH.
 - [suptejas/electric](https://github.com/suptejas/electric) - A fast, futuristic package manager for Windows.
 
+## discord 
+
+- [sgreben/yeetgif](https://github.com/sgreben/yeetgif) - gif effects CLI. single binary, no dependencies. linux, osx, windows. #1 workplace productivity booster. #yeetgif #eggplant #golang
+
 ## docker 
 
 - [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
@@ -634,6 +641,10 @@
 - [lmarzen/esp32-weather-epd](https://github.com/lmarzen/esp32-weather-epd) - A low-power E-Paper weather display powered by an ESP32 microcontroller. Utilizes the OpenWeatherMap API.
 - [pikasTech/PikaPython](https://github.com/pikasTech/PikaPython) - An ultra-lightweight Python interpreter that runs with only 4KB of RAM, zero dependencies. It is ready to use out of the box without any configuration required and easy to extend with C. Similar proje
 - [littlefs-project/littlefs](https://github.com/littlefs-project/littlefs) - A little fail-safe filesystem designed for microcontrollers
+
+## emoji 
+
+- [sgreben/yeetgif](https://github.com/sgreben/yeetgif) - gif effects CLI. single binary, no dependencies. linux, osx, windows. #1 workplace productivity booster. #yeetgif #eggplant #golang
 
 ## emulator 
 
@@ -777,6 +788,7 @@
 
 ## golang 
 
+- [sgreben/yeetgif](https://github.com/sgreben/yeetgif) - gif effects CLI. single binary, no dependencies. linux, osx, windows. #1 workplace productivity booster. #yeetgif #eggplant #golang
 - [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
 - [JoshuaDoes/autogo](https://github.com/JoshuaDoes/autogo) - An AutoIt interpreter and runtime package written in Go
@@ -858,7 +870,6 @@
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
 - [akiraux/Akira](https://github.com/akiraux/Akira) - Native Linux App for UI and UX Design built in Vala and GTK
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
-- [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) - PlayStation 3 emulator and debugger
 
 ## haskell 
 
