@@ -1227,6 +1227,7 @@
 
 ## others 
 
+- [hgaiser/moonshine](https://github.com/hgaiser/moonshine) - Headless streaming server for Moonlight clients, written in Rust.
 - [samestep/npb](https://github.com/samestep/npb) - Nixpkgs build outcome diff CLI
 - [psyclyx/nixboy](https://github.com/psyclyx/nixboy) - Game Boy emulator in nix
 - [manic-systems/evix](https://github.com/manic-systems/evix) - Library-first async Nix evaluation engine for fast cached eval distribution
@@ -1361,7 +1362,7 @@
 - [PapenfussLab/bionix](https://github.com/PapenfussLab/bionix) - Functional highly reproducible bioinformatics pipelines
 - [igrigorik/gharchive.org](https://github.com/igrigorik/gharchive.org) - GH Archive is a project to record the public GitHub timeline, archive it, and make it easily accessible for further analysis.
 - [infinisil/nixus](https://github.com/infinisil/nixus) - Experimental deployment tool supporting multi-host abstractions
-- [will-moss/erin](https://github.com/will-moss/erin) - Self-hostable TikTok feed for your clips. Make a TikTok feed with your own videos
+- [will-moss/erin](https://github.com/will-moss/erin) - Self-hostable TikTok feed for your media. Make a TikTok feed with your own images and videos
 - [NixOS/nixos-hardware](https://github.com/NixOS/nixos-hardware) - A collection of NixOS modules covering hardware quirks.
 - [ryan4yin/nixos-rk3588](https://github.com/ryan4yin/nixos-rk3588) - Minimal NixOS running on RK3588/RK3588s based SBC(Orange Pi 5 Plus, Orange Pi 5, Rock 5A, etc)
 - [snowfallorg/nix-software-center](https://github.com/snowfallorg/nix-software-center) - A simple gtk4/libadwaita software center to easily install and manage nix packages
