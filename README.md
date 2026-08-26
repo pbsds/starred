@@ -398,7 +398,7 @@
 - [nralbrecht/pinned-tab-fix](https://github.com/nralbrecht/pinned-tab-fix) - This Firefox add-on moves new tabs opened from a pinned tab to the right end of the tab bar
 - [SVG-Edit/svgedit](https://github.com/SVG-Edit/svgedit) - Powerful SVG-Editor for your browser
 - [davidmerfield/Typeset](https://github.com/davidmerfield/Typeset) - An HTML pre-proces­sor for web ty­pog­ra­phy
-- [will-moss/erin](https://github.com/will-moss/erin) - Self-hostable TikTok feed for your clips. Make a TikTok feed with your own videos
+- [will-moss/erin](https://github.com/will-moss/erin) - Self-hostable TikTok feed for your media. Make a TikTok feed with your own images and videos
 - [OrionReed/dom3d](https://github.com/OrionReed/dom3d) - Browser extension to view and debug the DOM in 3D space.
 - [ktock/vscode-container-wasm](https://github.com/ktock/vscode-container-wasm) - 
 - [BladeTransformerLLC/gauzilla](https://github.com/BladeTransformerLLC/gauzilla) - Gauzilla: a 3D Gaussian Splatting renderer written in Rust for WebAssembly with lock-free multithreading
@@ -838,6 +838,7 @@
 
 ## Rust 
 
+- [hgaiser/moonshine](https://github.com/hgaiser/moonshine) - Headless streaming server for Moonlight clients, written in Rust.
 - [samestep/npb](https://github.com/samestep/npb) - Nixpkgs build outcome diff CLI
 - [manic-systems/evix](https://github.com/manic-systems/evix) - Library-first async Nix evaluation engine for fast cached eval distribution
 - [nasa/spacewasm](https://github.com/nasa/spacewasm) - A flight-compliant WebAssembly interpreter.
