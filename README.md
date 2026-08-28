@@ -304,7 +304,7 @@
 - [antonmedv/gitmal](https://github.com/antonmedv/gitmal) - A static page generator for repos
 - [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
 - [numtide/nix-auth](https://github.com/numtide/nix-auth) - Nix access-token management tool
-- [unmojang/drasl](https://github.com/unmojang/drasl) - Yggdrasil-compatible API server for Minecraft
+- [unmojang/drasl](https://github.com/unmojang/drasl) - Alternative API server for Minecraft
 - [multivac61/fod-oracle](https://github.com/multivac61/fod-oracle) - 
 - [numtide/nar-serve](https://github.com/numtide/nar-serve) - Unpack and serve NAR file content on the fly
 - [aksiksi/compose2nix](https://github.com/aksiksi/compose2nix) - Generate a NixOS config from a Docker Compose project.
