@@ -164,7 +164,7 @@
 
 - [TwilitRealm/dusklight](https://github.com/TwilitRealm/dusklight) - Dusklight brings a classic adventure to PC and mobile platforms with a variety of fixes and improvements.
 - [Hydr8gon/3Beans](https://github.com/Hydr8gon/3Beans) - A low-level 3DS emulator
-- [openXC7/nextpnr-xilinx](https://github.com/openXC7/nextpnr-xilinx) - Experimental flows using nextpnr for Xilinx devices
+- [openXC7/nextpnr-xilinx](https://github.com/openXC7/nextpnr-xilinx) - Archived - development continues at openXC7/nextpnr
 - [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 - [WeiPhil/nbvh](https://github.com/WeiPhil/nbvh) - Source Code for "N-BVH: Neural ray queries with bounding volume hierarchies" (SIGGRAPH 2024)
 - [google/filament](https://github.com/google/filament) - Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2
@@ -664,6 +664,7 @@
 
 ## Python 
 
+- [JulianKemmerer/PipelineC](https://github.com/JulianKemmerer/PipelineC) - PypelineC: A hardware description language (HDL) adding high level synthesis(HLS)-like automatic pipelining as a language construct/compiler feature.
 - [facebookresearch/vggt](https://github.com/facebookresearch/vggt) - [CVPR 2025 Best Paper Award] VGGT: Visual Geometry Grounded Transformer
 - [nix-community/lila](https://github.com/nix-community/lila) - Nix hash collection software, to aggregate build reports from several builders  [maintainer=@JulienMalka, @raboof]
 - [sshuttle/sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
@@ -840,7 +841,7 @@
 ## Rust 
 
 - [hgaiser/moonshine](https://github.com/hgaiser/moonshine) - Headless streaming server for Moonlight clients, written in Rust.
-- [samestep/npb](https://github.com/samestep/npb) - Nixpkgs build outcome diff CLI
+- [samestep/npb](https://github.com/samestep/npb) - Nixpkgs build outcome diff CLI.
 - [manic-systems/evix](https://github.com/manic-systems/evix) - Library-first async Nix evaluation engine for fast cached eval distribution
 - [nasa/spacewasm](https://github.com/nasa/spacewasm) - A flight-compliant WebAssembly interpreter.
 - [asayers/kdl2html](https://github.com/asayers/kdl2html) - Write your HTML in KDL, with markdown, variable interpolation, and includes
