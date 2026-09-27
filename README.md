@@ -494,6 +494,7 @@
 
 ## Nix 
 
+- [applicative-systems/hydra-dashboard](https://github.com/applicative-systems/hydra-dashboard) - Observability for Hydra v1
 - [psyclyx/nixboy](https://github.com/psyclyx/nixboy) - Game Boy emulator in nix
 - [fzakaria/guixpkgs](https://github.com/fzakaria/guixpkgs) - Guix Packages collection built via Nix
 - [figsoda/drowse](https://github.com/figsoda/drowse) - Nix dynamic derivations made easy
