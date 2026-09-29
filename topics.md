@@ -1039,6 +1039,7 @@
 
 - [nikstur/userborn](https://github.com/nikstur/userborn) - Declaratively bear (manage) Linux users and groups
 - [casualsnek/waydroid_script](https://github.com/casualsnek/waydroid_script) - Python Script to  add OpenGapps, Magisk, libhoudini translation library and libndk translation library to waydroid !
+- [WayDroid-ATV/waydroid-androidtv-builds](https://github.com/WayDroid-ATV/waydroid-androidtv-builds) - Waydroid Android TV builds with built-in VA-API/GApps/Widevine L3 support
 - [snugnug/hjem-rum](https://github.com/snugnug/hjem-rum) - A module collection for Hjem. [Maintainers=@GetPsyched]
 - [VHSgunzo/runimage](https://github.com/VHSgunzo/runimage) - Portable single-file linux container
 - [b3nj5m1n/xdg-ninja](https://github.com/b3nj5m1n/xdg-ninja) - A shell script which checks your $HOME for unwanted files and directories.
@@ -1622,7 +1623,7 @@
 - [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs
 - [virt-manager/virt-manager](https://github.com/virt-manager/virt-manager) - Desktop tool for managing virtual machines via libvirt
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
-- [hydromatic/morel](https://github.com/hydromatic/morel) - A functional query language
+- [hydromatic/morel](https://github.com/hydromatic/morel) - A functional query language, implemented in Java
 - [Ravenslofty/yosys-cookbook](https://github.com/Ravenslofty/yosys-cookbook) - User-friendly explanation of Yosys options
 - [Ravenslofty/mistral](https://github.com/Ravenslofty/mistral) - Cyclone V bitstream reverse-engineering project
 - [andrewchambers/minias](https://github.com/andrewchambers/minias) - A mini x86-64 assembler.
