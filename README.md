@@ -845,7 +845,7 @@
 - [manic-systems/evix](https://github.com/manic-systems/evix) - Library-first async Nix evaluation engine for fast cached eval distribution
 - [nasa/spacewasm](https://github.com/nasa/spacewasm) - A flight-compliant WebAssembly interpreter.
 - [asayers/kdl2html](https://github.com/asayers/kdl2html) - Write your HTML in KDL, with markdown, variable interpolation, and includes
-- [LordGrimmauld/run0-sudo-shim](https://github.com/LordGrimmauld/run0-sudo-shim) - An imitation of sudo, using run0 internally
+- [GrimmTheShrimp/run0-sudo-shim](https://github.com/GrimmTheShrimp/run0-sudo-shim) - An imitation of sudo, using run0 internally
 - [trofi/nix-olde](https://github.com/trofi/nix-olde) - Show details about outdated packages in your NixOS system.
 - [feel-co/ndg](https://github.com/feel-co/ndg) - NDG: Not a Docs Generator
 - [Mic92/fast-nix-gc](https://github.com/Mic92/fast-nix-gc) - A faster nix-collect-garbage.
