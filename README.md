@@ -149,6 +149,7 @@
 
 ## C# # 
 
+- [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - WinUI app for building smaller, customized Windows 11 images.
 - [aras-p/UnityGaussianSplatting](https://github.com/aras-p/UnityGaussianSplatting) - Toy Gaussian Splatting visualization in Unity
 - [openutau/OpenUtau](https://github.com/openutau/OpenUtau) - Open singing synthesis platform / Open source UTAU successor
 - [mxgmn/WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) - Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics
@@ -659,7 +660,6 @@
 
 ## PowerShell 
 
-- [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image.
 - [nrkno/brainfuck_programmer](https://github.com/nrkno/brainfuck_programmer) - Her ligger kode fra innovasjonsdagene i september 2021 hvor vi tenkte stort og prøvde å lage en algoritme som kunne programmere i Brainfuck.
 
 ## Python 
