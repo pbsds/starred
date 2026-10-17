@@ -1268,7 +1268,7 @@
 - [WeiPhil/nbvh](https://github.com/WeiPhil/nbvh) - Source Code for "N-BVH: Neural ray queries with bounding volume hierarchies" (SIGGRAPH 2024)
 - [figsoda/drowse](https://github.com/figsoda/drowse) - Nix dynamic derivations made easy
 - [OpenMoonRay/openmoonray](https://github.com/OpenMoonRay/openmoonray) - MoonRay is an open-source, award-winning, state-of-the-art production path tracing renderer, initially developed at DreamWorks and an active member project of the Academy Software Foundation.
-- [FOSDEM/video-fazantix](https://github.com/FOSDEM/video-fazantix) - Fazant fazant fazant videomixer
+- [FOSDEM/video-fazantix](https://github.com/FOSDEM/video-fazantix) - This repository has been migrated to https://git.fosdem.org/video/fazantix
 - [numtide/disko-zfs](https://github.com/numtide/disko-zfs) - Manage your ZFS datasets declaratively
 - [AndreRH/hangover](https://github.com/AndreRH/hangover) - Hangover runs Win64 and Win32 applications on arm64 Linux
 - [Mic92/nix-diff-rs](https://github.com/Mic92/nix-diff-rs) - A Rust port of nix-diff, a tool to explain why two Nix derivations differ.
@@ -1519,7 +1519,7 @@
 - [numtide/system-manager](https://github.com/numtide/system-manager) - Manage system config using nix on any distro
 - [D4ndellion/nixos-matrix-modules](https://github.com/D4ndellion/nixos-matrix-modules) - NixOS modules for matrix related services
 - [nixified-ai/flake](https://github.com/nixified-ai/flake) - A Nix flake for many AI projects
-- [FOSDEM/video](https://github.com/FOSDEM/video) - 
+- [FOSDEM/video](https://github.com/FOSDEM/video) - No longer being updated, please see the README for pointers.
 - [jbhuang0604/awesome-tips](https://github.com/jbhuang0604/awesome-tips) - 
 - [jeanfeydy/geomloss](https://github.com/jeanfeydy/geomloss) - Geometric loss functions between point clouds, images and volumes
 - [getkeops/keops](https://github.com/getkeops/keops) - KErnel OPerationS, on CPUs and GPUs, with autodiff and without memory overflows
