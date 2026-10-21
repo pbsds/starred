@@ -296,6 +296,7 @@
 
 ## Go 
 
+- [jcalabro/gloom](https://github.com/jcalabro/gloom) - High Performance Bloom Filters for Go
 - [sgreben/yeetgif](https://github.com/sgreben/yeetgif) - gif effects CLI. single binary, no dependencies. linux, osx, windows. #1 workplace productivity booster. #yeetgif #eggplant #golang
 - [adisbladis/nix-cache-beacon](https://github.com/adisbladis/nix-cache-beacon) - mDNS discovery for Nix binary caches
 - [adisbladis/deltanar](https://github.com/adisbladis/deltanar) - Delta based deployment tool for Nix
@@ -841,6 +842,7 @@
 
 ## Rust 
 
+- [marcusramberg/springchick](https://github.com/marcusramberg/springchick) - A Wayland compositor for Linux phones, written in rust with Smithay and Skia
 - [Kranzes/nix-store-csi](https://github.com/Kranzes/nix-store-csi) - Serves Nix store closures from binary caches to Kubernetes pods as CSI volumes
 - [hgaiser/moonshine](https://github.com/hgaiser/moonshine) - Headless streaming server for Moonlight clients, written in Rust.
 - [samestep/npb](https://github.com/samestep/npb) - Nixpkgs build outcome diff CLI.
