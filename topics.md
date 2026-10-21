@@ -782,6 +782,7 @@
 
 ## go 
 
+- [jcalabro/gloom](https://github.com/jcalabro/gloom) - High Performance Bloom Filters for Go
 - [antonmedv/gitmal](https://github.com/antonmedv/gitmal) - A static page generator for repos
 - [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
@@ -801,6 +802,7 @@
 
 ## golang 
 
+- [jcalabro/gloom](https://github.com/jcalabro/gloom) - High Performance Bloom Filters for Go
 - [sgreben/yeetgif](https://github.com/sgreben/yeetgif) - gif effects CLI. single binary, no dependencies. linux, osx, windows. #1 workplace productivity booster. #yeetgif #eggplant #golang
 - [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications.
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
@@ -1040,6 +1042,7 @@
 
 ## linux 
 
+- [marcusramberg/springchick](https://github.com/marcusramberg/springchick) - A Wayland compositor for Linux phones, written in rust with Smithay and Skia
 - [n0-computer/awesome-iroh](https://github.com/n0-computer/awesome-iroh) - Curated list of awesome stuff built on & with iroh
 - [nikstur/userborn](https://github.com/nikstur/userborn) - Declaratively bear (manage) Linux users and groups
 - [casualsnek/waydroid_script](https://github.com/casualsnek/waydroid_script) - Python Script to  add OpenGapps, Magisk, libhoudini translation library and libndk translation library to waydroid !
@@ -1132,6 +1135,7 @@
 
 ## mobile 
 
+- [marcusramberg/springchick](https://github.com/marcusramberg/springchick) - A Wayland compositor for Linux phones, written in rust with Smithay and Skia
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for more than 6M travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community
 
 ## music 
@@ -1949,6 +1953,7 @@
 
 ## rust 
 
+- [marcusramberg/springchick](https://github.com/marcusramberg/springchick) - A Wayland compositor for Linux phones, written in rust with Smithay and Skia
 - [n0-computer/awesome-iroh](https://github.com/n0-computer/awesome-iroh) - Curated list of awesome stuff built on & with iroh
 - [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue) - A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
 - [oiwn/tarts](https://github.com/oiwn/tarts) - Screen savers and visual effects for your terminal!
