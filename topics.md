@@ -1974,7 +1974,7 @@
 - [squidowl/halloy](https://github.com/squidowl/halloy) - IRC application written in Rust
 - [nix-community/lanzaboote](https://github.com/nix-community/lanzaboote) - Secure Boot & Measured Boot for NixOS [maintainers=@blitz @raitobezarius @nikstur]
 - [nix-community/fenix](https://github.com/nix-community/fenix) - Rust toolchains and rust-analyzer nightly for Nix [maintainers=@figsoda, @eureka-cpu]
-- [nix-community/rnix-parser](https://github.com/nix-community/rnix-parser) - A Nix parser written in Rust [maintainer=@oberblastmeister]
+- [NixOS/rnix-parser](https://github.com/NixOS/rnix-parser) - A Nix parser written in Rust [maintainer=@philiptaron]
 - [zlfn/rust-gb](https://github.com/zlfn/rust-gb) - Write Game Boy games in Rust
 - [pvolok/dekit](https://github.com/pvolok/dekit) - Process manager for dev and prod
 - [alexozer/flitter](https://github.com/alexozer/flitter) - A LiveSplit-inspired speedrunning split timer for Linux/macOS terminal. Supports global hotkeys.
