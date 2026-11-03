@@ -150,7 +150,7 @@
 ## C# # 
 
 - [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - WinUI app for building smaller, customized Windows 11 images.
-- [aras-p/UnityGaussianSplatting](https://github.com/aras-p/UnityGaussianSplatting) - Toy Gaussian Splatting visualization in Unity
+- [aras-p/UnityGaussianSplatting](https://github.com/aras-p/UnityGaussianSplatting) - Gaussian Splatting visualization for Unity
 - [openutau/OpenUtau](https://github.com/openutau/OpenUtau) - Open singing synthesis platform / Open source UTAU successor
 - [mxgmn/WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) - Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics
 - [geteduroam/windows-app](https://github.com/geteduroam/windows-app) - Windows application for geteduroam
@@ -168,7 +168,7 @@
 - [openXC7/nextpnr-xilinx](https://github.com/openXC7/nextpnr-xilinx) - Archived - development continues at openXC7/nextpnr
 - [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe) - Cross-platform, customizable ML solutions for live and streaming media.
 - [WeiPhil/nbvh](https://github.com/WeiPhil/nbvh) - Source Code for "N-BVH: Neural ray queries with bounding volume hierarchies" (SIGGRAPH 2024)
-- [google/filament](https://github.com/google/filament) - Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2
+- [google/filament](https://github.com/google/filament) - Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, WebGPU, and WebGL2
 - [Mic92/wrap-buddy](https://github.com/Mic92/wrap-buddy) - Patch ELF binaries with stub loader for NixOS compatibility
 - [DISTRHO/Cardinal](https://github.com/DISTRHO/Cardinal) - Virtual modular synthesizer plugin
 - [lisanna-dettwyler/nix-scheduler-hook](https://github.com/lisanna-dettwyler/nix-scheduler-hook) - Nix build hook that forwards builds to job schedulers.
