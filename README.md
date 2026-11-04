@@ -215,7 +215,7 @@
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [cemu-project/Cemu](https://github.com/cemu-project/Cemu) - Cemu - Wii U emulator
 - [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
-- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for more than 6M travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community
+- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for more than 12M travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the communit
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [miclav/mapcrafter](https://github.com/miclav/mapcrafter) - High Performance Minecraft Map Renderer.
 - [rr-debugger/rr](https://github.com/rr-debugger/rr) - Record and Replay Framework
@@ -503,7 +503,7 @@
 - [nix-community/queued-build-hook](https://github.com/nix-community/queued-build-hook) - Queue and retry Nix post-build-hook [maintainer=@jfroche]
 - [garnix-io/yensid](https://github.com/garnix-io/yensid) - A proxy for better Nix remote builds
 - [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) - NixOS on WSL [maintainer=@nzbr]
-- [nix-community/nixpkgs-swh](https://github.com/nix-community/nixpkgs-swh) - Send nixpkgs tarballs to Software Heritage [maintainer=@nlewo]
+- [NixOS/nixpkgs-swh](https://github.com/NixOS/nixpkgs-swh) - Send nixpkgs tarballs to Software Heritage [maintainer=@nlewo]
 - [clan-lol/nix-select](https://github.com/clan-lol/nix-select) - 
 - [nix-community/steam-fetcher](https://github.com/nix-community/steam-fetcher) - A Nix fetcher for Steam apps
 - [oddlama/nix-fingerprint](https://github.com/oddlama/nix-fingerprint) - Fingerprints the underlying system by only using primitives available in pure evaluation mode
@@ -842,6 +842,7 @@
 
 ## Rust 
 
+- [numtide/maintainermode](https://github.com/numtide/maintainermode) - Review a nixpkgs pull request, get yours on the list
 - [marcusramberg/springchick](https://github.com/marcusramberg/springchick) - A Wayland compositor for Linux phones, written in rust with Smithay and Skia
 - [Kranzes/nix-store-csi](https://github.com/Kranzes/nix-store-csi) - Serves Nix store closures from binary caches to Kubernetes pods as CSI volumes
 - [hgaiser/moonshine](https://github.com/hgaiser/moonshine) - Headless streaming server for Moonlight clients, written in Rust.
