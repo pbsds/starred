@@ -190,6 +190,7 @@
 - [virtual-reality](#virtual-reality)
 - [visualization](#visualization)
 - [vpn](#vpn)
+- [vscode](#vscode)
 - [vuejs](#vuejs)
 - [web](#web)
 - [webapp](#webapp)
@@ -1339,7 +1340,7 @@
 - [hackeriet/coldnorth.org](https://github.com/hackeriet/coldnorth.org) - 
 - [unmojang/drasl](https://github.com/unmojang/drasl) - Alternative API server for Minecraft
 - [isabelroses/lix-diff](https://github.com/isabelroses/lix-diff) - 
-- [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) - Create a 130GB Nix ️store in GitHub runners ❄️ Multi-disk BTRFS pool for /nix 💪 Brutally purges unnecessary software 🪓 Dynamically grows the Nix store 📈
+- [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix) - Create a Nix ️store of up to 129GiB in GitHub runners ❄️ Multi-disk BTRFS pool for /nix 💪 Brutally purges unnecessary software 🪓 Dynamically grows the Nix store 📈
 - [lf-/gridlock](https://github.com/lf-/gridlock) - Nix compatible lockfile manager, without Nix
 - [karpathy/micrograd](https://github.com/karpathy/micrograd) - A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API
 - [ubc-vision/nfd_code](https://github.com/ubc-vision/nfd_code) - 
@@ -1383,7 +1384,6 @@
 - [NuschtOS/dn42.nix](https://github.com/NuschtOS/dn42.nix) - 
 - [einetuer/nix-easyroam](https://github.com/einetuer/nix-easyroam) - A NixOS Module for setting up easyroam
 - [mrjones2014/opnix](https://github.com/mrjones2014/opnix) - ❄️ Native secret management for NixOS using 1Password.
-- [tekumara/typos-lsp](https://github.com/tekumara/typos-lsp) - Source code spell checker for Visual Studio Code, Neovim and other LSP clients
 - [nix-community/buildbot-nix](https://github.com/nix-community/buildbot-nix) - A nixos module to make buildbot a proper Nix-CI [maintainer=@Mic92,@MagicRB]
 - [Artturin/nix-difflog](https://github.com/Artturin/nix-difflog) - Diff nix build logs with less clutter
 - [pyproject-nix/uv2nix](https://github.com/pyproject-nix/uv2nix) - Uv2nix - Ingest uv workspaces using Nix [maintainer=@adisbladis]
@@ -1531,7 +1531,6 @@
 - [ajalt/fuckitpy](https://github.com/ajalt/fuckitpy) - The Python error steamroller.
 - [zhaofengli/attic](https://github.com/zhaofengli/attic) - Multi-tenant Nix Binary Cache
 - [considerate/nixos-odroidhc4](https://github.com/considerate/nixos-odroidhc4) - NixOS configuration for the ODROID HC4 microcomputer
-- [nix-community/nix-vscode-extensions](https://github.com/nix-community/nix-vscode-extensions) - Nix expressions for VS Code Marketplace and Open VSX extensions [maintainers=@deemp, @ameertaweel]
 - [arturs-berzins/boundary_sensitivity](https://github.com/arturs-berzins/boundary_sensitivity) - Interactive demo of semantic editing of 3D shapes.
 - [HigherOrderCO/HVM1](https://github.com/HigherOrderCO/HVM1) - HVM1 (2022): a massively parallel, optimal functional runtime in Rust
 - [bjorne/git-pa-svenska](https://github.com/bjorne/git-pa-svenska) - Git på svenska
@@ -1620,7 +1619,6 @@
 - [akberg/procedural_planets](https://github.com/akberg/procedural_planets) - 
 - [steffenhaug/plox](https://github.com/steffenhaug/plox) - 
 - [jaames/playnote-studio](https://github.com/jaames/playnote-studio) - An unofficial Flipnote Studio animation player for the Playdate console!
-- [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) - Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
 - [laekov/panleaf](https://github.com/laekov/panleaf) - Write pandoc markdown in OverLeaf
 - [kinnay/LDN](https://github.com/kinnay/LDN) - Python package for local wireless communication with a Nintendo Switch
 - [FlyingGiraffe/vnn](https://github.com/FlyingGiraffe/vnn) - Vector Neurons: A General Framework for SO(3)-Equivariant Networks
@@ -2247,6 +2245,13 @@
 
 - [nix-media-server/nixarr](https://github.com/nix-media-server/nixarr) - The Media Server NixOS Module
 - [freepn/fpnd](https://github.com/freepn/fpnd) - Python package for freepn network daemon
+
+## vscode 
+
+- [tekumara/typos-lsp](https://github.com/tekumara/typos-lsp) - Source code spell checker for Visual Studio Code, Neovim and other LSP clients
+- [nix-community/nix-vscode-extensions](https://github.com/nix-community/nix-vscode-extensions) - Nix expressions for VS Code Marketplace and Open VSX extensions [maintainers=@deemp, @ameertaweel]
+- [gitpod-io/openvscode-server](https://github.com/gitpod-io/openvscode-server) - Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere.
+- [mjswensen/themer](https://github.com/mjswensen/themer) - 🎨 themer takes a set of colors and outputs themes for your apps (editors, terminals, wallpapers, and more).
 
 ## vuejs 
 
