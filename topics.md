@@ -68,6 +68,7 @@
 - [esp32](#esp32)
 - [fastapi](#fastapi)
 - [firefox](#firefox)
+- [flipperzero](#flipperzero)
 - [flutter](#flutter)
 - [flutter-apps](#flutter-apps)
 - [framework](#framework)
@@ -699,6 +700,10 @@
 - [DandelionSprout/adfilt](https://github.com/DandelionSprout/adfilt) - The place where I, DandelionSprout, store my web filter lists for countless topics, including my Nordic adblock list. As simple as that, really.
 - [SimonBrazell/privacy-redirect](https://github.com/SimonBrazell/privacy-redirect) - A simple web extension that redirects Twitter, YouTube, Instagram & Google Maps requests to privacy friendly alternatives.
 - [piroor/treestyletab](https://github.com/piroor/treestyletab) - Tree Style Tab, Show tabs like a tree.
+
+## flipperzero 
+
+- [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) - Flipper Zero firmware source code
 
 ## flutter 
 
@@ -1605,7 +1610,6 @@
 - [miclav/mapcrafter](https://github.com/miclav/mapcrafter) - High Performance Minecraft Map Renderer.
 - [jwilk/python-syntax-errors](https://github.com/jwilk/python-syntax-errors) - no-op statements syntactically valid only since Python X.Y
 - [amoffat/supertag](https://github.com/amoffat/supertag) - A tag-based filesystem
-- [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) - Flipper Zero firmware source code
 - [bartvbl/libShapeDescriptor](https://github.com/bartvbl/libShapeDescriptor) - A library containing GPU implementations of a number of 3D shape descriptors, along with some useful utilities.
 - [everythingishacked/Pants](https://github.com/everythingishacked/Pants) - A video filter to add pants or blur out your lower half on Zoom calls when you forget to wear pants
 - [NVIDIA/open-gpu-kernel-modules](https://github.com/NVIDIA/open-gpu-kernel-modules) - NVIDIA Linux open GPU kernel module source
