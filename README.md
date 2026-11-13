@@ -1077,7 +1077,7 @@
 - [Xe/praise-me](https://github.com/Xe/praise-me) - Praise my GitHub profile!
 - [bendlang/bend](https://github.com/bendlang/bend) - Bend 2: a fast language that blocks AI mistakes via proof. Install: curl -fsSL https://bend-lang.com/install.sh | sh
 - [andersrodem/konsulent-karma](https://github.com/andersrodem/konsulent-karma) - Et register over konsulentselskaper som har kansellert internships og fulltidsstillinger
-- [electric-sql/pglite](https://github.com/electric-sql/pglite) - Embeddable Postgres with real-time, reactive bindings.
+- [neondatabase/electric-pglite](https://github.com/neondatabase/electric-pglite) - Embeddable Postgres with real-time, reactive bindings.
 - [GRA0007/crab.fit](https://github.com/GRA0007/crab.fit) - Enter your availability to find a time that works for everyone!
 - [qwell/bsky-exploits](https://github.com/qwell/bsky-exploits) - Bluesky / AT Protocol vulnerability disclosures and exploit framework
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
