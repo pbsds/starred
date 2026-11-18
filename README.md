@@ -1009,6 +1009,7 @@
 
 ## Shell 
 
+- [YosysHQ/oss-cad-suite-build](https://github.com/YosysHQ/oss-cad-suite-build) - Multi-platform nightly builds of open source digital design and verification tools
 - [jonhermansen/darnix](https://github.com/jonhermansen/darnix) - Darwin system built with Nix
 - [VHSgunzo/runimage](https://github.com/VHSgunzo/runimage) - Portable single-file linux container
 - [conda-forge/miniforge](https://github.com/conda-forge/miniforge) - A conda-forge distribution.
