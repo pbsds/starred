@@ -1268,6 +1268,7 @@
 
 ## others 
 
+- [YosysHQ/oss-cad-suite-build](https://github.com/YosysHQ/oss-cad-suite-build) - Multi-platform nightly builds of open source digital design and verification tools
 - [numtide/maintainermode](https://github.com/numtide/maintainermode) - Review a nixpkgs pull request, get yours on the list
 - [Kranzes/nix-store-csi](https://github.com/Kranzes/nix-store-csi) - Serves Nix store closures from binary caches to Kubernetes pods as CSI volumes
 - [applicative-systems/hydra-dashboard](https://github.com/applicative-systems/hydra-dashboard) - Observability for Hydra v1
