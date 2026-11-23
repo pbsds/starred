@@ -665,7 +665,7 @@
 ## embedded 
 
 - [lmarzen/esp32-weather-epd](https://github.com/lmarzen/esp32-weather-epd) - A low-power E-Paper weather display powered by an ESP32 microcontroller. Utilizes the OpenWeatherMap API.
-- [zlfn/rust-gb](https://github.com/zlfn/rust-gb) - Write Game Boy games in Rust
+- [zlfn/rust-gb](https://github.com/zlfn/rust-gb) - Write Game Boy programs in Rust
 - [pikasTech/PikaPython](https://github.com/pikasTech/PikaPython) - An ultra-lightweight Python interpreter that runs with only 4KB of RAM, zero dependencies. It is ready to use out of the box without any configuration required and easy to extend with C. Similar proje
 - [littlefs-project/littlefs](https://github.com/littlefs-project/littlefs) - A little fail-safe filesystem designed for microcontrollers
 
@@ -737,7 +737,7 @@
 
 ## game-development 
 
-- [zlfn/rust-gb](https://github.com/zlfn/rust-gb) - Write Game Boy games in Rust
+- [zlfn/rust-gb](https://github.com/zlfn/rust-gb) - Write Game Boy programs in Rust
 - [elishacloud/dxwrapper](https://github.com/elishacloud/dxwrapper) - Fixes compatibility issues with older games running on Windows 10/11 by wrapping DirectX dlls.  Also allows loading custom libraries with the file extension .asi into game processes.
 - [EduApps-CDG/OpenDX](https://github.com/EduApps-CDG/OpenDX) - Bring DirectX to Linux! This is a Open Source DirectX implementation for Linux, providing native support for DirectX-based applications and games, without relying on Wine's Windows compatibility layer
 - [gbdev/awesome-gbdev](https://github.com/gbdev/awesome-gbdev) - A curated list of Game Boy development resources such as tools, docs, emulators, related projects and open-source ROMs.
@@ -1989,7 +1989,7 @@
 - [nix-community/lanzaboote](https://github.com/nix-community/lanzaboote) - Secure Boot & Measured Boot for NixOS [maintainers=@blitz @raitobezarius @nikstur]
 - [nix-community/fenix](https://github.com/nix-community/fenix) - Rust toolchains and rust-analyzer nightly for Nix [maintainers=@figsoda, @eureka-cpu]
 - [NixOS/rnix-parser](https://github.com/NixOS/rnix-parser) - A Nix parser written in Rust [maintainer=@philiptaron]
-- [zlfn/rust-gb](https://github.com/zlfn/rust-gb) - Write Game Boy games in Rust
+- [zlfn/rust-gb](https://github.com/zlfn/rust-gb) - Write Game Boy programs in Rust
 - [pvolok/dekit](https://github.com/pvolok/dekit) - Process manager for dev and prod
 - [alexozer/flitter](https://github.com/alexozer/flitter) - A LiveSplit-inspired speedrunning split timer for Linux/macOS terminal. Supports global hotkeys.
 - [papigers/rutty](https://github.com/papigers/rutty) - RuTTY - Rust TTY Server
